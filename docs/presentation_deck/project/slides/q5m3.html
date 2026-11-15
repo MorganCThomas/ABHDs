@@ -1,0 +1,12 @@
+<section id="q5m3" class="light">
+<p class="tag pin m">Q5 · METHOD</p>
+<h2>Check label support and limit neighbour similarity</h2>
+<div class="body"><div class="cards">
+<div class="card"><p class="k">1 Label support</p><p>Each UniProt reaction classed by its evidence: experimental, curator, similarity or rule</p></div>
+<div class="card"><p class="k">2 Identity</p><p>Maximum neighbour identity of 100, 40, 35, 30 or 25% (global alignment on trimmed domains)</p></div>
+<div class="card"><p class="k">3 Statistic</p><p>Accuracy minus guessing the most common class; bootstrap over paralog groups, 95%</p></div>
+</div></div>
+<p class="src">Source: scripts/24_label_provenance.py; scripts/25_function_decay.py</p>
+<p class="pg"></p>
+<aside>Pairwise identity is low across the family (median 0.25; only 10 percent of pairs exceed 30 percent and 1.7 percent exceed 40 percent), so cutoffs above 40 percent change little and the informative range is about 25 to 40 percent. Pools at successive cutoffs are nested, so the points are dependent. A cutoff of 20 percent keeps only 38 of 80 queries and is not shown.</aside>
+</section>

@@ -1,0 +1,13 @@
+<section id="q5m1" class="light">
+<p class="tag pin m">Q5 · METHOD</p>
+<h2>Hide each enzyme class and predict it from the nearest neighbour</h2>
+<div class="body"><div class="cards">
+<div class="card"><p class="k">1 Leave one out</p><p>Predict the EC class from the nearest annotated protein</p></div>
+<div class="card"><p class="k">2 Exclude family</p><p>Skip neighbours that share a FunFam or a paralog name stem</p></div>
+<div class="card"><p class="k">3 Baselines</p><p>Always guess the most common class (59%); pick a random neighbour (40%)</p></div>
+</div>
+<p class="note">Incomplete ECs such as 3.-.- are not classes and are dropped.</p></div>
+<p class="src">Source: scripts/14_function_inference.py</p>
+<p class="pg"></p>
+<aside>EC level 3 (for example 3.1.1) is used; 80 proteins have a complete label. Confidence intervals are Wilson intervals on the one-nearest-neighbour accuracy.</aside>
+</section>

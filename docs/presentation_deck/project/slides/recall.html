@@ -1,0 +1,13 @@
+<section id="recall" class="light">
+<p class="tag pin">Q2 · RESULT</p>
+<h2>The turn recovers all known nucleophiles; a sequence-motif search misses some</h2>
+<div class="body"><div class="cards" style="align-items:stretch">
+<div class="card"><p class="num frac">31 / 31</p><h3>Elbow rule</h3><p>annotated nucleophiles found</p></div>
+<div class="card"><p class="num blue frac">26 / 31</p><h3>Sequence motif</h3><p>misses EPHX1–4 and PPT2</p></div>
+<div class="card"><p class="num">1</p><h3>Call per protein</h3><p>the motif flags about three</p></div>
+</div>
+<p class="note"><b>Caveat:</b> the rule was tuned on known examples, so 31 / 31 is training recall. Only 7 of the 31 have direct experimental evidence.</p></div>
+<p class="src">Source: benchmark.csv; held-out recalibration table</p>
+<p class="pg"></p>
+<aside>The regex has no Asp, so the fairer comparison is on Ser/Cys/Thr gold residues: 27/27 versus 26/27. The real gain is specificity: 95 of 96 genes with an S/C/T/D elbow have exactly one such residue (PREP has two). A held-out recalibration test was uninformative because the gold residues sit well inside every window. A non-ABH negative set is still to do.</aside>
+</section>

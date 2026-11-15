@@ -1,0 +1,6 @@
+view_a,view_b,note
+sequence,funfam,dependent by construction: FunFam is built from sequence similarity
+structure,structure_core200,dependent: same models; core is centred on the elbow
+ec,funfam,partly dependent: EC assigned by sequence similarity; FunFam functional families use EC-annotated members
+ec,sequence,partly dependent: EC propagated by sequence similarity
+structure,sequence,"independent measurement, shared evolutionary signal"

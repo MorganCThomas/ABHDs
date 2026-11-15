@@ -1,0 +1,64 @@
+section { box-sizing: border-box; font-family: Arial, Helvetica, sans-serif; counter-increment: page; }
+section.light { background: #FFFFFF; color: #1B2A41; padding: 128px 128px 160px; display: flex; flex-direction: column; gap: 40px; }
+section.dark { background: #14213D; color: #FFFFFF; padding: 128px 128px 160px; display: flex; flex-direction: column; gap: 40px; }
+section h1 { font-family: Arial, Helvetica, sans-serif; font-size: 120px; font-weight: 700; line-height: 1.05; margin: 0; }
+section h2 { font-family: Arial, Helvetica, sans-serif; font-size: 56px; font-weight: 700; line-height: 1.12; margin: 0; }
+section h3 { font-family: Arial, Helvetica, sans-serif; font-size: 40px; font-weight: 700; margin: 0; }
+.row { display: flex; gap: 64px; align-items: center; flex: 1; }
+.side { display: flex; flex-direction: column; gap: 28px; flex: 1; }
+.side p { font-size: 36px; line-height: 1.3; margin: 0; }
+.side p.lead { font-weight: 700; }
+.side p.small { font-size: 30px; color: #5B6677; }
+.dark .sub { font-size: 44px; line-height: 1.3; color: #C9D3E6; }
+.dark .meta { font-size: 30px; color: #9FB0CF; }
+.tag { font-size: 28px; font-weight: 700; letter-spacing: 2px; color: #D9731A; }
+.dark .tag { color: #F0A35E; }
+.cards { display: flex; gap: 40px; }
+.card { flex: 1; background: #F0F2F5; border-radius: 16px; padding: 40px; display: flex; flex-direction: column; gap: 16px; }
+.card .num { font-family: Arial, Helvetica, sans-serif; font-size: 144px; font-weight: 700; color: #D9731A; line-height: 1; }
+.card .num.blue { color: #2F6DA8; }
+.card p { font-size: 34px; line-height: 1.25; margin: 0; }
+.card h3 { font-size: 36px; }
+.card ul { font-size: 32px; line-height: 1.35; margin: 0; padding-left: 36px; }
+.card li { margin-bottom: 14px; }
+.steps { display: flex; gap: 24px; align-items: stretch; }
+.body { display: flex; flex-direction: column; justify-content: center; flex: 1; gap: 36px; }
+.card .num.frac { font-size: 104px; white-space: nowrap; }
+.arrow { align-self: center; }
+.step { flex: 1; background: #F0F2F5; border-radius: 16px; padding: 36px; display: flex; flex-direction: column; gap: 12px; }
+.step .big { font-family: Arial, Helvetica, sans-serif; font-size: 84px; font-weight: 700; color: #2F6DA8; line-height: 1; }
+.step p { font-size: 32px; line-height: 1.25; margin: 0; }
+.arrow { font-size: 56px; color: #D9731A; }
+.fig { object-fit: contain; border-radius: 8px; }
+.note { font-size: 34px; line-height: 1.3; margin: 0; }
+.src { position: absolute; left: 128px; bottom: 64px; width: 1400px; font-size: 24px; color: #5B6677; margin: 0; }
+.dark .src { color: #9FB0CF; }
+.pg { position: absolute; right: 128px; bottom: 64px; width: 120px; text-align: right; font-size: 24px; color: #5B6677; margin: 0; }
+.pg::after { content: counter(page); }
+.dark .pg { color: #9FB0CF; }
+table.t { font-size: 36px; width: 100%; color: #1B2A41; }
+.statement { font-family: Arial, Helvetica, sans-serif; font-size: 64px; line-height: 1.2; font-weight: 700; margin: 0; }
+.statement + .statement { margin-top: 12px; }
+.orange { color: #F0A35E; }
+.cols { display: flex; gap: 40px; }
+.col { flex: 1; border-top: 6px solid #D9731A; padding-top: 24px; display: flex; flex-direction: column; gap: 20px; }
+.col.blue { border-top-color: #2F6DA8; }
+.col.grey { border-top-color: #5B6677; }
+.col h3 { font-size: 40px; }
+.col p { font-size: 32px; line-height: 1.3; margin: 0; }
+.tag.pin { position: absolute; left: 128px; top: 72px; width: 900px; font-size: 26px; margin: 0; }
+.tag.m { color: #2F6DA8; }
+section .q { font-family: Arial, Helvetica, sans-serif; font-size: 76px; font-weight: 700; line-height: 1.1; margin: 0; }
+.ans { font-size: 40px; line-height: 1.3; color: #C9D3E6; border-left: 6px solid #F0A35E; padding-left: 32px; margin: 0; }
+.ans b { color: #FFFFFF; }
+.toc { display: grid; grid-template-columns: 1fr 1fr; gap: 28px 56px; margin-top: 16px; }
+.toc .it { display: flex; gap: 24px; align-items: flex-start; }
+.toc .n { font-family: Arial, Helvetica, sans-serif; font-size: 56px; font-weight: 700; color: #D9731A; line-height: 1; width: 56px; }
+.toc .qq { font-size: 32px; font-weight: 700; line-height: 1.2; margin: 0; }
+.toc .aa { font-size: 26px; line-height: 1.25; color: #5B6677; margin: 6px 0 0 0; }
+.card .num.sm { font-size: 88px; white-space: nowrap; }
+.card .num.xs { font-size: 64px; white-space: nowrap; }
+.card .num.xxs { font-size: 54px; white-space: nowrap; }
+.card .k { font-family: Arial, Helvetica, sans-serif; font-size: 44px; font-weight: 700; color: #2F6DA8; line-height: 1; }
+table.t th { text-align: left; }
+table.s { font-size: 30px; width: 100%; color: #1B2A41; }

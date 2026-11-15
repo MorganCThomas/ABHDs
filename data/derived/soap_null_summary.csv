@@ -1,0 +1,4 @@
+comparison,n,median,p5,p95
+elbow site vs elbow site,5995,0.0069,0.0021,0.0337
+elbow site vs random Ser CA,35970,0.034,0.0084,0.1638
+random Ser CA vs random Ser CA,53955,0.0416,0.0092,0.1621

@@ -1,0 +1,17 @@
+<section id="models" class="light">
+<p class="tag pin m">Q1 · METHOD + RESULT</p>
+<h2>Every protein gets a confident predicted structure</h2>
+<div class="body"><div class="steps">
+<div class="step"><p class="big">110</p><p>AlphaFold models fetched</p></div>
+<p class="arrow">→</p>
+<div class="step"><p class="big">110</p><p>trimmed to the hydrolase domain</p></div>
+<p class="arrow">→</p>
+<div class="step"><p class="big">95</p><p>median confidence (pLDDT) of the domains</p></div>
+<p class="arrow">→</p>
+<div class="step"><p class="big">70+</p><p>every domain above the quality cutoff</p></div>
+</div>
+<p class="note">Predicted structures stand in for experiments, so every later result is about AlphaFold models.</p></div>
+<p class="src">Source: structure_qc.csv; domain boundaries from CATH FunFam alignment headers</p>
+<p class="pg"></p>
+<aside>Domains were trimmed with CATH ranges from the FunFam alignment headers (union across FunFams); five genes without an alignment use the longest confident run. Median domain pLDDT is 94.6, minimum 70.3. Caveat to say aloud: PREP and PREPL domain spans include a beta-propeller.</aside>
+</section>

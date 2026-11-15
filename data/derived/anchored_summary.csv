@@ -1,0 +1,11 @@
+anchored,vs,spearman,n_genes
+anchor_elbow,seqid,0.475,110
+anchor_elbow,tmalign,0.276,110
+anchor_elbow,funfam,0.525,110
+anchor_elbow,triad,0.1,110
+anchor_elbow,soap,0.202,110
+anchor_cat,seqid,0.477,93
+anchor_cat,tmalign,0.456,93
+anchor_cat,funfam,0.489,93
+anchor_cat,triad,0.428,93
+anchor_cat,soap,0.075,93

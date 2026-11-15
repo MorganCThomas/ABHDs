@@ -1,0 +1,12 @@
+<section id="q2m2" class="light">
+<p class="tag pin m">Q2 · METHOD</p>
+<h2>Find the His and acid by structural proximity, then check sequence order</h2>
+<div class="body"><div class="cards">
+<div class="card"><p class="k">1 Structure</p><p>Search in 3D: a His within hydrogen-bond range of the nucleophile; an Asp or Glu within range of that His</p></div>
+<div class="card"><p class="k">2 Sequence</p><p>Among candidates, prefer sequence order nucleophile, acid, His (ABHD3: Ser220, Asp346, His375)</p></div>
+<div class="card"><p class="k">3 Name</p><p>Name each protein in reaction order (Ser-His-Asp), not sequence order; no nucleophile type at the turn = “no nucleophile”</p></div>
+</div></div>
+<p class="src">Source: src/abhd/catalytic.py (triad_and_oxyanion)</p>
+<p class="pg"></p>
+<aside>The search itself is purely structural (distances in the AlphaFold model). Sequence order is applied afterwards to rank candidate triads; every one of the 93 reported triads has the acid before the His in the sequence, although in space the acid hydrogen-bonds the His and the His contacts the nucleophile. The triad is searched on a predicted model, so side-chain placement is predicted, not observed. Categories describe the site, not activity.</aside>
+</section>

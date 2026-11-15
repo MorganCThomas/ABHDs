@@ -1,0 +1,13 @@
+<section id="q1m1" class="light">
+<p class="tag pin m">Q1 · METHOD</p>
+<h2>Merge two sources, keep one entry per gene</h2>
+<div class="body"><div class="cards">
+<div class="card"><p class="k">1 Collect</p><p>UniProt family query (2025 and 2026) plus human CATH FunFam members</p></div>
+<div class="card"><p class="k">2 Collapse</p><p>One reviewed entry per gene; other entries logged with a reason</p></div>
+<div class="card"><p class="k">3 Place</p><p>Unnamed fragments aligned to kept genes (≥ 90% identity, ≥ 80% coverage)</p></div>
+</div>
+<p class="note">Every accession gets a fate, so any drop can be traced.</p></div>
+<p class="src">Source: scripts/07_universe.py; universe_entries.csv</p>
+<p class="pg"></p>
+<aside>Reviewed (Swiss-Prot) entries with a gene name are canonical. Unreviewed entries with the same gene name are alternative entries; unnamed ones are aligned to the canonical sequences and either assigned to a gene or dropped as unplaced fragments.</aside>
+</section>

@@ -1,0 +1,2 @@
+n_gold,gold_phi_range,gold_psi_range,heldout_recall_mean,heldout_recall_min,n_genes_with_SCTD_elbow,n_genes_exactly_one,passing_residues_total,passing_residues_SCTD,passing_by_aa
+31,46..60,-130..-113,1.0,1.0,96,95,206,97,G:93;S:88;E:9;D:6;K:3;C:2;N:2;A:1;L:1;T:1

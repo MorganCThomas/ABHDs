@@ -1,0 +1,445 @@
+accession,entry_name,gene_name,reviewed,name,ec,length,in_uniprot_2025,in_uniprot_2026,in_funfam,funfam_ids,fate,assigned_gene
+Q9BV23,ABHD6_HUMAN,ABHD6,True,Monoacylglycerol lipase ABHD6 (EC 3.1.1.23) (2-arachidonoylglycerol hydrolase) (Abhydrolase domain-containing protein 6),3.1.1.23,337,True,True,True,3.40.50.1820-FF-000082,canonical,ABHD6
+Q5EB52,MEST_HUMAN,MEST,True,Mesoderm-specific transcript homolog protein (EC 3.-.-.-) (Paternally-expressed gene 1 protein),3.-.-.-,335,True,True,True,3.40.50.1820-FF-000041,canonical,MEST
+Q9NZD8,SPG21_HUMAN,SPG21,True,Maspardin (Acid cluster protein 33) (Spastic paraplegia 21 autosomal recessive Mast syndrome protein) (Spastic paraplegia 21 protein),,308,True,True,True,3.40.50.1820-FF-000040,canonical,SPG21
+Q8NFV4,ABHDB_HUMAN,ABHD11,True,sn-1-specific diacylglycerol lipase ABHD11 (EC 3.1.1.116) (Alpha/beta hydrolase domain-containing protein 11) (Abhydrolase domain-containing protein 11) (Williams-Beuren syndrome chromosomal region 21 protein),3.1.1.116,306,True,True,True,3.40.50.1820-FF-000039,canonical,ABHD11
+Q96I13,ABHD8_HUMAN,ABHD8,True,Protein ABHD8 (EC 3.-.-.-) (Alpha/beta hydrolase domain-containing protein 8) (Abhydrolase domain-containing protein 8),3.-.-.-,439,True,True,True,3.40.50.1820-FF-000017,canonical,ABHD8
+Q9NUJ1,ABHDA_HUMAN,ABHD10,True,"Palmitoyl-protein thioesterase ABHD10, mitochondrial (EC 3.1.2.22) (Acyl-protein thioesterase ABHD10) (Alpha/beta hydrolase domain-containing protein 10) (Abhydrolase domain-containing protein 10) (Mycophenolic acid acyl-glucuronide esterase, mitochondrial) (EC 3.1.1.93)",3.1.1.93; 3.1.2.22,306,True,True,True,3.40.50.1820-FF-000164,canonical,ABHD10
+Q9Y570,PPME1_HUMAN,PPME1,True,Protein phosphatase methylesterase 1 (PME-1) (EC 3.1.1.89),3.1.1.89,386,True,True,True,3.40.50.1820-FF-000048,canonical,PPME1
+P04180,LCAT_HUMAN,LCAT,True,Phosphatidylcholine-sterol acyltransferase (EC 2.3.1.43) (1-alkyl-2-acetylglycerophosphocholine esterase) (EC 3.1.1.47) (Lecithin-cholesterol acyltransferase) (Phospholipid-cholesterol acyltransferase) (Platelet-activating factor acetylhydrolase) (PAF acetylhydrolase),2.3.1.43; 3.1.1.47,440,True,True,True,3.40.50.1820-FF-000090;3.40.50.1820-FF-000183;3.40.50.1820-FF-000187,canonical,LCAT
+P38571,LICH_HUMAN,LIPA,True,Lysosomal acid lipase/cholesteryl ester hydrolase (Acid cholesteryl ester hydrolase) (LAL) (EC 3.1.1.13) (Cholesteryl esterase) (Diacylglycerol lipase) (Lipase A) (Sterol esterase) (Triacylglycerol ester hydrolase) (Triacylglycerol lipase),3.1.1.13,399,True,True,True,3.40.50.1820-FF-000012,canonical,LIPA
+P54315,LIPR1_HUMAN,PNLIPRP1,True,Inactive pancreatic lipase-related protein 1 (PL-RP1),,467,True,True,True,3.40.50.1820-FF-000033,canonical,PNLIPRP1
+Q5VXI9,LIPN_HUMAN,LIPN,True,Lipase member N (EC 3.1.1.13) (EC 3.1.1.3) (Lipase-like abhydrolase domain-containing protein 4),3.1.1.13; 3.1.1.3,398,True,True,True,3.40.50.1820-FF-000012,canonical,LIPN
+Q6XZB0,LIPI_HUMAN,LIPI,True,Lipase member I (LIPI) (EC 3.1.1.-) (Cancer/testis antigen 17) (CT17) (LPD lipase) (Membrane-associated phosphatidic acid-selective phospholipase A1-beta) (mPA-PLA1 beta),3.1.1.-,460,True,True,True,3.40.50.1820-FF-000063,canonical,LIPI
+Q86WA6,BPHL_HUMAN,BPHL,True,Serine hydrolase BPHL (EC 3.1.-.-) (Biphenyl hydrolase-like protein) (Biphenyl hydrolase-related protein) (Bph-rp) (Breast epithelial mucin-associated antigen) (MCNAA) (L-homocysteine-thiolactonase BPHL) (Valacyclovir hydrolase) (VACVase) (Valacyclovirase),3.1.-.-,291,True,True,True,3.40.50.1820-FF-000181,canonical,BPHL
+P07098,LIPF_HUMAN,LIPF,True,Gastric triacylglycerol lipase (GL) (Gastric lipase) (EC 3.1.1.3),3.1.1.3,398,True,True,True,3.40.50.1820-FF-000012,canonical,LIPF
+Q53H76,PLA1A_HUMAN,PLA1A,True,Phospholipase A1 member A (EC 3.1.1.111) (Phosphatidylserine-specific phospholipase A1) (PS-PLA1),3.1.1.111,456,True,True,True,3.40.50.1820-FF-000081,canonical,PLA1A
+Q5VST6,AB17B_HUMAN,ABHD17B,True,Alpha/beta hydrolase domain-containing protein 17B (Abhydrolase domain-containing protein 17B) (EC 3.1.2.22),3.1.2.22,288,True,True,True,3.40.50.1820-FF-000008,canonical,ABHD17B
+Q8NCC3,PAG15_HUMAN,PLA2G15,True,Lysosomal phospholipase A and acyltransferase (EC 2.3.1.-) (EC 3.1.1.32) (EC 3.1.1.4) (1-O-acylceramide synthase) (ACS) (LCAT-like lysophospholipase) (LLPL) (EC 3.1.1.5) (Lysophospholipase 3) (Lysosomal phospholipase A2) (LPLA2) (Phospholipase A2 group XV) (PLA2G15),2.3.1.-; 3.1.1.32; 3.1.1.4; 3.1.1.5,412,True,True,True,3.40.50.1820-FF-000177,canonical,PLA2G15
+Q8NCG7,DGLB_HUMAN,DAGLB,True,Diacylglycerol lipase-beta (DAGL-beta) (DGL-beta) (EC 3.1.1.116) (KCCR13L) (PUFA-specific triacylglycerol lipase) (EC 3.1.1.3) (Sn1-specific diacylglycerol lipase beta),3.1.1.116; 3.1.1.3,672,True,True,False,,canonical,DAGLB
+Q8WWY8,LIPH_HUMAN,LIPH,True,Lipase member H (LIPH) (EC 3.1.1.-) (LPD lipase-related protein) (Membrane-associated phosphatidic acid-selective phospholipase A1-alpha) (mPA-PLA1 alpha) (Phospholipase A1 member B),3.1.1.-,451,True,True,True,3.40.50.1820-FF-000063,canonical,LIPH
+Q96IU4,ABHEB_HUMAN,ABHD14B,True,Putative protein-lysine deacylase ABHD14B (EC 2.3.1.-) (Alpha/beta hydrolase domain-containing protein 14B) (Abhydrolase domain-containing protein 14B) (CCG1-interacting factor B),2.3.1.-,210,True,True,True,3.40.50.1820-FF-000077,canonical,ABHD14B
+Q9Y5X9,LIPG_HUMAN,LIPG,True,Endothelial lipase (EC 3.1.1.3) (Endothelial cell-derived lipase) (EDL) (EL) (Phospholipase A1) (EC 3.1.1.32),3.1.1.3; 3.1.1.32,500,True,True,True,3.40.50.1820-FF-000109,canonical,LIPG
+P06858,LIPL_HUMAN,LPL,True,Lipoprotein lipase (LPL) (EC 3.1.1.34) (Phospholipase A1) (EC 3.1.1.32),3.1.1.32; 3.1.1.34,475,True,True,True,3.40.50.1820-FF-000031,canonical,LPL
+P16233,LIPP_HUMAN,PNLIP,True,Pancreatic triacylglycerol lipase (PL) (PTL) (Pancreatic lipase) (EC 3.1.1.3),3.1.1.3,465,True,True,True,3.40.50.1820-FF-000033,canonical,PNLIP
+P54317,LIPR2_HUMAN,PNLIPRP2,True,Pancreatic lipase-related protein 2 (PL-RP2) (Cytotoxic T lymphocyte lipase) (Galactolipase) (EC 3.1.1.26) (Triacylglycerol lipase) (EC 3.1.1.3),3.1.1.26; 3.1.1.3,469,True,True,True,3.40.50.1820-FF-000033,canonical,PNLIPRP2
+Q13093,PAFA_HUMAN,PLA2G7,True,Platelet-activating factor acetylhydrolase (PAF acetylhydrolase) (EC 3.1.1.47) (1-alkyl-2-acetylglycerophosphocholine esterase) (2-acetyl-1-alkylglycerophosphocholine esterase) (Group-VIIA phospholipase A2) (gVIIA-PLA2) (LDL-associated phospholipase A2) (LDL-PLA(2)) (PAF 2-acylhydrolase),3.1.1.47,441,True,True,True,3.40.50.1820-FF-000062,canonical,PLA2G7
+O95870,ABHGA_HUMAN,ABHD16A,True,Phosphatidylserine lipase ABHD16A (EC 3.1.-.-) (Alpha/beta hydrolase domain-containing protein 16A) (Abhydrolase domain-containing protein 16A) (HLA-B-associated transcript 5) (hBAT5) (Monoacylglycerol lipase ABHD16A) (EC 3.1.1.23) (Protein G5),3.1.-.-; 3.1.1.23,558,True,True,False,,canonical,ABHD16A
+P11150,LIPC_HUMAN,LIPC,True,Hepatic triacylglycerol lipase (HL) (Hepatic lipase) (EC 3.1.1.3) (Lipase member C) (Lysophospholipase) (EC 3.1.1.5) (Phospholipase A1) (EC 3.1.1.32),3.1.1.3; 3.1.1.32; 3.1.1.5,499,True,True,True,3.40.50.1820-FF-000101,canonical,LIPC
+Q6PCB6,AB17C_HUMAN,ABHD17C,True,Alpha/beta hydrolase domain-containing protein 17C (Abhydrolase domain-containing protein 17C) (EC 3.1.2.22),3.1.2.22,329,True,True,True,3.40.50.1820-FF-000008,canonical,ABHD17C
+Q9H6V9,LDAH_HUMAN,LDAH,True,Lipid droplet-associated hydrolase (EC 3.1.1.13) (Lipid droplet-associated serine hydrolase) (hLDAH),3.1.1.13,325,True,True,True,3.40.50.1820-FF-000068,canonical,LDAH
+Q96GS6,AB17A_HUMAN,ABHD17A,True,Alpha/beta hydrolase domain-containing protein 17A (Abhydrolase domain-containing protein 17A) (EC 3.1.2.22),3.1.2.22,310,True,True,True,3.40.50.1820-FF-000008,canonical,ABHD17A
+Q9Y4D2,DGLA_HUMAN,DAGLA,True,Diacylglycerol lipase-alpha (DAGL-alpha) (DGL-alpha) (EC 3.1.1.116) (Neural stem cell-derived dendrite regulator) (Sn1-specific diacylglycerol lipase alpha),3.1.1.116,1042,True,True,True,3.40.50.1820-FF-000015,canonical,DAGLA
+Q9H6B9,EPHX3_HUMAN,EPHX3,True,Epoxide hydrolase 3 (EH3) (EC 3.3.2.10) (Abhydrolase domain-containing protein 9),3.3.2.10,360,True,True,True,3.40.50.1820-FF-000161,canonical,EPHX3
+P34913,HYES_HUMAN,EPHX2,True,Bifunctional epoxide hydrolase 2 [Includes: Cytosolic epoxide hydrolase 2 (CEH) (EC 3.3.2.10) (Epoxide hydratase) (Soluble epoxide hydrolase) (SEH); Lipid-phosphate phosphatase (EC 3.1.3.76)],3.1.3.76; 3.3.2.10,555,True,True,True,3.40.50.1820-FF-000067,canonical,EPHX2
+Q99685,MGLL_HUMAN,MGLL,True,Monoglyceride lipase (MGL) (EC 3.1.1.23) (HU-K5) (Lysophospholipase homolog) (Lysophospholipase-like) (Monoacylglycerol lipase) (MAGL),3.1.1.23,303,True,True,True,3.40.50.1820-FF-000066,canonical,MGLL
+Q5VWZ2,LYPL1_HUMAN,LYPLAL1,True,Lysophospholipase-like protein 1 (EC 3.1.2.22),3.1.2.22,237,True,True,True,3.40.50.1820-FF-000139,canonical,LYPLAL1
+P08910,ABHD2_HUMAN,ABHD2,True,Monoacylglycerol lipase ABHD2 (EC 3.1.1.23) (2-arachidonoylglycerol hydrolase) (Abhydrolase domain-containing protein 2) (Acetylesterase) (EC 3.1.1.6) (Lung alpha/beta hydrolase 2) (Progesterone-sensitive lipase) (EC 3.1.1.79) (Protein PHPS1-2),3.1.1.23; 3.1.1.6; 3.1.1.79,425,True,True,True,3.40.50.1820-FF-000053,canonical,ABHD2
+O75608,LYPA1_HUMAN,LYPLA1,True,Acyl-protein thioesterase 1 (APT-1) (hAPT1) (EC 3.1.2.-) (Lysophospholipase 1) (Lysophospholipase I) (LPL-I) (LysoPLA I) (Palmitoyl-protein hydrolase) (EC 3.1.2.22),3.1.2.-; 3.1.2.22,230,True,True,True,3.40.50.1820-FF-000010,canonical,LYPLA1
+O95372,LYPA2_HUMAN,LYPLA2,True,Acyl-protein thioesterase 2 (APT-2) (EC 3.1.2.-) (Lysophospholipase II) (LPL-II) (LysoPLA II) (Palmitoyl-protein hydrolase) (EC 3.1.2.22),3.1.2.-; 3.1.2.22,231,True,True,True,3.40.50.1820-FF-000010,canonical,LYPLA2
+Q8WU67,ABHD3_HUMAN,ABHD3,True,Phospholipase ABHD3 (EC 3.1.1.32) (EC 3.1.1.4) (Abhydrolase domain-containing protein 3),3.1.1.32; 3.1.1.4,409,True,True,True,3.40.50.1820-FF-000079,canonical,ABHD3
+Q9H4I8,SEHL2_HUMAN,SERHL2,True,Serine hydrolase-like protein 2 (EC 3.1.-.-),3.1.-.-,314,True,True,False,,canonical,SERHL2
+Q5VXJ0,LIPK_HUMAN,LIPK,True,Lipase member K (EC 3.1.1.-) (Lipase-like abhydrolase domain-containing protein 2),3.1.1.-,399,True,True,True,3.40.50.1820-FF-000012,canonical,LIPK
+Q17RR3,LIPR3_HUMAN,PNLIPRP3,True,Pancreatic lipase-related protein 3 (PL-RP3) (EC 3.1.1.3),3.1.1.3,467,True,True,True,3.40.50.1820-FF-000157,canonical,PNLIPRP3
+Q9H3Z7,ABHGB_HUMAN,ABHD16B,True,ABHD16B (EC 3.1.1.111) (Alpha/beta hydrolase domain-containing protein 16B) (Abhydrolase domain-containing protein 16B),3.1.1.111,469,True,True,False,,canonical,ABHD16B
+Q5VYY2,LIPM_HUMAN,LIPM,True,Lipase member M (EC 3.1.1.-) (Lipase-like abhydrolase domain-containing protein 3),3.1.1.-,423,True,True,True,3.40.50.1820-FF-000012,canonical,LIPM
+Q6UXT9,ABH15_HUMAN,ABHD15,True,Protein ABHD15 (Alpha/beta hydrolase domain-containing protein 15) (Abhydrolase domain-containing protein 15),,468,True,True,True,3.40.50.1820-FF-000103,canonical,ABHD15
+Q96SE0,ABHD1_HUMAN,ABHD1,True,Protein ABHD1 (EC 3.1.1.-) (Alpha/beta hydrolase domain-containing protein 1) (Abhydrolase domain-containing protein 1) (Lung alpha/beta hydrolase 1),3.1.1.-,405,True,True,True,3.40.50.1820-FF-000167,canonical,ABHD1
+Q9NQF3,SERHL_HUMAN,SERHL,True,Serine hydrolase-like protein (SHL) (EC 3.1.-.-),3.1.-.-,203,True,True,False,,canonical,SERHL
+Q0P651,ABD18_HUMAN,ABHD18,True,"Cardiolipin-specific deacylase, mitochondrial (Alpha/beta hydrolase domain-containing protein 18) (Abhydrolase domain-containing protein 18)",,464,True,True,False,,canonical,ABHD18
+Q9BUJ0,ABHEA_HUMAN,ABHD14A,True,Protein ABHD14A (EC 3.-.-.-) (Alpha/beta hydrolase domain-containing protein 14A) (Abhydrolase domain-containing protein 14A),3.-.-.-,271,True,True,True,3.40.50.1820-FF-000093,canonical,ABHD14A
+Q8IUS5,EPHX4_HUMAN,EPHX4,True,Epoxide hydrolase 4 (EC 3.3.-.-) (Abhydrolase domain-containing protein 7) (Epoxide hydrolase-related protein),3.3.-.-,362,True,True,False,,canonical,EPHX4
+C9JNE7,C9JNE7_HUMAN,ABHD6,False,acylglycerol lipase (EC 3.1.1.23),3.1.1.23,225,True,True,False,,alt_entry_of_ABHD6,ABHD6
+A0ACI8VSR4,A0ACI8VSR4_HUMAN,ABHD6,False,Monoacylglycerol lipase ABHD6 (EC 3.1.1.23) (2-arachidonoylglycerol hydrolase) (Abhydrolase domain-containing protein 6),3.1.1.23,375,False,True,False,,alt_entry_of_ABHD6,ABHD6
+C9J010,C9J010_HUMAN,ABHD6,False,acylglycerol lipase (EC 3.1.1.23),3.1.1.23,173,True,True,False,,alt_entry_of_ABHD6,ABHD6
+A0ACI8PEZ1,A0ACI8PEZ1_HUMAN,ABHD6,False,acylglycerol lipase (EC 3.1.1.23),3.1.1.23,299,False,True,False,,alt_entry_of_ABHD6,ABHD6
+A0ACI8Q612,A0ACI8Q612_HUMAN,ABHD6,False,Monoacylglycerol lipase ABHD6 (EC 3.1.1.23) (2-arachidonoylglycerol hydrolase) (Abhydrolase domain-containing protein 6),3.1.1.23,338,False,True,False,,alt_entry_of_ABHD6,ABHD6
+A0ACI8VSN9,A0ACI8VSN9_HUMAN,ABHD6,False,Monoacylglycerol lipase ABHD6 (EC 3.1.1.23) (2-arachidonoylglycerol hydrolase) (Abhydrolase domain-containing protein 6),3.1.1.23,322,False,True,False,,alt_entry_of_ABHD6,ABHD6
+Q9HBL9,Q9HBL9_HUMAN,,False,Monoacylglycerol lipase ABHD6 (EC 3.1.1.23) (2-arachidonoylglycerol hydrolase) (Abhydrolase domain-containing protein 6),3.1.1.23,320,True,True,False,,fragment_of_ABHD6,ABHD6
+A0ACI8R5S6,A0ACI8R5S6_HUMAN,LIPC,False,Hepatic triacylglycerol lipase (EC 3.1.1.3) (EC 3.1.1.32) (EC 3.1.1.5) (Lipase member C) (Lysophospholipase) (Phospholipase A1),3.1.1.3; 3.1.1.32; 3.1.1.5,534,False,True,False,,alt_entry_of_LIPC,LIPC
+A0ACI8S171,A0ACI8S171_HUMAN,PLA2G15,False,Lysosomal phospholipase A and acyltransferase (EC 3.1.1.32) (EC 3.1.1.4) (EC 3.1.1.5) (1-O-acylceramide synthase) (LCAT-like lysophospholipase) (Lysophospholipase 3) (Lysosomal phospholipase A2) (Phospholipase A2 group XV),3.1.1.32; 3.1.1.4; 3.1.1.5,404,False,True,False,,alt_entry_of_PLA2G15,PLA2G15
+A6H8L5,A6H8L5_HUMAN,LIPC,False,Hepatic triacylglycerol lipase (EC 3.1.1.3) (EC 3.1.1.32) (EC 3.1.1.5) (Lipase member C) (Lysophospholipase) (Phospholipase A1),3.1.1.3; 3.1.1.32; 3.1.1.5,499,True,True,False,,alt_entry_of_LIPC,LIPC
+B4DDT1,B4DDT1_HUMAN,,False,Hepatic triacylglycerol lipase (EC 3.1.1.3) (EC 3.1.1.32) (EC 3.1.1.5) (Lipase member C) (Lysophospholipase) (Phospholipase A1),3.1.1.3; 3.1.1.32; 3.1.1.5,438,True,True,False,,fragment_of_LIPC,LIPC
+A0AAG2UV77,A0AAG2UV77_HUMAN,PNLIPRP2,False,Triacylglycerol lipase (EC 3.1.1.3) (Pancreatic lipase),3.1.1.3,469,True,True,False,,alt_entry_of_PNLIPRP2,PNLIPRP2
+A0ACI8S5I4,A0ACI8S5I4_HUMAN,LIPC,False,Hepatic triacylglycerol lipase (EC 3.1.1.3) (EC 3.1.1.32) (EC 3.1.1.5) (Lipase member C) (Lysophospholipase) (Phospholipase A1),3.1.1.3; 3.1.1.32; 3.1.1.5,479,False,True,False,,alt_entry_of_LIPC,LIPC
+A0ACI8V859,A0ACI8V859_HUMAN,PLA2G15,False,Lysosomal phospholipase A and acyltransferase (EC 3.1.1.32) (EC 3.1.1.4) (EC 3.1.1.5) (1-O-acylceramide synthase) (LCAT-like lysophospholipase) (Lysophospholipase 3) (Lysosomal phospholipase A2) (Phospholipase A2 group XV),3.1.1.32; 3.1.1.4; 3.1.1.5,411,False,True,False,,alt_entry_of_PLA2G15,PLA2G15
+E7EUJ1,E7EUJ1_HUMAN,LIPC,False,Hepatic triacylglycerol lipase (EC 3.1.1.3) (EC 3.1.1.32) (EC 3.1.1.5) (Lipase member C) (Lysophospholipase) (Phospholipase A1),3.1.1.3; 3.1.1.32; 3.1.1.5,499,True,True,False,,alt_entry_of_LIPC,LIPC
+A8K1Z7,A8K1Z7_HUMAN,,False,Hepatic triacylglycerol lipase (EC 3.1.1.3) (EC 3.1.1.32) (EC 3.1.1.5) (Lipase member C) (Lysophospholipase) (Phospholipase A1),3.1.1.3; 3.1.1.32; 3.1.1.5,498,True,True,False,,fragment_of_LIPC,LIPC
+A0ACI8SGJ0,A0ACI8SGJ0_HUMAN,LIPC,False,Hepatic triacylglycerol lipase (EC 3.1.1.3) (EC 3.1.1.32) (EC 3.1.1.5) (Lipase member C) (Lysophospholipase) (Phospholipase A1),3.1.1.3; 3.1.1.32; 3.1.1.5,491,False,True,False,,alt_entry_of_LIPC,LIPC
+E7EUK6,E7EUK6_HUMAN,LIPC,False,Hepatic triacylglycerol lipase (EC 3.1.1.3) (EC 3.1.1.32) (EC 3.1.1.5) (Lipase member C) (Lysophospholipase) (Phospholipase A1),3.1.1.3; 3.1.1.32; 3.1.1.5,438,True,True,False,,alt_entry_of_LIPC,LIPC
+A0ABJ7H8I0,A0ABJ7H8I0_HUMAN,EPHX2,False,Bifunctional epoxide hydrolase 2 (EC 3.1.3.76) (EC 3.3.2.10),3.1.3.76; 3.3.2.10,552,False,True,False,,alt_entry_of_EPHX2,EPHX2
+A0ACI8Q570,A0ACI8Q570_HUMAN,EPHX2,False,Bifunctional epoxide hydrolase 2 (EC 3.1.3.76) (EC 3.3.2.10),3.1.3.76; 3.3.2.10,514,False,True,False,,alt_entry_of_EPHX2,EPHX2
+A0ACI8URX3,A0ACI8URX3_HUMAN,EPHX2,False,Bifunctional epoxide hydrolase 2 (EC 3.1.3.76) (EC 3.3.2.10),3.1.3.76; 3.3.2.10,445,False,True,False,,alt_entry_of_EPHX2,EPHX2
+A0ACI8R9Q0,A0ACI8R9Q0_HUMAN,EPHX2,False,Bifunctional epoxide hydrolase 2 (EC 3.1.3.76) (EC 3.3.2.10),3.1.3.76; 3.3.2.10,530,False,True,False,,alt_entry_of_EPHX2,EPHX2
+E5RFU2,E5RFU2_HUMAN,EPHX2,False,Bifunctional epoxide hydrolase 2 (EC 3.1.3.76) (EC 3.3.2.10),3.1.3.76; 3.3.2.10,523,True,True,False,,alt_entry_of_EPHX2,EPHX2
+A0ACI8QED8,A0ACI8QED8_HUMAN,EPHX2,False,Bifunctional epoxide hydrolase 2 (EC 3.1.3.76) (EC 3.3.2.10),3.1.3.76; 3.3.2.10,554,False,True,False,,alt_entry_of_EPHX2,EPHX2
+A0ACI8S287,A0ACI8S287_HUMAN,EPHX2,False,Bifunctional epoxide hydrolase 2 (EC 3.1.3.76) (EC 3.3.2.10),3.1.3.76; 3.3.2.10,546,False,True,False,,alt_entry_of_EPHX2,EPHX2
+B4DFE9,B4DFE9_HUMAN,,False,Bifunctional epoxide hydrolase 2 (EC 3.1.3.76) (EC 3.3.2.10),3.1.3.76; 3.3.2.10,572,True,True,False,,fragment_of_EPHX2,EPHX2
+A0ACI8QCZ8,A0ACI8QCZ8_HUMAN,ABHD3,False,Phospholipase ABHD3 (EC 3.1.1.32) (EC 3.1.1.4) (Abhydrolase domain-containing protein 3),3.1.1.32; 3.1.1.4,442,False,True,False,,alt_entry_of_ABHD3,ABHD3
+A0ACI8RT55,A0ACI8RT55_HUMAN,ABHD3,False,Phospholipase ABHD3 (EC 3.1.1.32) (EC 3.1.1.4) (Abhydrolase domain-containing protein 3),3.1.1.32; 3.1.1.4,351,False,True,False,,alt_entry_of_ABHD3,ABHD3
+A0ACI8VS78,A0ACI8VS78_HUMAN,ABHD3,False,Phospholipase ABHD3 (EC 3.1.1.32) (EC 3.1.1.4) (Abhydrolase domain-containing protein 3),3.1.1.32; 3.1.1.4,405,False,True,False,,alt_entry_of_ABHD3,ABHD3
+A0ACI8R5D6,A0ACI8R5D6_HUMAN,ABHD3,False,Phospholipase ABHD3 (EC 3.1.1.32) (EC 3.1.1.4) (Abhydrolase domain-containing protein 3),3.1.1.32; 3.1.1.4,406,False,True,False,,alt_entry_of_ABHD3,ABHD3
+J3KTE1,J3KTE1_HUMAN,ABHD3,False,Phospholipase ABHD3 (EC 3.1.1.32) (EC 3.1.1.4) (Abhydrolase domain-containing protein 3),3.1.1.32; 3.1.1.4,356,True,True,False,,alt_entry_of_ABHD3,ABHD3
+Q5W064,LIPJ_HUMAN,LIPJ,True,Lipase member J (EC 3.1.1.-) (Lipase-like abhydrolase domain-containing protein 1),3.1.1.-,366,True,True,True,3.40.50.1820-FF-000012,canonical,LIPJ
+A8K2M5,A8K2M5_HUMAN,,False,Lipoprotein lipase (LPL) (EC 3.1.1.34),3.1.1.34,475,True,True,False,,fragment_of_LPL,LPL
+A0ACI8VCL6,A0ACI8VCL6_HUMAN,LPL,False,Lipoprotein lipase (LPL) (EC 3.1.1.34),3.1.1.34,474,False,True,False,,alt_entry_of_LPL,LPL
+Q6IAV0,Q6IAV0_HUMAN,LPL,False,Lipoprotein lipase (LPL) (EC 3.1.1.34),3.1.1.34,475,True,True,False,,alt_entry_of_LPL,LPL
+A0ACI8PVA6,A0ACI8PVA6_HUMAN,DAGLA,False,Diacylglycerol lipase-alpha (EC 3.1.1.116) (Neural stem cell-derived dendrite regulator) (Sn1-specific diacylglycerol lipase alpha),3.1.1.116,1068,False,True,False,,alt_entry_of_DAGLA,DAGLA
+A0ACI8U1P2,A0ACI8U1P2_HUMAN,DAGLA,False,Diacylglycerol lipase-alpha (EC 3.1.1.116) (Neural stem cell-derived dendrite regulator) (Sn1-specific diacylglycerol lipase alpha),3.1.1.116,1049,False,True,False,,alt_entry_of_DAGLA,DAGLA
+A0ACI8V321,A0ACI8V321_HUMAN,PLA2G7,False,Platelet-activating factor acetylhydrolase (EC 3.1.1.47),3.1.1.47,439,False,True,False,,alt_entry_of_PLA2G7,PLA2G7
+A0ACI8VCH7,A0ACI8VCH7_HUMAN,LPL,False,Lipoprotein lipase (LPL) (EC 3.1.1.34),3.1.1.34,469,False,True,False,,alt_entry_of_LPL,LPL
+A8K2W6,A8K2W6_HUMAN,,False,Platelet-activating factor acetylhydrolase (EC 3.1.1.47),3.1.1.47,441,True,True,False,,fragment_of_PLA2G7,PLA2G7
+B3KRV7,B3KRV7_HUMAN,,False,Lipoprotein lipase (LPL) (EC 3.1.1.34),3.1.1.34,461,True,True,False,,fragment_of_LPL,LPL
+Q53HW6,Q53HW6_HUMAN,,False,Lipoprotein lipase (LPL) (EC 3.1.1.34),3.1.1.34,475,True,True,False,,fragment_of_LPL,LPL
+A0A0C4DFN3,A0A0C4DFN3_HUMAN,MGLL,False,Monoglyceride lipase (EC 3.1.1.23) (Monoacylglycerol lipase),3.1.1.23,313,True,True,False,,alt_entry_of_MGLL,MGLL
+A0A1B0GW23,A0A1B0GW23_HUMAN,ABHD14A-ACY1,False,Aminoacylase-1 (EC 3.5.1.14) (Alpha/beta hydrolase domain-containing protein 14A) (N-acyl-L-amino-acid amidohydrolase) (Protein ABHD14A),3.5.1.14,586,True,True,False,,unreviewed_only_gene,ABHD14A-ACY1
+A0ACI8RTK6,A0ACI8RTK6_HUMAN,ABHD11,False,sn-1-specific diacylglycerol lipase ABHD11 (EC 3.1.1.116) (Alpha/beta hydrolase domain-containing protein 11),3.1.1.116,246,False,True,False,,alt_entry_of_ABHD11,ABHD11
+A0ACI8S4V7,A0ACI8S4V7_HUMAN,ABHD11,False,sn-1-specific diacylglycerol lipase ABHD11 (EC 3.1.1.116) (Alpha/beta hydrolase domain-containing protein 11),3.1.1.116,286,False,True,False,,alt_entry_of_ABHD11,ABHD11
+C9J7Q4,C9J7Q4_HUMAN,ABHD11,False,sn-1-specific diacylglycerol lipase ABHD11 (EC 3.1.1.116) (Alpha/beta hydrolase domain-containing protein 11),3.1.1.116,150,True,True,False,,alt_entry_of_ABHD11,ABHD11
+A0ACI8S118,A0ACI8S118_HUMAN,ABHD11,False,sn-1-specific diacylglycerol lipase ABHD11 (EC 3.1.1.116) (Alpha/beta hydrolase domain-containing protein 11),3.1.1.116,303,False,True,False,,alt_entry_of_ABHD11,ABHD11
+A0ACI8SFJ7,A0ACI8SFJ7_HUMAN,ABHD11,False,sn-1-specific diacylglycerol lipase ABHD11 (EC 3.1.1.116) (Alpha/beta hydrolase domain-containing protein 11),3.1.1.116,266,False,True,False,,alt_entry_of_ABHD11,ABHD11
+A0ACI8ST75,A0ACI8ST75_HUMAN,ABHD10,False,"Palmitoyl-protein thioesterase ABHD10, mitochondrial (EC 3.1.1.93) (EC 3.1.2.22) (Acyl-protein thioesterase ABHD10) (Alpha/beta hydrolase domain-containing protein 10) (Mycophenolic acid acyl-glucuronide esterase, mitochondrial)",3.1.1.93; 3.1.2.22,239,False,True,False,,alt_entry_of_ABHD10,ABHD10
+H7BZ58,H7BZ58_HUMAN,ABHD11,False,sn-1-specific diacylglycerol lipase ABHD11 (EC 3.1.1.116) (Alpha/beta hydrolase domain-containing protein 11),3.1.1.116,184,True,True,False,,alt_entry_of_ABHD11,ABHD11
+A0A140VK39,A0A140VK39_HUMAN,,False,Protein phosphatase methylesterase 1 (PME-1) (EC 3.1.1.-),3.1.1.-,386,True,True,False,,fragment_of_PPME1,PPME1
+A0ACI8R348,A0ACI8R348_HUMAN,ABHD11,False,sn-1-specific diacylglycerol lipase ABHD11 (EC 3.1.1.116) (Alpha/beta hydrolase domain-containing protein 11),3.1.1.116,242,False,True,False,,alt_entry_of_ABHD11,ABHD11
+A0ACI8RH77,A0ACI8RH77_HUMAN,ABHD11,False,sn-1-specific diacylglycerol lipase ABHD11 (EC 3.1.1.116) (Alpha/beta hydrolase domain-containing protein 11),3.1.1.116,209,False,True,False,,alt_entry_of_ABHD11,ABHD11
+A0ACI8TQH5,A0ACI8TQH5_HUMAN,ABHD11,False,sn-1-specific diacylglycerol lipase ABHD11 (EC 3.1.1.116) (Alpha/beta hydrolase domain-containing protein 11),3.1.1.116,237,False,True,False,,alt_entry_of_ABHD11,ABHD11
+A0ACI8QUN2,A0ACI8QUN2_HUMAN,ABHD10,False,"Palmitoyl-protein thioesterase ABHD10, mitochondrial (EC 3.1.1.93) (EC 3.1.2.22) (Acyl-protein thioesterase ABHD10) (Alpha/beta hydrolase domain-containing protein 10) (Mycophenolic acid acyl-glucuronide esterase, mitochondrial)",3.1.1.93; 3.1.2.22,303,False,True,False,,alt_entry_of_ABHD10,ABHD10
+A0ACI8RP95,A0ACI8RP95_HUMAN,ABHD11,False,sn-1-specific diacylglycerol lipase ABHD11 (EC 3.1.1.116) (Alpha/beta hydrolase domain-containing protein 11),3.1.1.116,263,False,True,False,,alt_entry_of_ABHD11,ABHD11
+A0ACI8STC8,A0ACI8STC8_HUMAN,ABHD10,False,"Palmitoyl-protein thioesterase ABHD10, mitochondrial (EC 3.1.1.93) (EC 3.1.2.22) (Acyl-protein thioesterase ABHD10) (Alpha/beta hydrolase domain-containing protein 10) (Mycophenolic acid acyl-glucuronide esterase, mitochondrial)",3.1.1.93; 3.1.2.22,313,False,True,False,,alt_entry_of_ABHD10,ABHD10
+A0ACI8ST65,A0ACI8ST65_HUMAN,ABHD10,False,"Palmitoyl-protein thioesterase ABHD10, mitochondrial (EC 3.1.1.93) (EC 3.1.2.22) (Acyl-protein thioesterase ABHD10) (Alpha/beta hydrolase domain-containing protein 10) (Mycophenolic acid acyl-glucuronide esterase, mitochondrial)",3.1.1.93; 3.1.2.22,346,False,True,False,,alt_entry_of_ABHD10,ABHD10
+A0ACI8TQD2,A0ACI8TQD2_HUMAN,ABHD11,False,sn-1-specific diacylglycerol lipase ABHD11 (EC 3.1.1.116) (Alpha/beta hydrolase domain-containing protein 11),3.1.1.116,312,False,True,False,,alt_entry_of_ABHD11,ABHD11
+A0ACI8PTL9,A0ACI8PTL9_HUMAN,PLA1A,False,Phospholipase A1 member A (EC 3.1.1.111),3.1.1.111,400,False,True,False,,alt_entry_of_PLA1A,PLA1A
+A0ACI8R8S6,A0ACI8R8S6_HUMAN,DAGLB,False,Diacylglycerol lipase-beta (EC 3.1.1.116) (EC 3.1.1.3) (PUFA-specific triacylglycerol lipase) (Sn1-specific diacylglycerol lipase beta),3.1.1.116; 3.1.1.3,631,False,True,False,,alt_entry_of_DAGLB,DAGLB
+A0ACI8TKH0,A0ACI8TKH0_HUMAN,DAGLB,False,Diacylglycerol lipase-beta (EC 3.1.1.116) (EC 3.1.1.3) (PUFA-specific triacylglycerol lipase) (Sn1-specific diacylglycerol lipase beta),3.1.1.116; 3.1.1.3,533,False,True,False,,alt_entry_of_DAGLB,DAGLB
+A0ACI8UIQ6,A0ACI8UIQ6_HUMAN,DAGLB,False,Diacylglycerol lipase-beta (EC 3.1.1.116) (EC 3.1.1.3) (PUFA-specific triacylglycerol lipase) (Sn1-specific diacylglycerol lipase beta),3.1.1.116; 3.1.1.3,572,False,True,False,,alt_entry_of_DAGLB,DAGLB
+B4DVH8,B4DVH8_HUMAN,,False,Diacylglycerol lipase-beta (EC 3.1.1.116) (EC 3.1.1.3) (PUFA-specific triacylglycerol lipase) (Sn1-specific diacylglycerol lipase beta),3.1.1.116; 3.1.1.3,379,True,True,False,,fragment_of_DAGLB,DAGLB
+B4DQQ6,B4DQQ6_HUMAN,,False,Diacylglycerol lipase-beta (EC 3.1.1.116) (EC 3.1.1.3) (PUFA-specific triacylglycerol lipase) (Sn1-specific diacylglycerol lipase beta),3.1.1.116; 3.1.1.3,486,True,True,False,,fragment_of_DAGLB,DAGLB
+B4DTR8,B4DTR8_HUMAN,,False,phospholipase A1 (EC 3.1.1.32) (Phospholipase A1),3.1.1.32,426,True,True,False,,fragment_of_LIPG,LIPG
+F8WAE0,F8WAE0_HUMAN,LIPG,False,phospholipase A1 (EC 3.1.1.32) (Phospholipase A1),3.1.1.32,426,False,True,False,,alt_entry_of_LIPG,LIPG
+A0A0G2JJD3,A0A0G2JJD3_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,601,True,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8PW48,A0ACI8PW48_HUMAN,DAGLB,False,Diacylglycerol lipase-beta (EC 3.1.1.116) (EC 3.1.1.3) (PUFA-specific triacylglycerol lipase) (Sn1-specific diacylglycerol lipase beta),3.1.1.116; 3.1.1.3,587,False,True,False,,alt_entry_of_DAGLB,DAGLB
+A0ACI8QC00,A0ACI8QC00_HUMAN,DAGLB,False,Diacylglycerol lipase-beta (EC 3.1.1.116) (EC 3.1.1.3) (PUFA-specific triacylglycerol lipase) (Sn1-specific diacylglycerol lipase beta),3.1.1.116; 3.1.1.3,604,False,True,False,,alt_entry_of_DAGLB,DAGLB
+A0ACI8QW21,A0ACI8QW21_HUMAN,DAGLB,False,Diacylglycerol lipase-beta (EC 3.1.1.116) (EC 3.1.1.3) (PUFA-specific triacylglycerol lipase) (Sn1-specific diacylglycerol lipase beta),3.1.1.116; 3.1.1.3,670,False,True,False,,alt_entry_of_DAGLB,DAGLB
+A0ACI8S9P9,A0ACI8S9P9_HUMAN,LPL,False,Lipoprotein lipase (EC 3.1.1.32) (EC 3.1.1.34) (Phospholipase A1),3.1.1.32; 3.1.1.34,246,False,True,False,,alt_entry_of_LPL,LPL
+E7ET49,E7ET49_HUMAN,DAGLB,False,Diacylglycerol lipase-beta (EC 3.1.1.116) (EC 3.1.1.3) (PUFA-specific triacylglycerol lipase) (Sn1-specific diacylglycerol lipase beta),3.1.1.116; 3.1.1.3,631,True,True,False,,alt_entry_of_DAGLB,DAGLB
+E9PRT6,E9PRT6_HUMAN,PNLIPRP1,False,Triacylglycerol lipase (EC 3.1.1.3) (Pancreatic lipase),3.1.1.3,467,True,True,False,,alt_entry_of_PNLIPRP1,PNLIPRP1
+F8W9U3,F8W9U3_HUMAN,ABHD14B,False,Putative protein-lysine deacylase ABHD14B (Alpha/beta hydrolase domain-containing protein 14B),,208,True,True,False,,alt_entry_of_ABHD14B,ABHD14B
+Q71UV2,Q71UV2_HUMAN,,False,Lipoprotein lipase (EC 3.1.1.32) (EC 3.1.1.34) (Phospholipase A1),3.1.1.32; 3.1.1.34,332,True,True,False,,fragment_of_LPL,LPL
+V9HW87,V9HW87_HUMAN,HEL-S-299,False,Putative protein-lysine deacylase ABHD14B (Alpha/beta hydrolase domain-containing protein 14B),,210,True,True,False,,fragment_of_ABHD14B,ABHD14B
+A0ACI8PWD0,A0ACI8PWD0_HUMAN,DAGLB,False,Diacylglycerol lipase-beta (EC 3.1.1.116) (EC 3.1.1.3) (PUFA-specific triacylglycerol lipase) (Sn1-specific diacylglycerol lipase beta),3.1.1.116; 3.1.1.3,708,False,True,False,,alt_entry_of_DAGLB,DAGLB
+A0ACI8TKT5,A0ACI8TKT5_HUMAN,DAGLB,False,Diacylglycerol lipase-beta (EC 3.1.1.116) (EC 3.1.1.3) (PUFA-specific triacylglycerol lipase) (Sn1-specific diacylglycerol lipase beta),3.1.1.116; 3.1.1.3,584,False,True,False,,alt_entry_of_DAGLB,DAGLB
+A0ACI8UJ72,A0ACI8UJ72_HUMAN,DAGLB,False,Diacylglycerol lipase-beta (EC 3.1.1.116) (EC 3.1.1.3) (PUFA-specific triacylglycerol lipase) (Sn1-specific diacylglycerol lipase beta),3.1.1.116; 3.1.1.3,519,False,True,False,,alt_entry_of_DAGLB,DAGLB
+A8K6Y4,A8K6Y4_HUMAN,,False,Endothelial lipase (EC 3.1.1.3) (EC 3.1.1.32) (Phospholipase A1),3.1.1.3; 3.1.1.32,500,True,True,False,,fragment_of_LIPG,LIPG
+B2RCS7,B2RCS7_HUMAN,,False,Endothelial lipase (EC 3.1.1.3) (EC 3.1.1.32) (Phospholipase A1),3.1.1.3; 3.1.1.32,500,True,True,False,,fragment_of_LIPG,LIPG
+J3QQQ0,J3QQQ0_HUMAN,LIPG,False,triacylglycerol lipase (EC 3.1.1.3) (Phospholipase A1),3.1.1.3,390,True,True,False,,alt_entry_of_LIPG,LIPG
+A0A140VK24,A0A140VK24_HUMAN,,False,Phosphatidylcholine-sterol acyltransferase (EC 2.3.1.43) (Lecithin-cholesterol acyltransferase) (Phospholipid-cholesterol acyltransferase),2.3.1.43,440,True,True,False,,fragment_of_LCAT,LCAT
+A0ACI8PRA6,A0ACI8PRA6_HUMAN,PLA1A,False,Phospholipase A1 member A (EC 3.1.1.111),3.1.1.111,470,False,True,False,,alt_entry_of_PLA1A,PLA1A
+A0ACI8PT86,A0ACI8PT86_HUMAN,PLA1A,False,Phospholipase A1 member A (EC 3.1.1.111),3.1.1.111,497,False,True,False,,alt_entry_of_PLA1A,PLA1A
+A0ACI8PXD6,A0ACI8PXD6_HUMAN,PLA1A,False,Phospholipase A1 member A (EC 3.1.1.111),3.1.1.111,422,False,True,False,,alt_entry_of_PLA1A,PLA1A
+A0ACI8RFG2,A0ACI8RFG2_HUMAN,DAGLB,False,Diacylglycerol lipase-beta (EC 3.1.1.116) (EC 3.1.1.3) (PUFA-specific triacylglycerol lipase) (Sn1-specific diacylglycerol lipase beta),3.1.1.116; 3.1.1.3,660,False,True,False,,alt_entry_of_DAGLB,DAGLB
+A0ACI8RQC3,A0ACI8RQC3_HUMAN,PLA1A,False,Phospholipase A1 member A (EC 3.1.1.111),3.1.1.111,293,False,True,False,,alt_entry_of_PLA1A,PLA1A
+A0ACI8S227,A0ACI8S227_HUMAN,DAGLB,False,Diacylglycerol lipase-beta (EC 3.1.1.116) (EC 3.1.1.3) (PUFA-specific triacylglycerol lipase) (Sn1-specific diacylglycerol lipase beta),3.1.1.116; 3.1.1.3,574,False,True,False,,alt_entry_of_DAGLB,DAGLB
+A0ACI8TKY4,A0ACI8TKY4_HUMAN,DAGLB,False,Diacylglycerol lipase-beta (EC 3.1.1.116) (EC 3.1.1.3) (PUFA-specific triacylglycerol lipase) (Sn1-specific diacylglycerol lipase beta),3.1.1.116; 3.1.1.3,527,False,True,False,,alt_entry_of_DAGLB,DAGLB
+A0ACI8V6M6,A0ACI8V6M6_HUMAN,LIPG,False,Endothelial lipase (EC 3.1.1.3) (EC 3.1.1.32) (Phospholipase A1),3.1.1.3; 3.1.1.32,497,False,True,False,,alt_entry_of_LIPG,LIPG
+G5E9W0,G5E9W0_HUMAN,PLA1A,False,Phospholipase A1 member A (EC 3.1.1.111),3.1.1.111,440,True,True,False,,alt_entry_of_PLA1A,PLA1A
+A0A3B3ITT3,A0A3B3ITT3_HUMAN,MGLL,False,Monoglyceride lipase (EC 3.1.1.23) (Monoacylglycerol lipase),3.1.1.23,262,True,True,False,,alt_entry_of_MGLL,MGLL
+A0ACI8RJW9,A0ACI8RJW9_HUMAN,MGLL,False,Monoglyceride lipase (EC 3.1.1.23) (Monoacylglycerol lipase),3.1.1.23,339,False,True,False,,alt_entry_of_MGLL,MGLL
+A0ACI8R9G4,A0ACI8R9G4_HUMAN,MGLL,False,Monoglyceride lipase (EC 3.1.1.23) (Monoacylglycerol lipase),3.1.1.23,301,False,True,False,,alt_entry_of_MGLL,MGLL
+B2ZGL7,B2ZGL7_HUMAN,MGLL,False,Monoglyceride lipase (EC 3.1.1.23) (Monoacylglycerol lipase),3.1.1.23,273,True,True,False,,alt_entry_of_MGLL,MGLL
+A0ACI8PSG8,A0ACI8PSG8_HUMAN,MGLL,False,Monoglyceride lipase (EC 3.1.1.23) (Monoacylglycerol lipase),3.1.1.23,304,False,True,False,,alt_entry_of_MGLL,MGLL
+A0ACI8V227,A0ACI8V227_HUMAN,MGLL,False,Monoglyceride lipase (EC 3.1.1.23) (Monoacylglycerol lipase),3.1.1.23,482,False,True,False,,alt_entry_of_MGLL,MGLL
+A0ACI8PQJ2,A0ACI8PQJ2_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,216,False,True,False,,alt_entry_of_LYPLA1,LYPLA1
+B4DP64,B4DP64_HUMAN,,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,196,True,True,False,,fragment_of_LYPLA1,LYPLA1
+E5RI35,E5RI35_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,103,True,True,False,,alt_entry_of_LYPLA1,LYPLA1
+Q6IAQ1,Q6IAQ1_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,230,True,True,False,,alt_entry_of_LYPLA1,LYPLA1
+A0ACI8PWD5,A0ACI8PWD5_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,182,False,True,False,,alt_entry_of_LYPLA1,LYPLA1
+A0ACI8S2B3,A0ACI8S2B3_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,177,False,True,False,,alt_entry_of_LYPLA1,LYPLA1
+E5RJ48,E5RJ48_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,90,True,True,False,,alt_entry_of_LYPLA1,LYPLA1
+A0ACI8PQ74,A0ACI8PQ74_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,200,False,True,False,,alt_entry_of_LYPLA1,LYPLA1
+A0ACI8QEG2,A0ACI8QEG2_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,192,False,True,False,,alt_entry_of_LYPLA1,LYPLA1
+A0ACI8UET5,A0ACI8UET5_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,176,False,True,False,,alt_entry_of_LYPLA1,LYPLA1
+A0ACI8UQE8,A0ACI8UQE8_HUMAN,ABHD2,False,Monoacylglycerol lipase ABHD2 (EC 3.1.1.23) (EC 3.1.1.6) (EC 3.1.1.79) (2-arachidonoylglycerol hydrolase) (Abhydrolase domain-containing protein 2) (Acetylesterase),3.1.1.23; 3.1.1.6; 3.1.1.79,369,False,True,False,,alt_entry_of_ABHD2,ABHD2
+A0A087WZ75,A0A087WZ75_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,196,False,True,False,,alt_entry_of_LYPLA1,LYPLA1
+A0ACI8THF7,A0ACI8THF7_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,228,False,True,False,,alt_entry_of_LYPLA1,LYPLA1
+A0ACI8UES9,A0ACI8UES9_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,217,False,True,False,,alt_entry_of_LYPLA1,LYPLA1
+A0A024RC89,A0A024RC89_HUMAN,ABHD2,False,Monoacylglycerol lipase ABHD2 (EC 3.1.1.23) (EC 3.1.1.6) (EC 3.1.1.79) (2-arachidonoylglycerol hydrolase) (Abhydrolase domain-containing protein 2) (Acetylesterase),3.1.1.23; 3.1.1.6; 3.1.1.79,425,True,True,False,,alt_entry_of_ABHD2,ABHD2
+A0A087X1K9,A0A087X1K9_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,166,True,True,False,,alt_entry_of_LYPLA1,LYPLA1
+A0ACI8PSD2,A0ACI8PSD2_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,163,False,True,False,,alt_entry_of_LYPLA1,LYPLA1
+A0ACI8PSP0,A0ACI8PSP0_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,158,False,True,False,,alt_entry_of_LYPLA1,LYPLA1
+A0ACI8RPB9,A0ACI8RPB9_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,256,False,True,False,,alt_entry_of_LYPLA1,LYPLA1
+A8K2S5,A8K2S5_HUMAN,,False,Monoacylglycerol lipase ABHD2 (EC 3.1.1.23) (EC 3.1.1.6) (EC 3.1.1.79) (2-arachidonoylglycerol hydrolase) (Abhydrolase domain-containing protein 2) (Acetylesterase),3.1.1.23; 3.1.1.6; 3.1.1.79,425,True,True,False,,fragment_of_ABHD2,ABHD2
+B4DJV9,B4DJV9_HUMAN,,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,263,True,True,False,,fragment_of_LYPLA1,LYPLA1
+E5RGR0,E5RGR0_HUMAN,LYPLA1,False,Acyl-protein thioesterase 1 (EC 3.1.2.22) (Lysophospholipase 1) (Lysophospholipase I) (Palmitoyl-protein hydrolase),3.1.2.22,197,True,True,False,,alt_entry_of_LYPLA1,LYPLA1
+A0ACI8PVR5,A0ACI8PVR5_HUMAN,PPME1,False,Protein phosphatase methylesterase 1 (PME-1) (EC 3.1.1.-),3.1.1.-,376,False,True,False,,alt_entry_of_PPME1,PPME1
+A0ACI8T2N4,A0ACI8T2N4_HUMAN,PPME1,False,Protein phosphatase methylesterase 1 (PME-1) (EC 3.1.1.-),3.1.1.-,418,False,True,False,,alt_entry_of_PPME1,PPME1
+A0ACI8VK22,A0ACI8VK22_HUMAN,PPME1,False,Protein phosphatase methylesterase 1 (PME-1) (EC 3.1.1.-),3.1.1.-,384,False,True,False,,alt_entry_of_PPME1,PPME1
+B2RD12,B2RD12_HUMAN,,False,Protein ABHD8 (Alpha/beta hydrolase domain-containing protein 8),,439,True,True,False,,fragment_of_ABHD8,ABHD8
+A0ACI8QUP8,A0ACI8QUP8_HUMAN,SPG21,False,Maspardin,,272,False,True,False,,alt_entry_of_SPG21,SPG21
+A0ACI8T2N7,A0ACI8T2N7_HUMAN,PPME1,False,Protein phosphatase methylesterase 1 (PME-1) (EC 3.1.1.-),3.1.1.-,384,False,True,False,,alt_entry_of_PPME1,PPME1
+C9JW74,C9JW74_HUMAN,MEST,False,Mesoderm specific transcript,,325,True,True,False,,alt_entry_of_MEST,MEST
+H0YKB0,H0YKB0_HUMAN,SPG21,False,Maspardin,,150,True,True,False,,alt_entry_of_SPG21,SPG21
+A0ACI8VK78,A0ACI8VK78_HUMAN,PPME1,False,protein phosphatase methylesterase-1 (EC 3.1.1.89),3.1.1.89,183,False,True,False,,alt_entry_of_PPME1,PPME1
+C9JWU9,C9JWU9_HUMAN,MEST,False,Mesoderm specific transcript,,213,True,True,False,,alt_entry_of_MEST,MEST
+H0YMB7,H0YMB7_HUMAN,SPG21,False,Maspardin,,141,True,True,False,,alt_entry_of_SPG21,SPG21
+H7C396,H7C396_HUMAN,ABHD11,False,sn-1-specific diacylglycerol lipase ABHD11 (EC 3.1.1.116) (Alpha/beta hydrolase domain-containing protein 11),3.1.1.116,123,True,True,False,,alt_entry_of_ABHD11,ABHD11
+A0ACI8PA30,A0ACI8PA30_HUMAN,PPME1,False,Protein phosphatase methylesterase 1 (PME-1) (EC 3.1.1.-),3.1.1.-,442,False,True,False,,alt_entry_of_PPME1,PPME1
+A0ACI8PDU4,A0ACI8PDU4_HUMAN,PPME1,False,Protein phosphatase methylesterase 1 (PME-1) (EC 3.1.1.-),3.1.1.-,440,False,True,False,,alt_entry_of_PPME1,PPME1
+A0ACI8PHU3,A0ACI8PHU3_HUMAN,SPG21,False,Maspardin,,302,False,True,False,,alt_entry_of_SPG21,SPG21
+A0ACI8Q4U6,A0ACI8Q4U6_HUMAN,SPG21,False,Maspardin,,303,False,True,False,,alt_entry_of_SPG21,SPG21
+A0ACI8VK02,A0ACI8VK02_HUMAN,PPME1,False,Protein phosphatase methylesterase 1 (PME-1) (EC 3.1.1.-),3.1.1.-,364,False,True,False,,alt_entry_of_PPME1,PPME1
+B4DPA4,B4DPA4_HUMAN,,False,Protein ABHD8 (Alpha/beta hydrolase domain-containing protein 8),,385,True,True,False,,fragment_of_ABHD8,ABHD8
+A0ACI8PH61,A0ACI8PH61_HUMAN,PPME1,False,Protein phosphatase methylesterase 1 (PME-1) (EC 3.1.1.-),3.1.1.-,385,False,True,False,,alt_entry_of_PPME1,PPME1
+B2C6G3,B2C6G3_HUMAN,ABHD8,False,Protein ABHD8 (Alpha/beta hydrolase domain-containing protein 8),,439,True,True,False,,alt_entry_of_ABHD8,ABHD8
+A0ACI8QMT4,A0ACI8QMT4_HUMAN,LIPH,False,Lipase H,,433,False,True,False,,alt_entry_of_LIPH,LIPH
+A0ACI8RAJ4,A0ACI8RAJ4_HUMAN,DAGLB,False,sn-1-specific diacylglycerol lipase (EC 3.1.1.116),3.1.1.116,618,False,True,False,,alt_entry_of_DAGLB,DAGLB
+A0ACI8RHS3,A0ACI8RHS3_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,539,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8RL84,A0ACI8RL84_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,568,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8SJR4,A0ACI8SJR4_HUMAN,LDAH,False,Lipid droplet-associated hydrolase (EC 3.1.1.13) (Lipid droplet-associated serine hydrolase),3.1.1.13,376,False,True,False,,alt_entry_of_LDAH,LDAH
+A0ACI8V3Z4,A0ACI8V3Z4_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,525,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A8K2H6,A8K2H6_HUMAN,,False,Lipase,,399,True,True,False,,fragment_of_LIPA,LIPA
+B3KRG8,B3KRG8_HUMAN,,False,Lipase,,399,True,True,False,,fragment_of_LIPA,LIPA
+E5RHN7,E5RHN7_HUMAN,LPL,False,Phospholipase A1,,105,True,True,False,,alt_entry_of_LPL,LPL
+H7C4H1,H7C4H1_HUMAN,PLA1A,False,Phospholipase A1 member A (EC 3.1.1.111),3.1.1.111,224,True,True,False,,alt_entry_of_PLA1A,PLA1A
+A0A2Q2TCK2,A0A2Q2TCK2_HUMAN,LIPI,False,Lipase member I,,451,True,True,False,,alt_entry_of_LIPI,LIPI
+A0ACI8Q4S7,A0ACI8Q4S7_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,570,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8RDC0,A0ACI8RDC0_HUMAN,LIPA,False,Lipase,,375,False,True,False,,alt_entry_of_LIPA,LIPA
+A0ACI8S8J3,A0ACI8S8J3_HUMAN,LIPH,False,Lipase H,,428,False,True,False,,alt_entry_of_LIPH,LIPH
+A0ACI8TLJ1,A0ACI8TLJ1_HUMAN,LIPG,False,"Lipase G, endothelial type",,440,False,True,False,,alt_entry_of_LIPG,LIPG
+A0ACI8UVY5,A0ACI8UVY5_HUMAN,LIPH,False,Lipase H,,419,False,True,False,,alt_entry_of_LIPH,LIPH
+A0ACI8V0W8,A0ACI8V0W8_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,568,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8V3X8,A0ACI8V3X8_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,553,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+B4DNR3,B4DNR3_HUMAN,,False,Putative protein-lysine deacylase ABHD14B (Alpha/beta hydrolase domain-containing protein 14B),,185,True,True,False,,fragment_of_ABHD14B,ABHD14B
+B4DQ28,B4DQ28_HUMAN,,False,Alpha/beta hydrolase domain-containing protein 17C (EC 3.1.2.22),3.1.2.22,207,True,True,False,,fragment_of_ABHD17C,ABHD17C
+B4DRG3,B4DRG3_HUMAN,FLJ21820,False,Lipid droplet-associated hydrolase (EC 3.1.1.13) (Lipid droplet-associated serine hydrolase),3.1.1.13,166,True,True,False,,fragment_of_LDAH,LDAH
+B4DS38,B4DS38_HUMAN,,False,Lipid droplet-associated hydrolase (EC 3.1.1.13) (Lipid droplet-associated serine hydrolase),3.1.1.13,283,True,True,False,,fragment_of_LDAH,LDAH
+H0Y3S0,H0Y3S0_HUMAN,LIPI,False,Lipase I,,375,True,True,False,,alt_entry_of_LIPI,LIPI
+A0A087WZG8,A0A087WZG8_HUMAN,LIPI,False,Lipase member I,,421,True,True,False,,alt_entry_of_LIPI,LIPI
+A0A0A0MSH6,A0A0A0MSH6_HUMAN,LDAH,False,Lipid droplet-associated hydrolase (EC 3.1.1.13) (Lipid droplet-associated serine hydrolase),3.1.1.13,283,True,True,False,,alt_entry_of_LDAH,LDAH
+A0A384MEH9,A0A384MEH9_HUMAN,,False,Alpha/beta hydrolase domain-containing protein 17B (EC 3.1.2.22),3.1.2.22,288,True,True,False,,fragment_of_ABHD17B,ABHD17B
+A0AAG2UXZ9,A0AAG2UXZ9_HUMAN,PNLIPRP2,False,triacylglycerol lipase (EC 3.1.1.3),3.1.1.3,207,True,True,False,,alt_entry_of_PNLIPRP2,PNLIPRP2
+A0ACI8PUR0,A0ACI8PUR0_HUMAN,ABHD14B,False,Putative protein-lysine deacylase ABHD14B (Alpha/beta hydrolase domain-containing protein 14B),,274,False,True,False,,alt_entry_of_ABHD14B,ABHD14B
+A0ACI8QMR0,A0ACI8QMR0_HUMAN,LIPH,False,Lipase H,,403,False,True,False,,alt_entry_of_LIPH,LIPH
+A0ACI8QQI8,A0ACI8QQI8_HUMAN,LIPH,False,Lipase H,,393,False,True,False,,alt_entry_of_LIPH,LIPH
+A0ACI8R7N1,A0ACI8R7N1_HUMAN,ABHD16A,False,acylglycerol lipase (EC 3.1.1.23),3.1.1.23,549,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8S7Y9,A0ACI8S7Y9_HUMAN,DAGLB,False,sn-1-specific diacylglycerol lipase (EC 3.1.1.116),3.1.1.116,646,False,True,False,,alt_entry_of_DAGLB,DAGLB
+A0ACI8TKD8,A0ACI8TKD8_HUMAN,DAGLB,False,sn-1-specific diacylglycerol lipase (EC 3.1.1.116),3.1.1.116,420,False,True,False,,alt_entry_of_DAGLB,DAGLB
+A0ACI8TQM6,A0ACI8TQM6_HUMAN,ABHD17C,False,Alpha/beta hydrolase domain-containing protein 17C (EC 3.1.2.22),3.1.2.22,269,False,True,False,,alt_entry_of_ABHD17C,ABHD17C
+A0ACI8TYJ2,A0ACI8TYJ2_HUMAN,LIPA,False,Lipase,,375,False,True,False,,alt_entry_of_LIPA,LIPA
+A0ACI8UVX9,A0ACI8UVX9_HUMAN,LIPH,False,Lipase H,,365,False,True,False,,alt_entry_of_LIPH,LIPH
+A0ACI8V0U8,A0ACI8V0U8_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,486,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8V1A4,A0ACI8V1A4_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,501,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8V4A2,A0ACI8V4A2_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,552,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8VCI5,A0ACI8VCI5_HUMAN,LPL,False,Lipoprotein lipase (EC 3.1.1.34),3.1.1.34,415,False,True,False,,alt_entry_of_LPL,LPL
+A8K0A4,A8K0A4_HUMAN,,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,558,True,True,False,,fragment_of_ABHD16A,ABHD16A
+B3KNX9,B3KNX9_HUMAN,BAT5,False,Phosphatidylserine lipase ABHD16A (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),,339,True,True,False,,fragment_of_ABHD16A,ABHD16A
+B4DU46,B4DU46_HUMAN,,False,Lipid droplet-associated hydrolase (EC 3.1.1.13) (Lipid droplet-associated serine hydrolase),3.1.1.13,81,True,True,False,,fragment_of_LDAH,LDAH
+B5MCE2,B5MCE2_HUMAN,LDAH,False,Lipid droplet-associated hydrolase (EC 3.1.1.13) (Lipid droplet-associated serine hydrolase),3.1.1.13,146,True,True,False,,alt_entry_of_LDAH,LDAH
+C9JHU6,C9JHU6_HUMAN,LDAH,False,Lipid droplet-associated hydrolase (EC 3.1.1.13) (Lipid droplet-associated serine hydrolase),3.1.1.13,130,True,True,False,,alt_entry_of_LDAH,LDAH
+E7EW14,E7EW14_HUMAN,LPL,False,Phospholipase A1,,115,True,True,False,,alt_entry_of_LPL,LPL
+Q68D36,Q68D36_HUMAN,DKFZp779I1240,False,Triacylglycerol lipase (EC 3.1.1.3) (Pancreatic lipase),3.1.1.3,118,True,True,False,,fragment_of_PNLIPRP1,PNLIPRP1
+A0ACI8R5M4,A0ACI8R5M4_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,554,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8RV27,A0ACI8RV27_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,556,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8SEM2,A0ACI8SEM2_HUMAN,LIPH,False,Lipase H,,421,False,True,False,,alt_entry_of_LIPH,LIPH
+A0ACI8TYJ9,A0ACI8TYJ9_HUMAN,LIPA,False,Lipase,,406,False,True,False,,alt_entry_of_LIPA,LIPA
+A0ACI8U054,A0ACI8U054_HUMAN,LIPA,False,Lipase,,404,False,True,False,,alt_entry_of_LIPA,LIPA
+A0ACI8UUN5,A0ACI8UUN5_HUMAN,LIPH,False,Lipase H,,458,False,True,False,,alt_entry_of_LIPH,LIPH
+A0ACI8V0U4,A0ACI8V0U4_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,524,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8V4D4,A0ACI8V4D4_HUMAN,ABHD17A,False,palmitoyl-protein hydrolase (EC 3.1.2.22),3.1.2.22,306,False,True,False,,alt_entry_of_ABHD17A,ABHD17A
+A0ACM8QBN3,A0ACM8QBN3_HUMAN,LDAH,False,Lipid droplet-associated hydrolase (EC 3.1.1.13) (Lipid droplet-associated serine hydrolase),3.1.1.13,166,False,True,False,,alt_entry_of_LDAH,LDAH
+A2IBA6,A2IBA6_HUMAN,,False,Mutant lipase H,,417,True,True,False,,fragment_of_LIPH,LIPH
+B4DPK4,B4DPK4_HUMAN,,False,"cDNA FLJ54609, highly similar to Homo sapiens lipase, member H (LIPH), mRNA",,394,True,True,False,,fragment_of_LIPH,LIPH
+B4DWE2,B4DWE2_HUMAN,,False,Lipid droplet-associated hydrolase (EC 3.1.1.13) (Lipid droplet-associated serine hydrolase),3.1.1.13,124,True,True,False,,fragment_of_LDAH,LDAH
+B5MCU4,B5MCU4_HUMAN,LDAH,False,Lipid droplet-associated hydrolase (EC 3.1.1.13) (Lipid droplet-associated serine hydrolase),3.1.1.13,240,True,True,False,,alt_entry_of_LDAH,LDAH
+C9JUM0,C9JUM0_HUMAN,LDAH,False,Lipid droplet-associated hydrolase (EC 3.1.1.13) (Lipid droplet-associated serine hydrolase),3.1.1.13,159,True,True,False,,alt_entry_of_LDAH,LDAH
+E5RJI0,E5RJI0_HUMAN,LPL,False,Phospholipase A1,,129,True,True,False,,alt_entry_of_LPL,LPL
+E7EX42,E7EX42_HUMAN,PNLIPRP1,False,Triacylglycerol lipase (EC 3.1.1.3) (Pancreatic lipase),3.1.1.3,118,True,True,False,,alt_entry_of_PNLIPRP1,PNLIPRP1
+F6RI74,F6RI74_HUMAN,LIPH,False,Lipase H,,417,False,True,False,,alt_entry_of_LIPH,LIPH
+F6W2D0,F6W2D0_HUMAN,ABHD14B,False,Putative protein-lysine deacylase ABHD14B (Alpha/beta hydrolase domain-containing protein 14B),,188,False,True,False,,alt_entry_of_ABHD14B,ABHD14B
+H0YN98,H0YN98_HUMAN,ABHD17C,False,Alpha/beta hydrolase domain-containing protein 17C (EC 3.1.2.22),3.1.2.22,94,True,True,False,,alt_entry_of_ABHD17C,ABHD17C
+A0A075B751,A0A075B751_HUMAN,LIPG,False,Phospholipase A1,,188,True,True,False,,alt_entry_of_LIPG,LIPG
+A0A7I2YQW9,A0A7I2YQW9_HUMAN,ABHD17A,False,palmitoyl-protein hydrolase (EC 3.1.2.22),3.1.2.22,301,True,True,False,,alt_entry_of_ABHD17A,ABHD17A
+A0ACI8PTI9,A0ACI8PTI9_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,520,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8QC77,A0ACI8QC77_HUMAN,ABHD17B,False,palmitoyl-protein hydrolase (EC 3.1.2.22),3.1.2.22,274,False,True,False,,alt_entry_of_ABHD17B,ABHD17B
+A0ACI8QXD1,A0ACI8QXD1_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,572,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8RNM0,A0ACI8RNM0_HUMAN,DAGLB,False,sn-1-specific diacylglycerol lipase (EC 3.1.1.116),3.1.1.116,644,False,True,False,,alt_entry_of_DAGLB,DAGLB
+A0ACI8RYT3,A0ACI8RYT3_HUMAN,ABHD14B,False,Putative protein-lysine deacylase ABHD14B (Alpha/beta hydrolase domain-containing protein 14B),,226,False,True,False,,alt_entry_of_ABHD14B,ABHD14B
+A0ACI8S6M3,A0ACI8S6M3_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,526,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8S7R6,A0ACI8S7R6_HUMAN,ABHD17A,False,palmitoyl-protein hydrolase (EC 3.1.2.22),3.1.2.22,292,False,True,False,,alt_entry_of_ABHD17A,ABHD17A
+A0ACI8TKU0,A0ACI8TKU0_HUMAN,DAGLB,False,sn-1-specific diacylglycerol lipase (EC 3.1.1.116),3.1.1.116,559,False,True,False,,alt_entry_of_DAGLB,DAGLB
+A0ACI8UVZ0,A0ACI8UVZ0_HUMAN,LIPH,False,Lipase H,,399,False,True,False,,alt_entry_of_LIPH,LIPH
+A0ACI8V0U5,A0ACI8V0U5_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,567,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8V0Y5,A0ACI8V0Y5_HUMAN,ABHD16A,False,Phosphatidylserine lipase ABHD16A (EC 3.1.1.23) (Alpha/beta hydrolase domain-containing protein 16A) (Monoacylglycerol lipase ABHD16A),3.1.1.23,532,False,True,False,,alt_entry_of_ABHD16A,ABHD16A
+A0ACI8VRZ5,A0ACI8VRZ5_HUMAN,DAGLA,False,sn-1-specific diacylglycerol lipase (EC 3.1.1.116),3.1.1.116,1014,False,True,False,,alt_entry_of_DAGLA,DAGLA
+B4DQI4,B4DQI4_HUMAN,,False,Putative protein-lysine deacylase ABHD14B (Alpha/beta hydrolase domain-containing protein 14B),,188,True,True,False,,fragment_of_ABHD14B,ABHD14B
+B5MDU6,B5MDU6_HUMAN,LDAH,False,Lipid droplet-associated hydrolase (EC 3.1.1.13) (Lipid droplet-associated serine hydrolase),3.1.1.13,370,True,True,False,,alt_entry_of_LDAH,LDAH
+B7Z4C6,B7Z4C6_HUMAN,,False,Phospholipase A1,,278,True,True,False,,fragment_of_LPL,LPL
+D3YTH1,D3YTH1_HUMAN,LDAH,False,Lipid droplet-associated hydrolase (EC 3.1.1.13) (Lipid droplet-associated serine hydrolase),3.1.1.13,156,True,True,False,,alt_entry_of_LDAH,LDAH
+H3BT59,H3BT59_HUMAN,PLA2G15,False,Phospholipase A2 group XV,,236,False,True,False,,alt_entry_of_PLA2G15,PLA2G15
+A0ACI8RX16,A0ACI8RX16_HUMAN,LYPLA1,False,palmitoyl-protein hydrolase (EC 3.1.2.22) (Palmitoyl-protein hydrolase),3.1.2.22,217,False,True,False,,alt_entry_of_LYPLA1,LYPLA1
+A0ACI8S4K5,A0ACI8S4K5_HUMAN,LYPLAL1,False,Lysophospholipase-like protein 1 (EC 3.1.2.22),3.1.2.22,230,False,True,False,,alt_entry_of_LYPLAL1,LYPLAL1
+A0ACI8RGE3,A0ACI8RGE3_HUMAN,LYPLA2,False,palmitoyl-protein hydrolase (EC 3.1.2.22) (Palmitoyl-protein hydrolase),3.1.2.22,173,False,True,False,,alt_entry_of_LYPLA2,LYPLA2
+Q5QPQ2,Q5QPQ2_HUMAN,LYPLA2,False,palmitoyl-protein hydrolase (EC 3.1.2.22),3.1.2.22,220,True,True,False,,alt_entry_of_LYPLA2,LYPLA2
+A0A140VJD1,A0A140VJD1_HUMAN,ABHD1,False,Protein ABHD1 (Alpha/beta hydrolase domain-containing protein 1),,405,True,True,False,,alt_entry_of_ABHD1,ABHD1
+A0ACI8R895,A0ACI8R895_HUMAN,LYPLAL1,False,Lysophospholipase-like protein 1 (EC 3.1.2.22),3.1.2.22,220,False,True,False,,alt_entry_of_LYPLAL1,LYPLAL1
+A0ACI8TCC8,A0ACI8TCC8_HUMAN,LYPLA2,False,palmitoyl-protein hydrolase (EC 3.1.2.22) (Palmitoyl-protein hydrolase),3.1.2.22,230,False,True,False,,alt_entry_of_LYPLA2,LYPLA2
+Q5QPN5,Q5QPN5_HUMAN,LYPLA2,False,palmitoyl-protein hydrolase (EC 3.1.2.22),3.1.2.22,90,True,True,False,,alt_entry_of_LYPLA2,LYPLA2
+A0ACI8V323,A0ACI8V323_HUMAN,LYPLA2,False,palmitoyl-protein hydrolase (EC 3.1.2.22) (Palmitoyl-protein hydrolase),3.1.2.22,224,False,True,False,,alt_entry_of_LYPLA2,LYPLA2
+Q5QPQ1,Q5QPQ1_HUMAN,LYPLA2,False,palmitoyl-protein hydrolase (EC 3.1.2.22) (Palmitoyl-protein hydrolase),3.1.2.22,162,True,True,False,,alt_entry_of_LYPLA2,LYPLA2
+A0A140VJC9,A0A140VJC9_HUMAN,LYPLA2,False,palmitoyl-protein hydrolase (EC 3.1.2.22) (Palmitoyl-protein hydrolase),3.1.2.22,231,True,True,False,,alt_entry_of_LYPLA2,LYPLA2
+A0ACI8RJW8,A0ACI8RJW8_HUMAN,LYPLA2,False,palmitoyl-protein hydrolase (EC 3.1.2.22) (Palmitoyl-protein hydrolase),3.1.2.22,242,False,True,False,,alt_entry_of_LYPLA2,LYPLA2
+A0ACI8SAP5,A0ACI8SAP5_HUMAN,LYPLAL1,False,Lysophospholipase-like protein 1 (EC 3.1.2.22),3.1.2.22,246,False,True,False,,alt_entry_of_LYPLAL1,LYPLAL1
+A0ACI8SHF1,A0ACI8SHF1_HUMAN,LYPLAL1,False,Lysophospholipase-like protein 1 (EC 3.1.2.22),3.1.2.22,236,False,True,False,,alt_entry_of_LYPLAL1,LYPLAL1
+Q5QPQ0,Q5QPQ0_HUMAN,LYPLA2,False,palmitoyl-protein hydrolase (EC 3.1.2.22) (Palmitoyl-protein hydrolase),3.1.2.22,164,True,True,False,,alt_entry_of_LYPLA2,LYPLA2
+A0ACI8VNR2,A0ACI8VNR2_HUMAN,SERHL2,False,Serine hydrolase like 2,,341,False,True,False,,alt_entry_of_SERHL2,SERHL2
+A6ND93,A6ND93_HUMAN,SERHL2,False,Serine hydrolase like 2,,203,True,True,False,,alt_entry_of_SERHL2,SERHL2
+C9JUD2,C9JUD2_HUMAN,MEST,False,Mesoderm specific transcript,,188,True,True,False,,alt_entry_of_MEST,MEST
+H0YLW1,H0YLW1_HUMAN,SPG21,False,"SPG21 abhydrolase domain containing, maspardin",,71,True,True,False,,alt_entry_of_SPG21,SPG21
+H0YML6,H0YML6_HUMAN,SPG21,False,"SPG21 abhydrolase domain containing, maspardin",,40,True,True,False,,alt_entry_of_SPG21,SPG21
+A0ACI8VM59,A0ACI8VM59_HUMAN,SERHL2,False,Serine hydrolase like 2,,345,False,True,False,,alt_entry_of_SERHL2,SERHL2
+C9JCM6,C9JCM6_HUMAN,MEST,False,Mesoderm specific transcript,,169,True,True,False,,alt_entry_of_MEST,MEST
+H0YLT5,H0YLT5_HUMAN,SPG21,False,"SPG21 abhydrolase domain containing, maspardin",,102,True,True,False,,alt_entry_of_SPG21,SPG21
+H3BRR0,H3BRR0_HUMAN,SPG21,False,"SPG21 abhydrolase domain containing, maspardin",,154,True,True,False,,alt_entry_of_SPG21,SPG21
+A0A140VK89,A0A140VK89_HUMAN,,False,Testis secretory sperm-binding protein Li 216e,,314,True,True,False,,fragment_of_SERHL2,SERHL2
+A0ACI8VHB7,A0ACI8VHB7_HUMAN,SERHL2,False,Serine hydrolase like 2,,330,False,True,False,,alt_entry_of_SERHL2,SERHL2
+A0ACI8VNR4,A0ACI8VNR4_HUMAN,SERHL2,False,Serine hydrolase like 2,,299,False,True,False,,alt_entry_of_SERHL2,SERHL2
+A0ACI8VNR9,A0ACI8VNR9_HUMAN,SERHL2,False,Serine hydrolase like 2,,313,False,True,False,,alt_entry_of_SERHL2,SERHL2
+B4DGG4,B4DGG4_HUMAN,,False,"cDNA FLJ60497, highly similar to Serine hydrolase-like protein",,131,True,True,False,,fragment_of_SERHL2,SERHL2
+F2Z3M3,F2Z3M3_HUMAN,SERHL2,False,Serine hydrolase like 2,,209,True,True,False,,alt_entry_of_SERHL2,SERHL2
+Q8N1U3,Q8N1U3_HUMAN,,False,"HCG2010716, isoform CRA_a (cDNA FLJ37553 fis, clone BRCAN2028338, moderately similar to Mus musculus serine hydrolase protein, isoform 2)",,146,True,True,False,,unassigned_fragment,
+A0ACI8PUD6,A0ACI8PUD6_HUMAN,SERHL2,False,Serine hydrolase like 2,,300,False,True,False,,alt_entry_of_SERHL2,SERHL2
+C9JG66,C9JG66_HUMAN,MEST,False,Mesoderm specific transcript,,117,True,True,False,,alt_entry_of_MEST,MEST
+C9JRA9,C9JRA9_HUMAN,MEST,False,Mesoderm specific transcript,,160,True,True,False,,alt_entry_of_MEST,MEST
+F6WR64,F6WR64_HUMAN,SERHL2,False,Serine hydrolase like 2,,131,False,True,False,,alt_entry_of_SERHL2,SERHL2
+H0YKM6,H0YKM6_HUMAN,SPG21,False,"SPG21 abhydrolase domain containing, maspardin",,129,True,True,False,,alt_entry_of_SPG21,SPG21
+Q0VDJ0,Q0VDJ0_HUMAN,SERHL2,False,Serine hydrolase-like 2,,314,True,True,False,,alt_entry_of_SERHL2,SERHL2
+Q6ICB3,Q6ICB3_HUMAN,dJ222E13.1,False,DJ222E13.1 protein,,134,False,True,False,,fragment_of_SERHL2,SERHL2
+A0A0A0MSL7,A0A0A0MSL7_HUMAN,SERHL2,False,Serine hydrolase like 2,,99,True,True,False,,alt_entry_of_SERHL2,SERHL2
+A0ACI8QJ09,A0ACI8QJ09_HUMAN,SERHL2,False,Serine hydrolase like 2,,275,False,True,False,,alt_entry_of_SERHL2,SERHL2
+A0ACI8VMI2,A0ACI8VMI2_HUMAN,SERHL2,False,Serine hydrolase like 2,,327,False,True,False,,alt_entry_of_SERHL2,SERHL2
+B4DHQ4,B4DHQ4_HUMAN,,False,"cDNA FLJ53041, highly similar to Serine hydrolase-like protein",,261,True,True,False,,fragment_of_SERHL2,SERHL2
+B4DQW6,B4DQW6_HUMAN,,False,"cDNA FLJ52984, highly similar to Homo sapiens mesoderm specific transcript homolog (MEST), transcript variant 1, mRNA",,321,True,True,False,,fragment_of_MEST,MEST
+H0YC52,H0YC52_HUMAN,ABHD11,False,Abhydrolase domain containing 11,,87,True,True,False,,alt_entry_of_ABHD11,ABHD11
+H0YLD7,H0YLD7_HUMAN,SPG21,False,"SPG21 abhydrolase domain containing, maspardin",,53,True,True,False,,alt_entry_of_SPG21,SPG21
+R4GN52,R4GN52_HUMAN,MEST,False,Mesoderm specific transcript,,173,True,True,False,,alt_entry_of_MEST,MEST
+A0A0A0MT32,A0A0A0MT32_HUMAN,LIPA,False,"Lipase A, lysosomal acid type",,283,True,True,False,,alt_entry_of_LIPA,LIPA
+A0ACI8QTX4,A0ACI8QTX4_HUMAN,PLA2G15,False,Phospholipase A2 group XV,,444,False,True,False,,alt_entry_of_PLA2G15,PLA2G15
+B3KU19,B3KU19_HUMAN,,False,"cDNA FLJ39087 fis, clone NT2RP7019273, highly similar to Lysosomal acid lipase/cholesteryl esterhydrolase",,357,True,True,False,,fragment_of_LIPA,LIPA
+E9PJC9,E9PJC9_HUMAN,PNLIPRP1,False,Pancreatic lipase related protein 1,,163,True,True,False,,alt_entry_of_PNLIPRP1,PNLIPRP1
+E9PMX6,E9PMX6_HUMAN,PNLIPRP1,False,Pancreatic lipase related protein 1,,185,True,True,False,,alt_entry_of_PNLIPRP1,PNLIPRP1
+J3QSE5,J3QSE5_HUMAN,LCAT,False,Lecithin-cholesterol acyltransferase,,255,True,True,False,,alt_entry_of_LCAT,LCAT
+Q53F21,Q53F21_HUMAN,,False,"Lipase, gastric variant",,398,True,True,False,,fragment_of_LIPF,LIPF
+A0AAG2UW70,A0AAG2UW70_HUMAN,PNLIPRP2,False,Pancreatic lipase related protein 2 (gene/pseudogene),,57,True,True,False,,alt_entry_of_PNLIPRP2,PNLIPRP2
+A0ACI8QGV6,A0ACI8QGV6_HUMAN,PLA2G15,False,Phospholipase A2 group XV,,436,False,True,False,,alt_entry_of_PLA2G15,PLA2G15
+A0ACI8TYN7,A0ACI8TYN7_HUMAN,LIPA,False,"Lipase A, lysosomal acid type",,296,False,True,False,,alt_entry_of_LIPA,LIPA
+B4DPU0,B4DPU0_HUMAN,,False,"cDNA FLJ57757, highly similar to 1-O-acylceramide synthase",,212,True,True,False,,fragment_of_PLA2G15,PLA2G15
+C9J7W8,C9J7W8_HUMAN,ABHD14A,False,Abhydrolase domain containing 14A,,224,True,True,False,,alt_entry_of_ABHD14A,ABHD14A
+C9JMW6,C9JMW6_HUMAN,ABHD14A,False,Abhydrolase domain containing 14A,,152,True,True,False,,alt_entry_of_ABHD14A,ABHD14A
+F5GY58,F5GY58_HUMAN,DAGLA,False,Diacylglycerol lipase alpha,,167,True,True,False,,alt_entry_of_DAGLA,DAGLA
+F8WBN0,F8WBN0_HUMAN,DAGLB,False,Diacylglycerol lipase beta,,172,True,True,False,,alt_entry_of_DAGLB,DAGLB
+H0YDY1,H0YDY1_HUMAN,PNLIPRP1,False,Pancreatic lipase related protein 1,,179,True,True,False,,alt_entry_of_PNLIPRP1,PNLIPRP1
+H7C2X1,H7C2X1_HUMAN,LIPH,False,Lipase H,,85,True,True,False,,alt_entry_of_LIPH,LIPH
+Q5D1Q2,Q5D1Q2_HUMAN,LOC375108,False,Membrane-associated phospholipase A1 beta splice variant,,140,True,True,False,,fragment_of_LIPI,LIPI
+A0ACI8RJX1,A0ACI8RJX1_HUMAN,PLA2G15,False,Phospholipase A2 group XV,,391,False,True,False,,alt_entry_of_PLA2G15,PLA2G15
+A0ACI8V842,A0ACI8V842_HUMAN,PLA2G15,False,Phospholipase A2 group XV,,464,False,True,False,,alt_entry_of_PLA2G15,PLA2G15
+A0ACI8V880,A0ACI8V880_HUMAN,PLA2G15,False,Phospholipase A2 group XV,,443,False,True,False,,alt_entry_of_PLA2G15,PLA2G15
+A0ACI8V8A3,A0ACI8V8A3_HUMAN,PLA2G15,False,Phospholipase A2 group XV,,440,False,True,False,,alt_entry_of_PLA2G15,PLA2G15
+E9PR20,E9PR20_HUMAN,PNLIPRP1,False,Pancreatic lipase related protein 1,,191,True,True,False,,alt_entry_of_PNLIPRP1,PNLIPRP1
+H3BPT3,H3BPT3_HUMAN,PLA2G15,False,Phospholipase A2 group XV,,242,True,True,False,,alt_entry_of_PLA2G15,PLA2G15
+I3L0J6,I3L0J6_HUMAN,LCAT,False,Lecithin-cholesterol acyltransferase,,80,True,True,False,,alt_entry_of_LCAT,LCAT
+I3L1Q6,I3L1Q6_HUMAN,LCAT,False,Lecithin-cholesterol acyltransferase,,107,True,True,False,,alt_entry_of_LCAT,LCAT
+J3QKT0,J3QKT0_HUMAN,LCAT,False,Lecithin-cholesterol acyltransferase,,138,True,True,False,,alt_entry_of_LCAT,LCAT
+Q5T770,Q5T770_HUMAN,LIPA,False,"Lipase A, lysosomal acid type",,219,True,True,False,,alt_entry_of_LIPA,LIPA
+Q6ZUY8,Q6ZUY8_HUMAN,,False,Lipase,,401,True,True,False,,fragment_of_LIPA,LIPA
+A0ACI8SES6,A0ACI8SES6_HUMAN,PLA2G15,False,Phospholipase A2 group XV,,337,False,True,False,,alt_entry_of_PLA2G15,PLA2G15
+A0ACI8SS96,A0ACI8SS96_HUMAN,PLA2G15,False,Phospholipase A2 group XV,,304,False,True,False,,alt_entry_of_PLA2G15,PLA2G15
+A0ACI8V834,A0ACI8V834_HUMAN,PLA2G15,False,Phospholipase A2 group XV,,336,False,True,False,,alt_entry_of_PLA2G15,PLA2G15
+A2IBA8,A2IBA8_HUMAN,LIPH,False,Lipase H,,33,True,True,False,,alt_entry_of_LIPH,LIPH
+B4DJW4,B4DJW4_HUMAN,,False,"cDNA FLJ58003, highly similar to 1-O-acylceramide synthase",,236,True,True,False,,unassigned_fragment,
+E9PMA6,E9PMA6_HUMAN,PNLIPRP1,False,Pancreatic lipase related protein 1,,131,True,True,False,,alt_entry_of_PNLIPRP1,PNLIPRP1
+F6XJC7,F6XJC7_HUMAN,PLA2G15,False,Phospholipase A2 group XV,,212,False,True,False,,alt_entry_of_PLA2G15,PLA2G15
+Q4JIZ7,Q4JIZ7_HUMAN,,False,Lipoprotein lipase,,60,True,True,False,,fragment_of_LPL,LPL
+A0ACI8RZ72,A0ACI8RZ72_HUMAN,ABHD14A,False,Abhydrolase domain containing 14A,,227,False,True,False,,alt_entry_of_ABHD14A,ABHD14A
+A0ACI8UN18,A0ACI8UN18_HUMAN,LIPA,False,"Lipase A, lysosomal acid type",,351,False,True,False,,alt_entry_of_LIPA,LIPA
+A0ACI8V858,A0ACI8V858_HUMAN,PLA2G15,False,Phospholipase A2 group XV,,400,False,True,False,,alt_entry_of_PLA2G15,PLA2G15
+C9JA85,C9JA85_HUMAN,DAGLB,False,Diacylglycerol lipase beta,,149,True,True,False,,alt_entry_of_DAGLB,DAGLB
+H3BM47,H3BM47_HUMAN,PLA2G15,False,Phospholipase A2 group XV,,163,True,True,False,,alt_entry_of_PLA2G15,PLA2G15
+H3BMU8,H3BMU8_HUMAN,PLA2G15,False,Phospholipase A2 group XV,,298,True,True,False,,alt_entry_of_PLA2G15,PLA2G15
+E5RFH6,E5RFH6_HUMAN,EPHX2,False,Epoxide hydrolase 2,,372,True,True,False,,alt_entry_of_EPHX2,EPHX2
+A0ACI8PWA6,A0ACI8PWA6_HUMAN,EPHX2,False,Epoxide hydrolase 2,,519,False,True,False,,alt_entry_of_EPHX2,EPHX2
+A0ACI8URS3,A0ACI8URS3_HUMAN,EPHX2,False,Epoxide hydrolase 2,,489,False,True,False,,alt_entry_of_EPHX2,EPHX2
+A0ACI8VMU3,A0ACI8VMU3_HUMAN,ABHD1,False,Abhydrolase domain containing 1,,269,False,True,False,,alt_entry_of_ABHD1,ABHD1
+J3KSP1,J3KSP1_HUMAN,ABHD3,False,"Abhydrolase domain containing 3, phospholipase",,214,True,True,False,,alt_entry_of_ABHD3,ABHD3
+J3QQR0,J3QQR0_HUMAN,ABHD3,False,"Abhydrolase domain containing 3, phospholipase",,112,True,True,False,,alt_entry_of_ABHD3,ABHD3
+A0ACI8RCC5,A0ACI8RCC5_HUMAN,ABHD3,False,"Abhydrolase domain containing 3, phospholipase",,298,False,True,False,,alt_entry_of_ABHD3,ABHD3
+A0ACI8SV89,A0ACI8SV89_HUMAN,LYPLAL1,False,palmitoyl-protein hydrolase (EC 3.1.2.22),3.1.2.22,147,False,True,False,,alt_entry_of_LYPLAL1,LYPLAL1
+B3KVW3,B3KVW3_HUMAN,LYPLAL1,False,palmitoyl-protein hydrolase (EC 3.1.2.22),3.1.2.22,113,True,True,False,,alt_entry_of_LYPLAL1,LYPLAL1
+B4DL35,B4DL35_HUMAN,,False,"cDNA FLJ51230, highly similar to Abhydrolase domain-containing protein 2",,289,True,True,False,,unassigned_fragment,
+C9J8C2,C9J8C2_HUMAN,ABHD1,False,Abhydrolase domain containing 1,,177,True,True,False,,alt_entry_of_ABHD1,ABHD1
+A0ACI8S7L2,A0ACI8S7L2_HUMAN,LYPLA2,False,palmitoyl-protein hydrolase (EC 3.1.2.22),3.1.2.22,197,False,True,False,,alt_entry_of_LYPLA2,LYPLA2
+A0A1B1RVA9,A0A1B1RVA9_HUMAN,,False,deleted,,475,True,False,False,,fragment_of_LPL,LPL
+A0A1U9X777,A0A1U9X777_HUMAN,,False,deleted,,558,True,False,False,,fragment_of_ABHD16A,ABHD16A
+B3KRA0,B3KRA0_HUMAN,,False,sn-1-specific diacylglycerol lipase (EC 3.1.1.116),3.1.1.116,369,True,False,False,,unassigned_fragment,
+B4DVJ1,B4DVJ1_HUMAN,,False,sn-1-specific diacylglycerol lipase (EC 3.1.1.116),3.1.1.116,220,True,False,False,,unassigned_fragment,
+A4D1L9,A4D1L9_HUMAN,,False,deleted,,326,True,False,False,,fragment_of_MEST,MEST
+B3KR38,B3KR38_HUMAN,,False,"cDNA FLJ33624 fis, clone BRAMY2021962, highly similar to Homo sapiens diacylglycerol lipase beta",,218,True,False,False,,fragment_of_DAGLB,DAGLB
+B9TXP1,B9TXP1_HUMAN,,False,deleted,,49,True,False,False,,fragment_of_LIPC,LIPC
+O00748,EST2_HUMAN,CES2,True,Cocaine esterase (EC 3.1.1.84) (Carboxylesterase 2) (CE-2) (hCE-2) (EC 3.1.1.1) (Methylumbelliferyl-acetate deacetylase 2) (EC 3.1.1.56),3.1.1.1; 3.1.1.56; 3.1.1.84,559,False,False,True,3.40.50.1820-FF-000011,canonical,CES2
+P10619,PPGB_HUMAN,CTSA,True,Lysosomal protective protein (EC 3.4.16.5) (Carboxypeptidase C) (Carboxypeptidase L) (Cathepsin A) (Protective protein cathepsin A) (PPCA) (Protective protein for beta-galactosidase) [Cleaved into: Lysosomal protective protein 32 kDa chain; Lysosomal protective protein 20 kDa chain],3.4.16.5,480,False,False,True,3.40.50.1820-FF-000055,canonical,CTSA
+P19835,CEL_HUMAN,CEL,True,Bile salt-activated lipase (BAL) (EC 3.1.1.13) (EC 3.1.1.3) (EC 3.1.1.6) (Bile salt-stimulated lipase) (BSSL) (Bucelipase) (Carboxyl ester lipase) (Cholesterol esterase) (Pancreatic lysophospholipase) (Sterol esterase),3.1.1.13; 3.1.1.3; 3.1.1.6,753,False,False,True,3.40.50.1820-FF-000100,canonical,CEL
+P22303,ACES_HUMAN,ACHE,True,Acetylcholinesterase (AChE) (EC 3.1.1.7),3.1.1.7,614,False,False,True,3.40.50.1820-FF-000029,canonical,ACHE
+P42658,DPP6_HUMAN,DPP6,True,A-type potassium channel modulatory protein DPP6 (DPPX) (Dipeptidyl aminopeptidase-like protein 6) (Dipeptidyl aminopeptidase-related protein) (Dipeptidyl peptidase 6) (Dipeptidyl peptidase IV-like protein) (Dipeptidyl peptidase VI) (DPP VI),,865,False,False,True,3.40.50.1820-FF-000003,canonical,DPP6
+P50897,PPT1_HUMAN,PPT1,True,Palmitoyl-protein thioesterase 1 (PPT-1) (EC 3.1.2.2) (EC 3.1.2.22) (Palmitoyl-protein hydrolase 1),3.1.2.2; 3.1.2.22,306,False,False,True,3.40.50.1820-FF-000098,canonical,PPT1
+Q3I5F7,ACOT6_HUMAN,ACOT6,True,Acyl-coenzyme A thioesterase 6 (Acyl-CoA thioesterase 6) (EC 3.1.2.-),3.1.2.-,421,False,False,True,3.40.50.1820-FF-000269,canonical,ACOT6
+Q96JX3,SRAC1_HUMAN,SERAC1,True,Protein SERAC1 (Serine active site-containing protein 1),,654,False,False,True,3.40.50.1820-FF-000088,canonical,SERAC1
+P13798,ACPH_HUMAN,APEH,True,Acylamino-acid-releasing enzyme (AARE) (EC 3.4.19.1) (Acyl-peptide hydrolase) (APH) (Acylaminoacyl-peptidase) (Oxidized protein hydrolase) (OPH),3.4.19.1,732,False,False,True,3.40.50.1820-FF-000043,canonical,APEH
+Q14032,BAAT_HUMAN,BAAT,True,Bile acid-CoA:amino acid N-acyltransferase (BACAT) (BAT) (EC 2.3.1.65) (Bile acid-CoA thioesterase) (Choloyl-CoA hydrolase) (EC 3.1.2.27) (Glycine N-choloyltransferase) (Long-chain fatty-acyl-CoA hydrolase) (EC 3.1.2.2),2.3.1.65; 3.1.2.2; 3.1.2.27,418,False,False,True,3.40.50.1820-FF-000024,canonical,BAAT
+Q86TI2,DPP9_HUMAN,DPP9,True,Dipeptidyl peptidase 9 (DP9) (EC 3.4.14.5) (Dipeptidyl peptidase IV-related protein 2) (DPRP-2) (Dipeptidyl peptidase IX) (DPP IX) (Dipeptidyl peptidase-like protein 9) (DPLP9),3.4.14.5,863,False,False,True,3.40.50.1820-FF-000016,canonical,DPP9
+Q8NFZ4,NLGN2_HUMAN,NLGN2,True,Neuroligin-2,,835,False,False,True,3.40.50.1820-FF-000001,canonical,NLGN2
+Q8WTS1,ABHD5_HUMAN,ABHD5,True,1-acylglycerol-3-phosphate O-acyltransferase ABHD5 (EC 2.3.1.51) (Abhydrolase domain-containing protein 5) (Lipid droplet-binding protein CGI-58),2.3.1.51,349,False,False,True,3.40.50.1820-FF-000019,canonical,ABHD5
+Q9UHL4,DPP2_HUMAN,DPP7,True,Dipeptidyl peptidase 2 (EC 3.4.14.2) (Dipeptidyl aminopeptidase II) (Dipeptidyl peptidase 7) (Dipeptidyl peptidase II) (DPP II) (Quiescent cell proline dipeptidase),3.4.14.2,492,False,False,True,3.40.50.1820-FF-000014,canonical,DPP7
+P23141,EST1_HUMAN,CES1,True,Liver carboxylesterase 1 (Acyl-coenzyme A:cholesterol acyltransferase) (ACAT) (Brain carboxylesterase hBr1) (Carboxylesterase 1) (CE-1) (hCE-1) (EC 3.1.1.1) (Cholesteryl ester hydrolase) (CEH) (EC 3.1.1.13) (Cocaine carboxylesterase) (Egasyn) (HMSE) (Methylumbelliferyl-acetate deacetylase 1) (EC 3.1.1.56) (Monocyte/macrophage serine esterase) (Retinyl ester hydrolase) (REH) (Serine esterase 1) (Triacylglycerol hydrolase) (TGH),3.1.1.1; 3.1.1.13; 3.1.1.56,567,False,False,True,3.40.50.1820-FF-000011,canonical,CES1
+P27487,DPP4_HUMAN,DPP4,True,Dipeptidyl peptidase 4 (EC 3.4.14.5) (ADABP) (Adenosine deaminase complexing protein 2) (ADCP-2) (Dipeptidyl peptidase IV) (DPP IV) (T-cell activation antigen CD26) (TP103) (CD antigen CD26) [Cleaved into: Dipeptidyl peptidase 4 membrane form (Dipeptidyl peptidase IV membrane form); Dipeptidyl peptidase 4 soluble form (Dipeptidyl peptidase IV soluble form)],3.4.14.5,766,False,False,True,3.40.50.1820-FF-000003,canonical,DPP4
+P42785,PCP_HUMAN,PRCP,True,Lysosomal Pro-X carboxypeptidase (EC 3.4.16.2) (Angiotensinase C) (Lysosomal carboxypeptidase C) (Proline carboxypeptidase) (Prolylcarboxypeptidase) (PRCP),3.4.16.2,496,False,False,True,3.40.50.1820-FF-000014,canonical,PRCP
+Q8N9L9,ACOT4_HUMAN,ACOT4,True,Peroxisomal succinyl-coenzyme A thioesterase (EC 3.1.2.3) (Acyl-coenzyme A thioesterase 4) (Acyl-CoA thioesterase 4) (EC 3.1.2.2) (PTE-2b) (Peroxisomal acyl coenzyme A thioester hydrolase Ib) (Peroxisomal long-chain acyl-CoA thioesterase Ib) (PTE-Ib),3.1.2.2; 3.1.2.3,421,False,False,True,3.40.50.1820-FF-000024,canonical,ACOT4
+Q99487,PAFA2_HUMAN,PAFAH2,True,"Platelet-activating factor acetylhydrolase 2, cytoplasmic (EC 3.1.1.47) (PAF:lysophospholipid transacetylase) (PAF:sphingosine transacetylase) (Platelet-activating factor acetyltransferase PAFAH2) (EC 2.3.1.149) (Serine-dependent phospholipase A2) (SD-PLA2) (hSD-PLA2)",2.3.1.149; 3.1.1.47,392,False,False,True,3.40.50.1820-FF-000062,canonical,PAFAH2
+Q9NV23,SAST_HUMAN,OLAH,True,"S-acyl fatty acid synthase thioesterase, medium chain (EC 3.1.2.14) (Augmented in rheumatoid arthritis 1) (AURA1) (Oleoyl-ACP hydrolase) (Thioesterase 2) (TE2) (Thioesterase II) (Thioesterase domain-containing protein 1)",3.1.2.14,265,False,False,True,3.40.50.1820-FF-000153,canonical,OLAH
+P07099,HYEP_HUMAN,EPHX1,True,Epoxide hydrolase 1 (EC 3.3.2.9) (Epoxide hydratase) (Microsomal epoxide hydrolase) (mEH),3.3.2.9,455,False,False,True,3.40.50.1820-FF-000172,canonical,EPHX1
+P10768,ESTD_HUMAN,ESD,True,S-formylglutathione hydrolase (FGH) (EC 3.1.2.12) (Esterase D) (Methylumbelliferyl-acetate deacetylase) (EC 3.1.1.56),3.1.1.56; 3.1.2.12,282,False,False,True,3.40.50.1820-FF-000002,canonical,ESD
+P22760,AAAD_HUMAN,AADAC,True,Deacylase AADAC (EC 3.-.-.-) (Acetylesterase AADAC) (EC 3.1.1.6) (Arylacetamide deacetylase) (Arylalkyl acylamidase AADAC) (EC 3.5.1.76) (Diacylglycerol lipase activity AADAC) (EC 3.1.1.79),3.-.-.-; 3.1.1.6; 3.1.1.79; 3.5.1.76,399,False,False,True,3.40.50.1820-FF-000114,canonical,AADAC
+Q75T13,PGAP1_HUMAN,PGAP1,True,GPI inositol-deacylase (EC 3.1.-.-) (Post-GPI attachment to proteins factor 1) (hPGAP1),3.1.-.-,922,False,False,True,3.40.50.1820-FF-000026,canonical,PGAP1
+Q86TX2,ACOT1_HUMAN,ACOT1,True,Acyl-coenzyme A thioesterase 1 (Acyl-CoA thioesterase 1) (EC 3.1.2.-) (CTE-I) (CTE-Ib) (Inducible cytosolic acyl-coenzyme A thioester hydrolase) (Long chain acyl-CoA thioester hydrolase) (Long chain acyl-CoA hydrolase) (Palmitoyl-coenzyme A thioesterase) (EC 3.1.2.2),3.1.2.-; 3.1.2.2,421,False,False,True,3.40.50.1820-FF-000024,canonical,ACOT1
+Q8N2K0,ABD12_HUMAN,ABHD12,True,Lysophosphatidylserine lipase ABHD12 (EC 3.1.1.-) (2-arachidonoylglycerol hydrolase ABHD12) (Abhydrolase domain-containing protein 12) (hABHD12) (Monoacylglycerol lipase ABHD12) (EC 3.1.1.23) (Oxidized phosphatidylserine lipase ABHD12) (EC 3.1.-.-),3.1.-.-; 3.1.1.-; 3.1.1.23,398,False,False,True,3.40.50.1820-FF-000069,canonical,ABHD12
+Q8N2Q7,NLGN1_HUMAN,NLGN1,True,Neuroligin-1,,863,False,False,True,3.40.50.1820-FF-000001,canonical,NLGN1
+Q96DG6,CMBL_HUMAN,CMBL,True,Carboxymethylenebutenolidase homolog (EC 3.1.-.-),3.1.-.-,245,False,False,True,3.40.50.1820-FF-000178,canonical,CMBL
+Q9NZ94,NLGN3_HUMAN,NLGN3,True,Neuroligin-3 (Gliotactin homolog),,848,False,False,True,3.40.50.1820-FF-000001,canonical,NLGN3
+Q9P2N6,KANL3_HUMAN,KANSL3,True,KAT8 regulatory NSL complex subunit 3 (NSL complex protein NSL3) (Non-specific lethal 3 homolog) (Serum inhibited-related protein) (Testis development protein PRTD),,904,False,False,True,3.40.50.1820-FF-000032,canonical,KANSL3
+Q9UMR5,PPT2_HUMAN,PPT2,True,Lysosomal thioesterase PPT2 (PPT-2) (EC 3.1.2.2) (Palmitoyl-protein thioesterase 2) (S-thioesterase G14),3.1.2.2,302,False,False,True,3.40.50.1820-FF-000037,canonical,PPT2
+P06276,CHLE_HUMAN,BCHE,True,Cholinesterase (EC 3.1.1.8) (Acylcholine acylhydrolase) (Butyrylcholine esterase) (Choline esterase II) (Pseudocholinesterase),3.1.1.8,602,False,False,True,3.40.50.1820-FF-000029,canonical,BCHE
+P48147,PPCE_HUMAN,PREP,True,Prolyl endopeptidase (PE) (EC 3.4.21.26) (Post-proline cleaving enzyme),3.4.21.26,710,False,False,True,3.40.50.1820-FF-000005,canonical,PREP
+P49327,FAS_HUMAN,FASN,True,Fatty acid synthase (EC 2.3.1.85) (Type I fatty acid synthase) [Includes: [Acyl-carrier-protein] S-acetyltransferase (EC 2.3.1.38); [Acyl-carrier-protein] S-malonyltransferase (EC 2.3.1.39); 3-oxoacyl-[acyl-carrier-protein] synthase (EC 2.3.1.41); 3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100); 3-hydroxyacyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.59); Enoyl-[acyl-carrier-protein] reductase (EC 1.3.1.39); Acyl-[acyl-carrier-protein] hydrolase (EC 3.1.2.14)],1.1.1.100; 1.3.1.39; 2.3.1.38; 2.3.1.39; 2.3.1.41; 2.3.1.85; 3.1.2.14; 4.2.1.59,2511,False,False,True,3.40.50.1820-FF-000059;3.40.50.1820-FF-000105,canonical,FASN
+P49753,ACOT2_HUMAN,ACOT2,True,"Acyl-coenzyme A thioesterase 2, mitochondrial (Acyl-CoA thioesterase 2) (EC 3.1.2.2) (Acyl-coenzyme A thioester hydrolase 2a) (CTE-Ia) (Long-chain acyl-CoA thioesterase 2) (ZAP128)",3.1.2.2,483,False,False,True,3.40.50.1820-FF-000024,canonical,ACOT2
+Q6UWW8,EST3_HUMAN,CES3,True,Carboxylesterase 3 (EC 3.1.1.1) (Liver carboxylesterase 31 homolog),3.1.1.1,571,False,False,True,3.40.50.1820-FF-000011,canonical,CES3
+Q8N0W4,NLGNX_HUMAN,NLGN4X,True,"Neuroligin-4, X-linked (Neuroligin X) (HNLX)",,816,False,False,True,3.40.50.1820-FF-000001,canonical,NLGN4X
+Q8WZ82,OVCA2_HUMAN,OVCA2,True,Esterase OVCA2 (EC 3.1.1.1) (OVCA2 serine hydrolase domain-containing protein) (Ovarian cancer-associated gene 2 protein),3.1.1.1,227,False,False,True,3.40.50.1820-FF-000073,canonical,OVCA2
+O75884,RBBP9_HUMAN,RBBP9,True,Serine hydrolase RBBP9 (EC 3.1.-.-) (B5T-overexpressed gene protein) (Protein BOG) (Retinoblastoma-binding protein 10) (RBBP-10) (Retinoblastoma-binding protein 9) (RBBP-9),3.1.-.-,186,False,False,True,3.40.50.1820-FF-000113,canonical,RBBP9
+Q6PIU2,NCEH1_HUMAN,NCEH1,True,Neutral cholesterol ester hydrolase 1 (NCEH) (EC 3.1.1.-) (Acetylalkylglycerol acetylhydrolase) (2-acetyl MAGE hydrolase) (EC 3.1.1.71) (Arylacetamide deacetylase-like 1),3.1.1.-; 3.1.1.71,408,False,False,True,3.40.50.1820-FF-000114,canonical,NCEH1
+Q8TB40,ABHD4_HUMAN,ABHD4,True,(Lyso)-N-acylphosphatidylethanolamine lipase (EC 3.1.1.-) (Alpha/beta hydrolase domain-containing protein 4) (Abhydrolase domain-containing protein 4) (Alpha/beta-hydrolase 4),3.1.1.-,342,False,False,True,3.40.50.1820-FF-000044,canonical,ABHD4
+Q8N608,DPP10_HUMAN,DPP10,True,Inactive dipeptidyl peptidase 10 (Dipeptidyl peptidase IV-related protein 3) (DPRP-3) (Dipeptidyl peptidase X) (DPP X) (Dipeptidyl peptidase-like protein 2) (DPL2),,796,False,False,True,3.40.50.1820-FF-000003,canonical,DPP10
+Q9ULP0,NDRG4_HUMAN,NDRG4,True,Protein NDRG4 (Brain development-related molecule 1) (N-myc downstream-regulated gene 4 protein) (Vascular smooth muscle cell-associated protein 8) (SMAP-8),,352,False,False,True,3.40.50.1820-FF-000009,canonical,NDRG4
+Q4J6C6,PPCEL_HUMAN,PREPL,True,Prolyl endopeptidase-like (EC 3.4.21.-) (Prolylendopeptidase-like),3.4.21.-,727,False,False,True,3.40.50.1820-FF-000050,canonical,PREPL
+Q6V1X1,DPP8_HUMAN,DPP8,True,Dipeptidyl peptidase 8 (DP8) (EC 3.4.14.5) (Dipeptidyl peptidase IV-related protein 1) (DPRP-1) (Dipeptidyl peptidase VIII) (DPP VIII) (Prolyl dipeptidase DPP8),3.4.14.5,898,False,False,True,3.40.50.1820-FF-000016,canonical,DPP8
+Q92597,NDRG1_HUMAN,NDRG1,True,Protein NDRG1 (Differentiation-related gene 1 protein) (DRG-1) (N-myc downstream-regulated gene 1 protein) (Nickel-specific induction protein Cap43) (Reducing agents and tunicamycin-responsive protein) (RTP) (Rit42),,394,False,False,True,3.40.50.1820-FF-000006,canonical,NDRG1
+Q05469,LIPS_HUMAN,LIPE,True,Hormone-sensitive lipase (HSL) (EC 3.1.1.79) (Monoacylglycerol lipase LIPE) (EC 3.1.1.23) (Retinyl ester hydrolase) (REH),3.1.1.23; 3.1.1.79,1076,False,False,True,3.40.50.1820-FF-000110;3.40.50.1820-FF-000199,canonical,LIPE
+Q12884,SEPR_HUMAN,FAP,True,"Prolyl endopeptidase FAP (EC 3.4.21.26) (170 kDa melanoma membrane-bound gelatinase) (Dipeptidyl peptidase FAP) (EC 3.4.14.5) (Fibroblast activation protein alpha) (FAPalpha) (Gelatine degradation protease FAP) (EC 3.4.21.-) (Integral membrane serine protease) (Post-proline cleaving enzyme) (Serine integral membrane protease) (SIMP) (Surface-expressed protease) (Seprase) [Cleaved into: Antiplasmin-cleaving enzyme FAP, soluble form (APCE) (EC 3.4.14.5) (EC 3.4.21.-) (EC 3.4.21.26)]",3.4.14.5; 3.4.21.-; 3.4.21.26,760,False,False,True,3.40.50.1820-FF-000003,canonical,FAP
+Q8NFZ3,NLGNY_HUMAN,NLGN4Y,True,"Neuroligin-4, Y-linked (Neuroligin Y)",,816,False,False,True,3.40.50.1820-FF-000001,canonical,NLGN4Y
+Q9UN36,NDRG2_HUMAN,NDRG2,True,Protein NDRG2 (N-myc downstream-regulated gene 2 protein) (Protein Syld709613),,371,False,False,True,3.40.50.1820-FF-000034,canonical,NDRG2
+Q9H3G5,CPVL_HUMAN,CPVL,True,"Probable serine carboxypeptidase CPVL (EC 3.4.16.-) (Carboxypeptidase, vitellogenic-like) (Vitellogenic carboxypeptidase-like protein) (VCP-like protein) (hVLP)",3.4.16.-,476,False,False,True,3.40.50.1820-FF-000096,canonical,CPVL
+Q63HM1,KFA_HUMAN,AFMID,True,Kynurenine formamidase (KFA) (KFase) (EC 3.5.1.9) (Arylformamidase) (N-formylkynurenine formamidase) (FKF),3.5.1.9,303,False,False,True,3.40.50.1820-FF-000134,canonical,AFMID
+Q6NT32,EST5A_HUMAN,CES5A,True,Carboxylesterase 5A (EC 3.1.1.1) (Carboxylesterase-like urinary excreted protein homolog) (Cauxin),3.1.1.1,575,False,False,True,3.40.50.1820-FF-000011,canonical,CES5A
+Q9HB40,RISC_HUMAN,SCPEP1,True,Retinoid-inducible serine carboxypeptidase (EC 3.4.16.-) (Serine carboxypeptidase 1),3.4.16.-,452,False,False,True,3.40.50.1820-FF-000075,canonical,SCPEP1
+Q9NQE7,TSSP_HUMAN,PRSS16,True,Thymus-specific serine protease (EC 3.4.-.-) (Serine protease 16),3.4.-.-,514,False,False,True,3.40.50.1820-FF-000023,canonical,PRSS16
+Q9UKY3,CES1P_HUMAN,CES1P1,True,Putative inactive carboxylesterase 4 (Inactive carboxylesterase 1 pseudogene 1) (Placental carboxylesterase 3) (PCE-3),,287,False,False,True,3.40.50.1820-FF-000535,canonical,CES1P1
+Q5XG92,EST4A_HUMAN,CES4A,True,Carboxylesterase 4A (EC 3.1.1.-),3.1.1.-,561,False,False,True,3.40.50.1820-FF-000011,canonical,CES4A
+Q7L211,ABHDD_HUMAN,ABHD13,True,Protein ABHD13 (EC 3.-.-.-) (Alpha/beta hydrolase domain-containing protein 13) (Abhydrolase domain-containing protein 13),3.-.-.-,337,False,False,True,3.40.50.1820-FF-000058,canonical,ABHD13
+Q9UGV2,NDRG3_HUMAN,NDRG3,True,Protein NDRG3 (N-myc downstream-regulated gene 3 protein),,375,False,False,True,3.40.50.1820-FF-000006,canonical,NDRG3

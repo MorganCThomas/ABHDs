@@ -1,0 +1,31 @@
+gene,accession,abhd_named,predicted_ec3,support,neighbours,catalytic_category,transfer_applicable
+MEST,Q5EB52,False,3.1.1,2/3,"EPHX3(0.19), ABHD6(0.21), ABHD4(0.23)",Asp-His-Asp,True
+SPG21,Q9NZD8,False,3.3.2,2/3,"EPHX3(0.24), ABHD6(0.26), EPHX2(0.27)","Ser, no His in range",True
+ABHD8,Q96I13,True,3.3.2,2/3,"EPHX3(0.25), ABHD6(0.27), EPHX2(0.29)",Ser-His-Asp,True
+PNLIPRP1,P54315,False,3.1.1,3/3,"PNLIPRP2(0.01), PNLIP(0.01), PNLIPRP3(0.08)",Ser-His-Asp,True
+BPHL,Q86WA6,False,3.1.1,2/3,"ABHD6(0.21), EPHX3(0.21), ABHD4(0.24)",Ser-His-Asp,True
+SERHL2,Q9H4I8,False,3.3.2,1/3,"EPHX3(0.24), ABHD4(0.26), ABHD5(0.27)",Ser-His-Asp,True
+ABHD15,Q6UXT9,True,3.1.1,3/3,"ABHD3(0.15), ABHD1(0.16), ABHD2(0.22)",no nucleophile: Gly at elbow,False
+SERHL,Q9NQF3,False,3.1.1,2/3,"ABHD14B(0.42), ABHD6(0.45), ABHD4(0.46)","Ser, no His in range",True
+ABHD18,Q0P651,True,3.1.2,2/3,"ABHD17B(0.48), ESD(0.48), FAP(0.50)",Ser-His-Asp,True
+ABHD14A,Q9BUJ0,True,3.1.2,2/3,"ABHD14B(0.09), ABHD17B(0.24), ABHD17A(0.24)",Ser-His-Asp,True
+EPHX4,Q8IUS5,False,3.3.2,2/3,"EPHX3(0.13), EPHX2(0.22), ABHD4(0.24)",Asp-His-Asp,True
+DPP6,P42658,False,3.4.14,3/3,"FAP(0.05), DPP4(0.07), DPP9(0.10)",Asp-His-Asp,True
+SERAC1,Q96JX3,False,3.1.2,3/3,"ABHD10(0.34), PPT2(0.34), OLAH(0.35)",Ser-His-Glu,True
+NLGN2,Q8NFZ4,False,3.1.1,3/3,"BCHE(0.11), CES5A(0.12), CES3(0.13)",no nucleophile: Gly at elbow,False
+PGAP1,Q75T13,False,3.1.2,2/3,"PPT2(0.31), LYPLA1(0.32), AFMID(0.32)",Ser-His-Asp,True
+NLGN1,Q8N2Q7,False,3.1.1,3/3,"BCHE(0.15), CES5A(0.17), ACHE(0.17)",no nucleophile: Gly at elbow,False
+CMBL,Q96DG6,False,3.4.14,2/3,"DPP8(0.27), LYPLA2(0.27), DPP9(0.28)",Cys-His-Asp,True
+NLGN3,Q9NZ94,False,3.1.1,3/3,"BCHE(0.14), CES5A(0.14), CES3(0.14)",no nucleophile: Gly at elbow,False
+KANSL3,Q9P2N6,False,3.1.2,2/3,"ABHD12(0.34), ABHD17C(0.35), ABHD17A(0.35)",no nucleophile: Asn at elbow,False
+NLGN4X,Q8N0W4,False,3.1.1,3/3,"BCHE(0.11), CES5A(0.12), ACHE(0.12)",no nucleophile: Gly at elbow,False
+RBBP9,O75884,False,3.1.2,3/3,"ABHD10(0.28), ABHD17A(0.31), ABHD17C(0.31)",Ser-His-Asp,True
+DPP10,Q8N608,False,3.4.14,3/3,"FAP(0.04), DPP4(0.06), DPP9(0.09)",no nucleophile: Gly at elbow,False
+NDRG4,Q9ULP0,False,3.3.2,2/3,"EPHX3(0.25), ABHD6(0.25), EPHX2(0.28)",no nucleophile: Gly at elbow,False
+NDRG1,Q92597,False,3.3.2,2/3,"ABHD6(0.24), EPHX3(0.25), EPHX2(0.28)",no nucleophile: Gly at elbow,False
+NLGN4Y,Q8NFZ3,False,3.1.1,3/3,"BCHE(0.11), CES5A(0.12), ACHE(0.12)",no nucleophile: Gly at elbow,False
+NDRG2,Q9UN36,False,3.3.2,2/3,"ABHD6(0.25), EPHX3(0.25), EPHX2(0.28)",no nucleophile: Gly at elbow,False
+PRSS16,Q9NQE7,False,3.4.14,1/3,"DPP7(0.12), PRCP(0.13), APEH(0.39)",Ser-His-Asp,True
+CES1P1,Q9UKY3,False,3.1.1,3/3,"CES1(0.26), CES4A(0.28), CES3(0.29)","Ser, no His in range",True
+ABHD13,Q7L211,True,3.1.2,3/3,"ABHD17B(0.15), ABHD17C(0.17), ABHD17A(0.17)",Ser-His-Asp,True
+NDRG3,Q9UGV2,False,3.3.2,2/3,"ABHD6(0.24), EPHX3(0.26), EPHX2(0.28)",no nucleophile: Gly at elbow,False

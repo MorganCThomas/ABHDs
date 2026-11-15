@@ -1,0 +1,1753 @@
+target,accession,organism,taxon_class,reviewed,identity,coverage
+ABHD15,H2QCK4,Pan troglodytes (Chimpanzee),mammals,unreviewed,0.996,1.0
+ABHD15,G1QT38,Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys),mammals,unreviewed,0.996,1.0
+ABHD15,G3R9P9,Gorilla gorilla gorilla (Western lowland gorilla),mammals,unreviewed,0.993,1.0
+ABHD15,H2NT65,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),mammals,unreviewed,0.996,1.0
+ABHD15,A0A2K6NFK9,Rhinopithecus roxellana (Golden snub-nosed monkey) (Pygathrix roxellana),mammals,unreviewed,0.989,1.0
+ABHD15,A0A2K5S1W0,Cebus imitator (Panamanian white-faced capuchin) (Cebus capucinus imitator),mammals,unreviewed,0.993,1.0
+ABHD15,A0A8D2EWJ5,Theropithecus gelada (Gelada baboon),mammals,unreviewed,0.993,1.0
+ABHD15,A0A6J3HYW7,Sapajus apella (Brown-capped capuchin) (Cebus apella),mammals,unreviewed,0.993,1.0
+ABHD15,F7CMR1,Macaca mulatta (Rhesus macaque),mammals,unreviewed,0.989,1.0
+ABHD15,A0A8C9ICX4,Piliocolobus tephrosceles (Ugandan red Colobus),mammals,unreviewed,0.986,1.0
+ABHD15,F6R386,Callithrix jacchus (White-tufted-ear marmoset) (Simia Jacchus),mammals,unreviewed,0.993,1.0
+ABHD15,F6WGF3,Equus caballus (Horse),mammals,unreviewed,0.957,1.0
+ABHD15,A0ABM2F316,Equus przewalskii (Przewalski's horse) (Equus caballus przewalskii),mammals,unreviewed,0.957,1.0
+ABHD15,A0A8C5YSS0,Marmota marmota marmota (Alpine marmot),mammals,unreviewed,0.975,1.0
+ABHD15,A0A8C4LTH2,Equus asinus (Donkey) (Equus africanus asinus),mammals,unreviewed,0.953,1.0
+ABHD15,A0A287CW50,Ictidomys tridecemlineatus (Thirteen-lined ground squirrel) (Spermophilus tridecemlineatus),mammals,unreviewed,0.971,1.0
+ABHD15,A0A8C9ARX1,Prolemur simus (Greater bamboo lemur) (Hapalemur simus),mammals,unreviewed,0.961,1.0
+ABHD15,A0A8D2I7D3,Urocitellus parryii (Arctic ground squirrel) (Spermophilus parryii),mammals,unreviewed,0.968,1.0
+ABHD15,A0A8B8WCH5,Balaenoptera musculus (Blue whale),mammals,unreviewed,0.95,1.0
+ABHD15,A0A3Q7UWX3,Vulpes vulpes (Red fox),mammals,unreviewed,0.953,1.0
+ABHD15,A0A384A9K0,Balaenoptera acutorostrata (Common minke whale) (Balaena rostrata),mammals,unreviewed,0.95,1.0
+ABHD15,A0A2Y9Q783,Delphinapterus leucas (Beluga whale),mammals,unreviewed,0.946,1.0
+ABHD15,A0A2U3UZR2,Tursiops truncatus (Atlantic bottle-nosed dolphin) (Delphinus truncatus),mammals,unreviewed,0.946,1.0
+ABHD15,A0A340WZL7,Lipotes vexillifer (Yangtze river dolphin),mammals,unreviewed,0.946,1.0
+ABHD15,A0A8B7WN53,Microcebus murinus (Gray mouse lemur) (Lemur murinus),mammals,unreviewed,0.953,1.0
+ABHD15,A0A4U1FCV8,Monodon monoceros (Narwhal) (Ceratodon monodon),mammals,unreviewed,0.95,1.0
+ABHD15,A0A341ALR9,Neophocaena asiaeorientalis asiaeorientalis (Yangtze finless porpoise) (Neophocaena phocaenoides subsp. asiaeorientalis),mammals,unreviewed,0.946,1.0
+ABHD15,A0A8C9E5F9,Phocoena sinus (Vaquita),mammals,unreviewed,0.946,1.0
+ABHD15,A0A671F7S4,Rhinolophus ferrumequinum (Greater horseshoe bat),mammals,unreviewed,0.95,1.0
+ABHD15,G1LC80,Ailuropoda melanoleuca (Giant panda),mammals,unreviewed,0.939,1.0
+ABHD15,A0A9V1ENV4,Panthera pardus (Leopard) (Felis pardus),mammals,unreviewed,0.95,1.0
+ABHD15,A0A8C8WXF3,Panthera leo (Lion),mammals,unreviewed,0.95,1.0
+ABHD15,A0A2U3YB62,Leptonychotes weddellii (Weddell seal) (Otaria weddellii),mammals,unreviewed,0.939,1.0
+ABHD15,A0ABI8ACC8,Felis catus (Cat) (Felis silvestris catus),mammals,unreviewed,0.95,1.0
+ABHD15,A0A2Y9FIL6,Physeter macrocephalus (Sperm whale) (Physeter catodon),mammals,unreviewed,0.946,1.0
+ABHD15,A0A6J2AXU0,Zalophus californianus (California sealion),mammals,unreviewed,0.946,1.0
+ABHD15,A0A8B9YI54,Bos grunniens (Wild yak) (Bos mutus grunniens),mammals,unreviewed,0.949,0.993
+ABHD15,E1BKM2,Bos taurus (Bovine),mammals,unreviewed,0.949,0.993
+ABHD15,A0A4W2BQI1,Bos indicus x Bos taurus (Hybrid cattle),mammals,unreviewed,0.949,0.993
+ABHD15,A0A6P5DJL6,Bos indicus (Zebu),mammals,unreviewed,0.949,0.993
+ABHD15,A0A6I9ZKB5,Acinonyx jubatus (Cheetah),mammals,unreviewed,0.95,1.0
+ABHD15,A0A8D2JN08,Sciurus vulgaris (Eurasian red squirrel),mammals,unreviewed,0.964,1.0
+ABHD15,A0A6P6HDS2,Puma concolor (Mountain lion) (Felis concolor),mammals,unreviewed,0.946,1.0
+ABHD15,A0A8B7U7C8,Castor canadensis (American beaver),mammals,unreviewed,0.946,1.0
+ABHD15,H0WH80,Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby),mammals,unreviewed,0.943,1.0
+ABHD15,A0A3Q7MJX6,Callorhinus ursinus (Northern fur seal),mammals,unreviewed,0.946,1.0
+ABHD15,A0A2Y9I8U4,Neomonachus schauinslandi (Hawaiian monk seal) (Monachus schauinslandi),mammals,unreviewed,0.939,1.0
+ABHD15,A0ACI6Q7N6,Ovis aries (Sheep),mammals,unreviewed,0.946,0.993
+ABHD15,A0A667H7H3,Lynx canadensis (Canada lynx) (Felis canadensis),mammals,unreviewed,0.946,1.0
+ABHD15,A0A452F8U1,Capra hircus (Goat),mammals,unreviewed,0.946,0.993
+ABHD15,A0A8B7RY28,Hipposideros armiger (Great Himalayan leaf-nosed bat),mammals,unreviewed,0.953,1.0
+ABHD15,A0A2U3VWG7,Odobenus rosmarus divergens (Pacific walrus),mammals,unreviewed,0.943,1.0
+ABHD15,A0A6P3Q547,Pteropus vampyrus (Large flying fox),mammals,unreviewed,0.95,1.0
+ABHD15,A0A452S9G0,Ursus americanus (American black bear) (Euarctos americanus),mammals,unreviewed,0.943,1.0
+ABHD15,A0A8C0KGI6,Canis lupus dingo (dingo),mammals,unreviewed,0.95,1.0
+ABHD15,A0A8I3ND78,Canis lupus familiaris (Dog) (Canis familiaris),mammals,unreviewed,0.95,1.0
+ABHD15,G5BVP0,Heterocephalus glaber (Naked mole rat),mammals,unreviewed,0.964,1.0
+ABHD15,A0A8C6DN69,Moschus moschiferus (Siberian musk deer) (Moschus sibiricus),mammals,unreviewed,0.949,0.993
+ABHD15,A0A6J2MBP3,Phyllostomus discolor (pale spear-nosed bat),mammals,unreviewed,0.925,1.0
+ABHD15,A0A6J0Z121,Odocoileus virginianus (White-tailed deer),mammals,unreviewed,0.949,0.993
+ABHD15,A0A8C7B830,Neogale vison (American mink) (Mustela vison),mammals,unreviewed,0.932,1.0
+ABHD15,A0A2Y9E1P5,Trichechus manatus latirostris (Florida manatee),mammals,unreviewed,0.939,1.0
+ABHD15,A0A1U7TAH2,Carlito syrichta (Philippine tarsier) (Tarsius syrichta),mammals,unreviewed,0.971,1.0
+ABHD15,A0A8C3VU82,Catagonus wagneri (Chacoan peccary),mammals,unreviewed,0.939,1.0
+ABHD15,A0A1S3F7Q3,Dipodomys ordii (Ord's kangaroo rat),mammals,unreviewed,0.925,1.0
+ABHD15,A0A8C2V3M2,Chinchilla lanigera (Long-tailed chinchilla) (Chinchilla villidera),mammals,unreviewed,0.957,1.0
+ABHD15,A0A8B8R682,Camelus ferus (Wild bactrian camel) (Camelus bactrianus ferus),mammals,unreviewed,0.935,1.0
+ABHD15,A0A8B6ZIT7,Orycteropus afer afer,mammals,unreviewed,0.932,1.0
+ABHD15,A0A6J3B2P2,Vicugna pacos (Alpaca) (Lama pacos),mammals,unreviewed,0.932,1.0
+ABHD15,A0A9W3GUX4,Camelus bactrianus (Bactrian camel),mammals,unreviewed,0.932,1.0
+ABHD15,Q5F2F2,Mus musculus (Mouse),mammals,reviewed,0.928,1.0
+ABHD15,H0W2W1,Cavia porcellus (Guinea pig),mammals,unreviewed,0.939,1.0
+ABHD15,A0A6P3J5Z0,Bison bison bison (North American plains bison),mammals,unreviewed,0.946,0.993
+ABHD15,A0A1S2ZJY1,Erinaceus europaeus (Western European hedgehog),mammals,unreviewed,0.946,1.0
+ABHD15,G3UEA4,Loxodonta africana (African elephant),mammals,unreviewed,0.928,1.0
+ABHD15,A0A6P5QFZ7,Mus caroli (Ryukyu mouse) (Ricefield mouse),mammals,unreviewed,0.935,1.0
+ABHD15,A0A6P3EZM8,Octodon degus (Degu) (Sciurus degus),mammals,unreviewed,0.939,1.0
+ABHD15,A0A8J6GDP7,Microtus ochrogaster (Prairie vole),mammals,unreviewed,0.935,1.0
+ABHD15,A0A8C5K7H9,Jaculus jaculus (Lesser Egyptian jerboa),mammals,unreviewed,0.932,1.0
+ABHD15,D3Z8B6,Rattus norvegicus (Rat),mammals,unreviewed,0.914,1.0
+ABHD15,A0A8C6R8M3,Nannospalax galili (Northern Israeli blind subterranean mole rat) (Spalax galili),mammals,unreviewed,0.932,1.0
+ABHD15,A0A6I9LDZ9,Peromyscus maniculatus bairdii (Prairie deer mouse),mammals,unreviewed,0.935,1.0
+ABHD15,A0A9B0X0V3,Chrysochloris asiatica (Cape golden mole),mammals,unreviewed,0.928,1.0
+ABHD15,F1RN85,Sus scrofa (Pig),mammals,unreviewed,0.943,1.0
+ABHD15,A0A9J7GC62,Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus),mammals,unreviewed,0.932,1.0
+ABHD15,A0A1U7QY29,Mesocricetus auratus (Golden hamster),mammals,unreviewed,0.928,1.0
+ABHD15,A0AAU9Z280,Phodopus roborovskii (Roborovski's desert hamster) (Cricetulus roborovskii),mammals,unreviewed,0.928,1.0
+ABHD15,A0ABM0ISU8,Echinops telfairi (Lesser hedgehog tenrec),mammals,unreviewed,0.914,1.0
+ABHD15,A0ABM0Q895,Galeopterus variegatus (Malayan flying lemur) (Cynocephalus variegatus),mammals,unreviewed,0.968,1.0
+ABHD15,A0A384CH36,Ursus maritimus (Polar bear) (Thalarctos maritimus),mammals,unreviewed,0.939,1.0
+ABHD15,A0A6I8NT40,Ornithorhynchus anatinus (Duckbill platypus),mammals,unreviewed,0.827,0.993
+ABHD15,A0A6P5IJS6,Phascolarctos cinereus (Koala),mammals,unreviewed,0.821,0.978
+ABHD15,A0A4X2KQM6,Vombatus ursinus (Common wombat),mammals,unreviewed,0.806,0.978
+ABHD15,A0A7N4P2M4,Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius),mammals,unreviewed,0.804,0.986
+ABHD15,A0A8C0GUC0,Chelonoidis abingdonii (Abingdon island giant tortoise) (Testudo abingdonii),turtles,unreviewed,0.725,0.989
+ABHD15,A0A8C3I4Z8,Chrysemys picta bellii (Western painted turtle) (Emys bellii),turtles,unreviewed,0.722,0.978
+ABHD15,A0A674ITH7,Terrapene triunguis (Three-toed box turtle),turtles,unreviewed,0.722,0.978
+ABHD15,A0A6P7WMG4,Microcaecilia unicolor,amphibians,unreviewed,0.686,0.993
+ABHD15,A0A6P8NM42,Geotrypetes seraphini (Gaboon caecilian) (Caecilia seraphini),amphibians,unreviewed,0.689,0.978
+ABHD15,A0A803JRY4,Xenopus tropicalis (Western clawed frog) (Silurana tropicalis),amphibians,unreviewed,0.616,0.971
+ABHD15,A0A8C5PP84,Leptobrachium leishanense (Leishan spiny toad),amphibians,unreviewed,0.637,0.978
+ABHD15,A0A8C3NMG7,Geospiza parvula (Small tree-finch) (Camarhynchus parvulus),birds,unreviewed,0.661,0.971
+ABHD15,A0A6J0UIN6,Pogona vitticeps (central bearded dragon),lepidosaurs,unreviewed,0.634,0.989
+ABHD15,A0ACS7FDT1,Spheniscus humboldti (Humboldt penguin),birds,unreviewed,0.664,0.993
+ABHD15,A0A1V4K2K0,Patagioenas fasciata monilis,birds,unreviewed,0.675,0.971
+ABHD15,A0ACS7I3I0,Aegotheles albertisi,birds,unreviewed,0.655,0.986
+ABHD15,A0A670KH39,Podarcis muralis (Wall lizard) (Lacerta muralis),lepidosaurs,unreviewed,0.654,0.975
+ABHD15,A0A8C3E3U5,Corvus moneduloides (New Caledonian crow),birds,unreviewed,0.662,0.964
+ABHD15,A0A6J2IKM5,Pipra filicauda (Wire-tailed manakin),birds,unreviewed,0.648,0.978
+ABHD15,H0Z7G0,Taeniopygia guttata (Zebra finch) (Poephila guttata),birds,unreviewed,0.649,0.971
+ABHD15,A0A8C3U5P8,Catharus ustulatus (Russet-backed thrush) (Hylocichla ustulatus),birds,unreviewed,0.658,0.964
+ABHD15,A0ABM4FM70,Apteryx mantelli (North Island brown kiwi),birds,unreviewed,0.673,0.953
+ABHD15,A0A7L3YD72,Fregetta grallaria (White-bellied storm-petrel) (Procellaria grallaria),birds,unreviewed,0.671,0.993
+ABHD15,A0ACS7CMI4,Chlamydotis macqueenii (Macqueen's bustard),birds,unreviewed,0.653,0.993
+ABHD15,A0A6J0IMU8,Lepidothrix coronata (blue-crowned manakin),birds,unreviewed,0.645,0.978
+ABHD15,A0A851J4L8,Donacobius atricapilla,birds,unreviewed,0.659,0.989
+ABHD15,A0A8B9C2Y8,Anser brachyrhynchus (Pink-footed goose),birds,unreviewed,0.638,0.989
+ABHD15,A0A7L2EFH5,Anthoscopus minutus (Southern penduline-tit),birds,unreviewed,0.679,0.971
+ABHD15,A0A7L1RGH5,Helopsaltes ochotensis (Middendorff's grasshopper-warbler),birds,unreviewed,0.673,0.964
+ABHD15,A0AA97LID3,Eublepharis macularius (Leopard gecko) (Cyrtodactylus macularius),lepidosaurs,unreviewed,0.672,0.95
+ABHD15,A0A7K5PF03,Erythrocercus mccallii,birds,unreviewed,0.668,0.971
+ABHD15,A0A851S0J8,Certhia familiaris (Eurasian treecreeper),birds,unreviewed,0.67,0.968
+ABHD15,A0A8J4JJK5,Eudyptula minor (Little blue penguin) (Aptenodytes minor),birds,unreviewed,0.664,0.993
+ABHD15,A0A672UVF5,Strigops habroptila (Kakapo),birds,unreviewed,0.654,0.964
+ABHD15,A0A7L3C1C0,Pelecanoides urinatrix (Common diving petrel) (Procellaria urinatrix),birds,unreviewed,0.664,0.993
+ABHD15,A0A8J4N6G0,Eudyptes sclateri (Erect-crested penguin),birds,unreviewed,0.668,0.993
+ABHD15,A0A7K7EHF4,Sylvia atricapilla (blackcap),birds,unreviewed,0.669,0.964
+ABHD15,A0A7K6LU27,Falcunculus frontatus (Eastern shriketit),birds,unreviewed,0.667,0.968
+ABHD15,A0A7K8I9Z6,Aleadryas rufinucha (rufous-naped whistler),birds,unreviewed,0.667,0.968
+ABHD15,A0A7L0QM01,Setophaga kirtlandii (Kirtland's warbler) (Dendroica kirtlandii),birds,unreviewed,0.668,0.971
+ABHD15,A0A7L1Q458,Oriolus oriolus (Eurasian golden oriole) (Coracias oriolus),birds,unreviewed,0.667,0.968
+ABHD15,A0A850XUX0,Aegithalos caudatus (Long-tailed tit) (Acredula caudata),birds,unreviewed,0.662,0.975
+ABHD15,A0A851KBK3,Vidua chalybeata (Village indigobird),birds,unreviewed,0.672,0.971
+ABHD15,A0A6J3E5C9,Aythya fuligula (Tufted duck) (Anas fuligula),birds,unreviewed,0.64,0.975
+ABHD15,A0A852HIM2,Nicator chloris,birds,unreviewed,0.669,0.964
+ABHD15,A0A7K5M917,Cardinalis cardinalis (Northern cardinal),birds,unreviewed,0.669,0.964
+ABHD15,A0A7L1M0Y3,Bombycilla garrulus (Bohemian waxwing) (Lanius garrulus),birds,unreviewed,0.669,0.964
+ABHD15,A0A7L4DR96,Eurystomus gularis,birds,unreviewed,0.657,0.993
+ABHD15,A0A7L4G195,Pampusana beccarii (Western bronze ground-dove),birds,unreviewed,0.675,0.971
+ABHD15,A0A7K8J5B0,Chaetorhynchus papuensis (pygmy drongo),birds,unreviewed,0.661,0.971
+ABHD15,A0A7L1L5Z3,Himantopus himantopus (Black-winged stilt) (Charadrius himantopus),birds,unreviewed,0.673,0.964
+ABHD15,A0A7K8AFS9,Cnemophilus loriae (Loria's bird-of-paradise),birds,unreviewed,0.669,0.964
+ABHD15,A0A7L3A464,Prunella fulvescens (Brown accentor),birds,unreviewed,0.659,0.968
+ABHD15,A0A7K4VAE0,Emberiza fucata,birds,unreviewed,0.669,0.964
+ABHD15,A0A7K8MJ59,Ptilorrhoa leucosticta,birds,unreviewed,0.669,0.964
+ABHD15,A0A7L1ZPT4,Leiothrix lutea (Red-billed leiothrix) (Sylvia lutea),birds,unreviewed,0.664,0.971
+ABHD15,A0A7K8K027,Lophotis ruficrista,birds,unreviewed,0.664,0.993
+ABHD15,A0A7K8RUV7,Rhodinocichla rosea,birds,unreviewed,0.663,0.968
+ABHD15,A0A7K7XDP7,Mohoua ochrocephala,birds,unreviewed,0.665,0.964
+ABHD15,A0A8J4IIE7,Spheniscus mendiculus (Galapagos penguin),birds,unreviewed,0.664,0.993
+ABHD15,A0A8K0BJ53,Eudyptes filholi (Southern rockhopper penguin),birds,unreviewed,0.664,0.993
+ABHD15,A0A850U964,Grus americana (Whooping crane),birds,unreviewed,0.669,0.986
+ABHD15,A0A7L1UB09,Phainopepla nitens (Phainopepla),birds,unreviewed,0.669,0.964
+ABHD15,A0A7L2MAT0,Hippolais icterina (icterine warbler),birds,unreviewed,0.652,0.978
+ABHD15,A0A7L4KZS3,Callaeas wilsoni (North Island kokako),birds,unreviewed,0.661,0.971
+ABHD15,A0A7K7P6L8,Acrocephalus arundinaceus (Great reed-warbler),birds,unreviewed,0.665,0.964
+ABHD15,A0A851BAV1,Picathartes gymnocephalus (White-necked rockfowl),birds,unreviewed,0.668,0.971
+ABHD15,A0A7K7N1D7,Haliaeetus albicilla (White-tailed sea-eagle) (Falco albicilla),birds,unreviewed,0.669,0.964
+ABHD15,A0A7L0M7G7,Amazona guildingii,birds,unreviewed,0.643,0.964
+ABHD15,A0A7L3GC73,Anhinga rufa (African darter),birds,unreviewed,0.665,0.975
+ABHD15,A0A7K7MBJ4,Brachypodius melanocephalos (black-headed bulbul),birds,unreviewed,0.662,0.975
+ABHD15,A0A850Z0T6,Tichodroma muraria,birds,unreviewed,0.673,0.964
+ABHD15,A0A852FTI8,Peucedramus taeniatus (Olive warbler),birds,unreviewed,0.668,0.971
+ABHD15,A0A7K6Y480,Promerops cafer (Cape sugarbird),birds,unreviewed,0.668,0.971
+ABHD15,A0A7K8CY19,Eulacestoma nigropectus (wattled ploughbill),birds,unreviewed,0.662,0.964
+ABHD15,A0A7K5QM92,Prunella himalayana,birds,unreviewed,0.662,0.964
+ABHD15,A0A7K7DGM8,Pheucticus melanocephalus (Black-headed grosbeak) (Guiraca melanocephala),birds,unreviewed,0.665,0.964
+ABHD15,A0A7K7QQ83,Poecile atricapillus (Black-capped chickadee) (Parus atricapillus),birds,unreviewed,0.663,0.968
+ABHD15,A0A7L2NWC4,Pycnonotus jocosus (Red-whiskered bulbul) (Lanius jocosus),birds,unreviewed,0.662,0.975
+ABHD15,A0A7K9QYH1,Irena cyanogastra (Philippine fairy-bluebird),birds,unreviewed,0.668,0.971
+ABHD15,A0A7L0LAQ2,Sylvietta virens (Green crombec),birds,unreviewed,0.664,0.971
+ABHD15,A0A7L0P9Y4,Mesembrinibis cayennensis,birds,unreviewed,0.657,0.993
+ABHD15,A0A7K9IHT0,Myiagra hebetior,birds,unreviewed,0.665,0.964
+ABHD15,A0A852E4X3,Vidua macroura (Pin-tailed whydah),birds,unreviewed,0.664,0.971
+ABHD15,A0A850V207,Chloropsis hardwickii,birds,unreviewed,0.665,0.964
+ABHD15,A0A7K6T439,Caloenas nicobarica (Nicobar pigeon),birds,unreviewed,0.668,0.971
+ABHD15,A0A7L4ICM5,Scopus umbretta (Hammerkop),birds,unreviewed,0.673,0.964
+ABHD15,A0A7K7S707,Nesospiza acunhae,birds,unreviewed,0.662,0.964
+ABHD15,A0A7K6FU45,Daphoenositta chrysoptera (varied sittella),birds,unreviewed,0.662,0.964
+ABHD15,A0A7L3PXK8,Cettia cetti,birds,unreviewed,0.662,0.964
+ABHD15,A0A7K6GUR3,Malurus elegans (Red-winged fairywren),birds,unreviewed,0.656,0.968
+ABHD15,A0A7L2L1N1,Zosterops hypoxanthus,birds,unreviewed,0.661,0.971
+ABHD15,A0A7L4MIC4,Glareola pratincola (Collared pratincole) (Hirundo pratincola),birds,unreviewed,0.652,0.989
+ABHD15,A0A7L3H4P9,Buphagus erythrorhynchus (red-billed oxpecker),birds,unreviewed,0.665,0.964
+ABHD15,A0A7K5L599,Vireo altiloquus (Black-whiskered vireo) (Muscicapa altiloqua),birds,unreviewed,0.665,0.964
+ABHD15,A0A7K4PKW6,Melospiza melodia (Song sparrow) (Fringilla melodia),birds,unreviewed,0.669,0.964
+ABHD15,A0A7K5DNC8,Pachyramphus minor,birds,unreviewed,0.654,0.964
+ABHD15,A0A7K5K544,Mionectes macconnelli (McConnell's flycatcher),birds,unreviewed,0.662,0.964
+ABHD15,A0A7L2UA19,Balaeniceps rex (Shoebill),birds,unreviewed,0.673,0.964
+ABHD15,A0A7L3Y4S3,Calonectris borealis (Cory's shearwater),birds,unreviewed,0.661,0.993
+ABHD15,A0A7K8SWB6,Nyctibius bracteatus (Rufous potoo),birds,unreviewed,0.661,0.971
+ABHD15,A0A7L0VF69,Leptocoma aspasia,birds,unreviewed,0.669,0.964
+ABHD15,A0A7K8A4V7,Melanocharis versteri (Fan-tailed berrypecker),birds,unreviewed,0.662,0.964
+ABHD15,A0A7L2PSF3,Hypocryptadius cinnamomeus,birds,unreviewed,0.662,0.964
+ABHD15,A0A7L1CFF9,Illadopsis cleaveri (blackcap illadopsis),birds,unreviewed,0.658,0.975
+ABHD15,A0A7L3V4P5,Molothrus ater (Brown-headed cowbird),birds,unreviewed,0.658,0.964
+ABHD15,A0A7L2H1M9,Sagittarius serpentarius (Secretary bird),birds,unreviewed,0.677,0.964
+ABHD15,A0ABQ9DCK2,Willisornis vidua (Xingu scale-backed antbird),birds,unreviewed,0.658,0.932
+ABHD15,A0A851UDS7,Elachura formosa (spotted wren-babbler),birds,unreviewed,0.654,0.964
+ABHD15,A0AA97N0K7,Menura novaehollandiae (superb lyrebird),birds,unreviewed,0.654,0.964
+ABHD15,A0A851R8B5,Tychaedon coryphoeus (Karoo scrub-robin) (Erythropygia coryphaeus),birds,unreviewed,0.665,0.964
+ABHD15,A0A7L3E4G1,Chaetops frenatus (Rufous rock-jumper),birds,unreviewed,0.658,0.964
+ABHD15,A0A7L2V8S9,Brachypteracias leptosomus (short-legged ground-roller),birds,unreviewed,0.646,0.993
+ABHD15,A0A7L1B4L7,Gymnorhina tibicen (Australian magpie) (Cracticus tibicen),birds,unreviewed,0.659,0.968
+ABHD15,A0A7K7CDS6,Aphelocoma coerulescens (Florida scrub-jay) (Corvus coerulescens),birds,unreviewed,0.662,0.964
+ABHD15,A0A7K8FNI1,Struthidea cinerea,birds,unreviewed,0.661,0.971
+ABHD15,A0A852N3V4,Pteruthius melanotis,birds,unreviewed,0.662,0.964
+ABHD15,A0A7K4UGX5,Sinosuthora webbiana,birds,unreviewed,0.669,0.964
+ABHD15,A0A7L1XLH6,Thinocorus orbignyianus,birds,unreviewed,0.67,0.968
+ABHD15,A0A7L4AF00,Circaetus pectoralis (black-chested snake-eagle),birds,unreviewed,0.662,0.964
+ABHD15,A0A7L2XZ90,Erpornis zantholeuca,birds,unreviewed,0.662,0.964
+ABHD15,A0A7K9KMU9,Dicaeum eximium,birds,unreviewed,0.667,0.968
+ABHD15,A0A7L0GNM2,Herpetotheres cachinnans (Laughing falcon) (Falco cachinnans),birds,unreviewed,0.662,0.964
+ABHD15,A0A851ZNX8,Calcarius ornatus (Chestnut-collared longspur),birds,unreviewed,0.658,0.964
+ABHD15,A0A852D556,Passerina amoena (Lazuli bunting),birds,unreviewed,0.665,0.964
+ABHD15,A0A7K6K4R4,Oreocharis arfaki (tit berrypecker),birds,unreviewed,0.661,0.971
+ABHD15,A0A7K5C7Y9,Motacilla alba (White wagtail) (Pied wagtail),birds,unreviewed,0.669,0.964
+ABHD15,A0A7L2TK62,Pomatostomus ruficeps (Chestnut-crowned babbler),birds,unreviewed,0.658,0.964
+ABHD15,A0A7K9VU61,Rhipidura dahli,birds,unreviewed,0.668,0.971
+ABHD15,A0A7K7J2B3,Loxia curvirostra (Red crossbill),birds,unreviewed,0.654,0.964
+ABHD15,A0A7L1EQV3,Oenanthe oenanthe (Northern wheatear),birds,unreviewed,0.661,0.971
+ABHD15,A0A7L0RPM6,Glaucidium brasilianum (Ferruginous pygmy-owl),birds,unreviewed,0.664,0.971
+ABHD15,A0A7L1A4F5,Oxyruncus cristatus (sharpbill),birds,unreviewed,0.645,0.978
+ABHD15,A0A7K8GN51,Orthonyx spaldingii (Chowchilla),birds,unreviewed,0.657,0.971
+ABHD15,A0A7K9GFV4,Loxia leucoptera (White-winged crossbill),birds,unreviewed,0.654,0.964
+ABHD15,A0A7L2FW12,Nyctibius grandis (Great potoo),birds,unreviewed,0.659,0.968
+ABHD15,A0A7K6CGX9,Ptilonorhynchus violaceus (Satin bowerbird) (Pyrrhocorax violaceus),birds,unreviewed,0.662,0.964
+ABHD15,A0A7L2BII0,Alaudala cheleensis (Asian short-toed lark),birds,unreviewed,0.662,0.964
+ABHD15,A0A7L4H2K4,Podargus strigoides (Tawny frogmouth) (Caprimulgus strigoides),birds,unreviewed,0.645,0.989
+ABHD15,A0A7L2Z3W0,Jacana jacana (Wattled jacana) (Parra jacana),birds,unreviewed,0.653,0.993
+ABHD15,A0A7K9PIG1,Pachycephala philippinensis (yellow-belllied whistler),birds,unreviewed,0.662,0.964
+ABHD15,A0A7L3I9E3,Pardalotus punctatus (spotted pardalote),birds,unreviewed,0.658,0.964
+ABHD15,A0A851QBC7,Anhinga anhinga (Anhinga) (Plotus anhinga),birds,unreviewed,0.658,0.975
+ABHD15,A0A851C728,Calyptomena viridis (Lesser green broadbill),birds,unreviewed,0.658,0.964
+ABHD15,A0A7K5T757,Urocynchramus pylzowi,birds,unreviewed,0.657,0.971
+ABHD15,A0A7K4QRT9,Neopipo cinnamomea,birds,unreviewed,0.651,0.964
+ABHD15,A0A7L0SWH7,Podilymbus podiceps (Pied-billed grebe),birds,unreviewed,0.646,0.993
+ABHD15,A0A852M889,Centropus bengalensis (lesser coucal),birds,unreviewed,0.672,0.961
+ABHD15,A0A7K4WER1,Tachuris rubrigastra,birds,unreviewed,0.661,0.971
+ABHD15,A0A851XDW4,Eolophus roseicapilla (Galah cockatoo) (Cacatua roseicapilla),birds,unreviewed,0.637,0.978
+ABHD15,A0A7K7YFL2,Thryothorus ludovicianus (Carolina wren) (Sylvia ludoviciana),birds,unreviewed,0.68,0.964
+ABHD15,A0A7K6D1S3,Origma solitaria,birds,unreviewed,0.643,0.975
+ABHD15,A0A7K9LFD1,Rhabdornis inornatus,birds,unreviewed,0.658,0.964
+ABHD15,A0A7L3S6V1,Cepphus grylle (Black guillemot) (Alca grylle),birds,unreviewed,0.665,0.964
+ABHD15,A0A7L3D0A5,Pluvianellus socialis (Magellanic plover),birds,unreviewed,0.662,0.964
+ABHD15,A0A493SVZ3,Anas platyrhynchos platyrhynchos (Northern mallard),birds,unreviewed,0.63,0.978
+ABHD15,A0A7K6M066,Panurus biarmicus (Bearded tit),birds,unreviewed,0.658,0.964
+ABHD15,A0A851MJW5,Campylorhamphus procurvoides,birds,unreviewed,0.645,0.978
+ABHD15,A0A7K6R5I9,Climacteris rufus (rufous treecreeper),birds,unreviewed,0.662,0.964
+ABHD15,A0A7K8R0I1,Smithornis capensis,birds,unreviewed,0.658,0.964
+ABHD15,A0A851VK37,Copsychus sechellarum,birds,unreviewed,0.658,0.964
+ABHD15,A0A7K5AMZ9,Furnarius figulus,birds,unreviewed,0.651,0.964
+ABHD15,A0ABM1KUX7,Gekko japonicus (Schlegel's Japanese gecko),lepidosaurs,unreviewed,0.633,0.946
+ABHD15,A0A7L3TMV8,Uria aalge (Common mure) (Colymbus aalge),birds,unreviewed,0.643,0.993
+ABHD15,A0A7K6W8Q8,Steatornis caripensis (Oilbird),birds,unreviewed,0.643,0.993
+ABHD15,A0A7L1D074,Serilophus lunatus (silver-breasted broadbill),birds,unreviewed,0.645,0.978
+ABHD15,A0A7K7SLB8,Sapayoa aenigma (broad-billed sapayoa),birds,unreviewed,0.664,0.971
+ABHD15,A0A7L3K292,Drymodes brunneopygia,birds,unreviewed,0.662,0.964
+ABHD15,A0A7L0FIZ6,Corythaixoides concolor (Grey go-away-bird),birds,unreviewed,0.647,0.986
+ABHD15,A0A7L2D6M8,Catharus fuscescens (Veery) (Turdus fuscescens),birds,unreviewed,0.659,0.968
+ABHD15,A0A7K7G7G0,Erithacus rubecula (European robin),birds,unreviewed,0.653,0.971
+ABHD15,A0A7K5HTU0,Crotophaga sulcirostris (Groove-billed ani),birds,unreviewed,0.641,0.978
+ABHD15,A0A7K8PYN2,Cochlearius cochlearius (Boat-billed heron),birds,unreviewed,0.662,0.975
+ABHD15,A0A7L0DRH0,Trogon melanurus (Black-tailed trogon),birds,unreviewed,0.658,0.964
+ABHD15,A0A7L0XJQ6,Tyrannus savana (Fork-tailed flycatcher) (Muscivora tyrannus),birds,unreviewed,0.654,0.964
+ABHD15,A0A7K7FRT1,Chionis minor (Black-faced sheathbill),birds,unreviewed,0.658,0.964
+ABHD15,A0A7K6YYW1,Alca torda (Razorbill),birds,unreviewed,0.639,0.993
+ABHD15,A0A7K6I0D8,Dasyornis broadbenti (rufous bristle-bird),birds,unreviewed,0.641,0.968
+ABHD15,A0AAD8CW46,Acipenser oxyrinchus oxyrinchus,ray-finned fish,unreviewed,0.604,0.996
+ABHD15,A0A852H1L0,Larus smithsonianus (American herring gull),birds,unreviewed,0.654,0.964
+ABHD15,A0A7L4NEW5,Ceyx cyanopectus (Indigo-banded kingfisher),birds,unreviewed,0.643,0.993
+ABHD15,A0A7K4ZY93,Centropus unirufus,birds,unreviewed,0.663,0.968
+ABHD15,A0A7K5E8N5,Polioptila caerulea (Blue-grey gnatcatcher),birds,unreviewed,0.669,0.964
+ABHD15,A0A7K9F1C4,Stercorarius parasiticus (Parasitic jaeger) (Arctic skua),birds,unreviewed,0.654,0.964
+ABHD15,A0A7L3T8G5,Rissa tridactyla (Black-legged kittiwake) (Larus tridactyla),birds,unreviewed,0.654,0.964
+ABHD15,A0A7K5H3C4,Chunga burmeisteri (Black-legged seriema),birds,unreviewed,0.654,0.953
+ABHD15,A0A7L0IYJ3,Piprites chloris (Wing-barred manakin),birds,unreviewed,0.654,0.964
+ABHD15,A0A7L0TR42,Chordeiles acutipennis (Lesser nighthawk) (Caprimulgus acutipennis),birds,unreviewed,0.637,0.978
+ABHD15,A0A7K5ZNT9,Onychorhynchus coronatus (Royal flycatcher),birds,unreviewed,0.651,0.964
+ABHD15,A0A852NMM7,Atrichornis clamosus,birds,unreviewed,0.643,0.975
+ABHD15,A0A7L1KIR1,Rynchops niger (Black skimmer),birds,unreviewed,0.658,0.964
+ABHD15,A0A7L4C3L5,Nyctiprogne leucopyga,birds,unreviewed,0.637,0.978
+ABHD15,A0A7K5TUN3,Cephalopterus ornatus (Amazonian umbrellabird),birds,unreviewed,0.652,0.968
+ABHD15,A0A851DH52,Todus mexicanus (Puerto Rican tody),birds,unreviewed,0.639,0.993
+ABHD15,A0A7L0NYL2,Formicarius rufipectus,birds,unreviewed,0.637,0.978
+ABHD15,A0A7L1I337,Nycticryphes semicollaris,birds,unreviewed,0.643,0.975
+ABHD15,A0A851FRZ4,Pitta sordida (Hooded pitta),birds,unreviewed,0.651,0.964
+ABHD15,A0A7K5EWI8,Probosciger aterrimus (Palm cockatoo),birds,unreviewed,0.647,0.964
+ABHD15,A0A7L2S1B6,Neodrepanis coruscans (wattled asity),birds,unreviewed,0.647,0.964
+ABHD15,A0A7L0D489,Rostratula benghalensis (greater painted-snipe),birds,unreviewed,0.654,0.964
+ABHD15,A0A7L1YS80,Scytalopus superciliaris,birds,unreviewed,0.647,0.964
+ABHD15,A0A7K9EAR0,Baryphthengus martii (Rufous motmot),birds,unreviewed,0.625,0.993
+ABHD15,A0A7K8VYW4,Sclerurus mexicanus (tawny-throated leaftosser),birds,unreviewed,0.653,0.939
+ABHD15,U3JUS7,Ficedula albicollis (Collared flycatcher) (Muscicapa albicollis),birds,unreviewed,0.651,0.925
+ABHD15,A0A8C9N107,Serinus canaria (Island canary) (Fringilla canaria),birds,unreviewed,0.655,0.892
+ABHD15,A0A7K9C6W2,Psilopogon haemacephalus (coppersmith barbet),birds,unreviewed,0.643,0.964
+ABHD15,A0A8D2Q6I1,Varanus komodoensis (Komodo dragon),lepidosaurs,unreviewed,0.627,0.961
+ABHD15,A0A7K8XHT0,Eubucco bourcierii (red-headed barbet),birds,unreviewed,0.632,0.975
+ABHD15,A0A7L1GDG8,Indicator maculatus (spotted honeyguide),birds,unreviewed,0.643,0.993
+ABHD15,A0A7K9N152,Edolisoma coerulescens,birds,unreviewed,0.655,0.996
+ABHD15,A0A852C130,Ramphastos sulfuratus,birds,unreviewed,0.628,0.993
+ABHD15,A0ABS2XAY7,Polyodon spathula (North American paddlefish) (Squalus spathula),ray-finned fish,unreviewed,0.61,0.993
+ABHD15,A0A8J7TG92,Atractosteus spatula (Alligator gar) (Lepisosteus spatula),ray-finned fish,unreviewed,0.609,0.982
+ABHD15,A0A7K4JSI7,Geococcyx californianus (Greater roadrunner) (Saurothera californiana),birds,unreviewed,0.641,0.968
+ABHD15,A0A7L2MK82,Rhadina sibilatrix,birds,unreviewed,0.648,0.978
+ABHD15,A0A7K6U472,Aegotheles bennettii,birds,unreviewed,0.647,0.975
+ABHD15,A0A7L3AVF9,Syrrhaptes paradoxus (Pallas's sandgrouse),birds,unreviewed,0.622,0.968
+ABHD15,A0A7L3MTF6,Horornis vulcanius,birds,unreviewed,0.672,0.928
+ABHD15,A0A7K5IW83,Toxostoma redivivum (California thrasher),birds,unreviewed,0.662,0.964
+ABHD15,A0A852J2W5,Tricholaema leucomelas (pied barbet),birds,unreviewed,0.636,0.975
+ABHD15,A0A1L8HDN0,Xenopus laevis (African clawed frog),amphibians,unreviewed,0.569,0.989
+ABHD15,A0A852L1E3,Urocolius indicus (Red-faced mousebird) (Colius indicus),birds,unreviewed,0.653,0.971
+ABHD15,A0A7K8Y8B0,Sakesphorus luctuosus,birds,unreviewed,0.654,0.932
+ABHD15,A0A7L2IIU7,Semnornis frantzii,birds,unreviewed,0.642,0.961
+ABHD15,A0A7L1NAM8,Rhinopomastus cyanomelas (Common scimitarbill),birds,unreviewed,0.635,0.993
+ABHD15,A0A7K9S3U7,Sterrhoptilus dennistouni,birds,unreviewed,0.649,0.928
+ABHD15,A0A7K9H761,Bucco capensis (collared puffbird),birds,unreviewed,0.643,0.964
+ABHD15,A0A7K9D1B5,Hemiprocne comata,birds,unreviewed,0.633,0.986
+ABHD15,A0A7L3WHJ5,Atlantisia rogersi (Inaccessible Island rail),birds,unreviewed,0.63,0.989
+ABHD15,A0A850WJD4,Piaya cayana (Common squirrel cuckoo),birds,unreviewed,0.639,0.964
+ABHD15,A0A663F9H1,Aquila chrysaetos chrysaetos,birds,unreviewed,0.68,0.864
+ABHD15,A0A7K6B7F7,Upupa epops (Eurasian hoopoe),birds,unreviewed,0.625,0.993
+ABHD15,A0A7K8E9T9,Leucopsar rothschildi (Bali myna) (Rothschild's mynah),birds,unreviewed,0.66,0.95
+ABHD15,A0ACF8G8U0,Arapaima gigas (Giant arapaima) (Sudis gigas),ray-finned fish,unreviewed,0.602,0.982
+ABHD15,A0A8X7X095,Polypterus senegalus (Senegal bichir),ray-finned fish,unreviewed,0.593,0.986
+ABHD15,A0A7L0YJ77,Ploceus nigricollis,birds,unreviewed,0.669,0.889
+ABHD15,A0A7K8C168,Rhagologus leucostigma,birds,unreviewed,0.662,0.964
+ABHD15,A0A7L1THC5,Aramus guarauna (Limpkin) (Scolopax guarauna),birds,unreviewed,0.649,0.928
+ABHD15,A0A8C4S6K6,Erpetoichthys calabaricus (Rope fish) (Calamoichthys calabaricus),ray-finned fish,unreviewed,0.594,0.953
+ABHD15,A0A7K5YZC7,Pterocles burchelli,birds,unreviewed,0.607,0.968
+ABHD15,A0A7K4Z1X9,Bucorvus abyssinicus (Northern ground-hornbill) (Abyssinian ground-hornbill),birds,unreviewed,0.639,0.953
+ABHD15,A0A7L1FRU8,Sylvia borin (Garden warbler) (Motacilla borin),birds,unreviewed,0.635,0.932
+ABHD15,A0A7K6PFE6,Ifrita kowaldi (blue-capped ifrita),birds,unreviewed,0.665,0.964
+ABHD15,A0A151LY27,Alligator mississippiensis (American alligator),crocodilians,unreviewed,0.615,0.95
+ABHD15,A0A7M4FCC0,Crocodylus porosus (Saltwater crocodile) (Estuarine crocodile),crocodilians,unreviewed,0.588,0.982
+ABHD15,A0A7K9XRR1,Psophia crepitans (common trumpeter),birds,unreviewed,0.598,0.971
+ABHD15,A0A1U7SBZ4,Alligator sinensis (Chinese alligator),crocodilians,unreviewed,0.612,0.943
+ABHD15,A0A7K6S029,Rhynochetos jubatus (kagu),birds,unreviewed,0.623,0.885
+ABHD15,A0A851DY82,Dryoscopus gambensis,birds,unreviewed,0.672,0.842
+ABHD15,A0A7K4S6Z2,Columbina picui (Picui ground-dove),birds,unreviewed,0.682,0.914
+ABHD15,A0A7L2FKI0,Quiscalus mexicanus (Great-tailed grackle) (Cassidix mexicanus),birds,unreviewed,0.656,0.939
+ABHD15,A0A8C9UZL5,Scleropages formosus (Asian bonytongue) (Osteoglossum formosum),ray-finned fish,unreviewed,0.584,0.957
+ABHD15,A0A3B4C9I5,Pygocentrus nattereri (Red-bellied piranha),ray-finned fish,unreviewed,0.558,0.95
+ABHD15,A0A8T1SIZ1,Chelydra serpentina (Snapping turtle) (Testudo serpentina),turtles,unreviewed,0.728,0.763
+ABHD15,A0AAZ3PDM3,Oncorhynchus tshawytscha (Chinook salmon) (Salmo tshawytscha),ray-finned fish,unreviewed,0.541,0.953
+ABHD15,A0A7K9TYI9,Chloroceryle aenea (American pygmy kingfisher),birds,unreviewed,0.622,0.853
+ABHD15,A0A851APP8,Sula dactylatra (Masked booby),birds,unreviewed,0.646,0.971
+ABHD15,A0A7L1VX06,Certhia brachydactyla (short-toed tree-creeper),birds,unreviewed,0.676,0.853
+ABHD15,A0A7L1V3C0,Sitta europaea (Eurasian nuthatch),birds,unreviewed,0.593,0.889
+ABHD15,A0A8C4VZF7,Gopherus evgoodei (Goodes thornscrub tortoise),turtles,unreviewed,0.701,0.803
+ABHD15,A0ACB7F1V7,Nibea albiflora (Yellow drum) (Corvina albiflora),ray-finned fish,unreviewed,0.545,0.986
+ABHD15,A0A3P8XJL8,Esox lucius (Northern pike),ray-finned fish,unreviewed,0.587,0.964
+ABHD15,A0A3P8NT41,Astatotilapia calliptera (Eastern river bream) (Chromis callipterus),ray-finned fish,unreviewed,0.571,0.953
+ABHD15,A0AAZ1Y0P3,Oreochromis aureus (Israeli tilapia) (Chromis aureus),ray-finned fish,unreviewed,0.556,0.953
+ABHD15,A0A3B5LUL6,Xiphophorus couchianus (Monterrey platyfish),ray-finned fish,unreviewed,0.548,0.928
+ABHD15,A0A7L2AK22,Heliornis fulica (sungrebe),birds,unreviewed,0.582,0.9
+ABHD15,A0A2I0LNE4,Columba livia (Rock dove),birds,unreviewed,0.592,0.853
+ABHD15,A0A8C6KZE9,Nothobranchius furzeri (Turquoise killifish),ray-finned fish,unreviewed,0.525,0.943
+ABHD15,A0A7L2STM6,Mystacornis crossleyi,birds,unreviewed,0.662,0.806
+ABHD15,A0A7L0ANU0,Ciconia maguari,birds,unreviewed,0.645,0.817
+ABHD15,A0A7K5XFQ9,Dromas ardeola,birds,unreviewed,0.556,0.832
+ABHD15,A0A3Q1C7Y7,Amphiprion ocellaris (Clown anemonefish),ray-finned fish,unreviewed,0.512,0.875
+ABHD15,A0A850VTK9,Fregata magnificens (Magnificent frigatebird),birds,unreviewed,0.555,0.943
+ABHD5,K7DH35,Pan troglodytes (Chimpanzee),mammals,unreviewed,0.997,1.0
+ABHD5,Q5RBI4,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),mammals,reviewed,0.997,1.0
+ABHD5,A0A2K6Q620,Rhinopithecus roxellana (Golden snub-nosed monkey) (Pygathrix roxellana),mammals,unreviewed,1.0,1.0
+ABHD5,A0A8C9GXJ8,Piliocolobus tephrosceles (Ugandan red Colobus),mammals,unreviewed,1.0,1.0
+ABHD5,I2CTH5,Macaca mulatta (Rhesus macaque),mammals,unreviewed,1.0,1.0
+ABHD5,A0A2I2Y6C4,Gorilla gorilla gorilla (Western lowland gorilla),mammals,unreviewed,0.994,0.997
+ABHD5,G1SR43,Oryctolagus cuniculus (Rabbit),mammals,unreviewed,0.987,1.0
+ABHD5,A0A2I3HKR4,Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys),mammals,unreviewed,0.994,1.0
+ABHD5,A0A6J3JHN7,Sapajus apella (Brown-capped capuchin) (Cebus apella),mammals,unreviewed,0.99,1.0
+ABHD5,A0A8D2K1N4,Theropithecus gelada (Gelada baboon),mammals,unreviewed,0.997,1.0
+ABHD5,A0ABM4XWH7,Vulpes vulpes (Red fox),mammals,unreviewed,0.984,1.0
+ABHD5,A0A8I3P7F2,Canis lupus familiaris (Dog) (Canis familiaris),mammals,unreviewed,0.984,1.0
+ABHD5,M3YNC5,Mustela putorius furo (European domestic ferret) (Mustela furo),mammals,unreviewed,0.981,1.0
+ABHD5,A0A2K5R7M7,Cebus imitator (Panamanian white-faced capuchin) (Cebus capucinus imitator),mammals,unreviewed,0.987,1.0
+ABHD5,F7DVW7,Callithrix jacchus (White-tufted-ear marmoset) (Simia Jacchus),mammals,unreviewed,0.987,1.0
+ABHD5,A0A8C7AFM4,Neogale vison (American mink) (Mustela vison),mammals,unreviewed,0.978,1.0
+ABHD5,A0A2U3X5V5,Odobenus rosmarus divergens (Pacific walrus),mammals,unreviewed,0.981,1.0
+ABHD5,A0A6J2CDC6,Zalophus californianus (California sealion),mammals,unreviewed,0.978,1.0
+ABHD5,A0ABI7WDM3,Felis catus (Cat) (Felis silvestris catus),mammals,unreviewed,0.968,1.0
+ABHD5,A0A3Q7Q4I4,Callorhinus ursinus (Northern fur seal),mammals,unreviewed,0.978,1.0
+ABHD5,A0A2U3YAA9,Leptonychotes weddellii (Weddell seal) (Otaria weddellii),mammals,unreviewed,0.974,1.0
+ABHD5,A0A1S3AIT2,Erinaceus europaeus (Western European hedgehog),mammals,unreviewed,0.962,1.0
+ABHD5,A0A8D2DAY1,Sciurus vulgaris (Eurasian red squirrel),mammals,unreviewed,0.984,0.994
+ABHD5,A0A8M1GBE6,Ursus maritimus (Polar bear) (Thalarctos maritimus),mammals,unreviewed,0.971,1.0
+ABHD5,A0A452FHS5,Capra hircus (Goat),mammals,unreviewed,0.971,1.0
+ABHD5,I3LZR0,Ictidomys tridecemlineatus (Thirteen-lined ground squirrel) (Spermophilus tridecemlineatus),mammals,unreviewed,0.984,0.994
+ABHD5,A0A6J0YHG6,Odocoileus virginianus (White-tailed deer),mammals,unreviewed,0.974,1.0
+ABHD5,A0A2Y9G519,Neomonachus schauinslandi (Hawaiian monk seal) (Monachus schauinslandi),mammals,unreviewed,0.978,1.0
+ABHD5,A0A9L0JY48,Equus asinus (Donkey) (Equus africanus asinus),mammals,unreviewed,0.968,1.0
+ABHD5,A0ABM4KYJ7,Equus przewalskii (Przewalski's horse) (Equus caballus przewalskii),mammals,unreviewed,0.968,1.0
+ABHD5,A0A8C8WP66,Panthera leo (Lion),mammals,unreviewed,0.968,1.0
+ABHD5,A0A6P6H377,Puma concolor (Mountain lion) (Felis concolor),mammals,unreviewed,0.965,1.0
+ABHD5,A6ZE98,Ovis aries (Sheep),mammals,unreviewed,0.968,1.0
+ABHD5,A0A8D2HM69,Urocitellus parryii (Arctic ground squirrel) (Spermophilus parryii),mammals,unreviewed,0.981,0.994
+ABHD5,A0A9V1E4T2,Panthera pardus (Leopard) (Felis pardus),mammals,unreviewed,0.968,1.0
+ABHD5,A0A6J1XVE0,Acinonyx jubatus (Cheetah),mammals,unreviewed,0.962,1.0
+ABHD5,A0A8C6E961,Moschus moschiferus (Siberian musk deer) (Moschus sibiricus),mammals,unreviewed,0.974,1.0
+ABHD5,A0A667HPR9,Lynx canadensis (Canada lynx) (Felis canadensis),mammals,unreviewed,0.955,1.0
+ABHD5,A0A8B7GRU5,Microcebus murinus (Gray mouse lemur) (Lemur murinus),mammals,unreviewed,0.971,1.0
+ABHD5,H0XAB5,Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby),mammals,unreviewed,0.971,1.0
+ABHD5,A0A8B7QM75,Hipposideros armiger (Great Himalayan leaf-nosed bat),mammals,unreviewed,0.971,1.0
+ABHD5,A0A8C9DK45,Prolemur simus (Greater bamboo lemur) (Hapalemur simus),mammals,unreviewed,0.968,1.0
+ABHD5,A0A671FE00,Rhinolophus ferrumequinum (Greater horseshoe bat),mammals,unreviewed,0.962,1.0
+ABHD5,K4PIH7,Sus scrofa (Pig),mammals,unreviewed,0.955,1.0
+ABHD5,A0A8C6RB08,Nannospalax galili (Northern Israeli blind subterranean mole rat) (Spalax galili),mammals,unreviewed,0.968,1.0
+ABHD5,A0A384B1F0,Balaenoptera acutorostrata (Common minke whale) (Balaena rostrata),mammals,unreviewed,0.952,1.0
+ABHD5,A0AC58LFQ1,Castor canadensis (American beaver),mammals,unreviewed,0.968,1.0
+ABHD5,A0A6P3HPI8,Bison bison bison (North American plains bison),mammals,unreviewed,0.968,0.997
+ABHD5,A0A8B8YYH9,Balaenoptera musculus (Blue whale),mammals,unreviewed,0.952,1.0
+ABHD5,A0A2U4CAK9,Tursiops truncatus (Atlantic bottle-nosed dolphin) (Delphinus truncatus),mammals,unreviewed,0.952,1.0
+ABHD5,A0A9W3GLK3,Camelus bactrianus (Bactrian camel),mammals,unreviewed,0.955,1.0
+ABHD5,A0A8B7K818,Camelus ferus (Wild bactrian camel) (Camelus bactrianus ferus),mammals,unreviewed,0.955,1.0
+ABHD5,A0A8C9CDM1,Phocoena sinus (Vaquita),mammals,unreviewed,0.952,1.0
+ABHD5,A0A8B9XWM5,Bos grunniens (Wild yak) (Bos mutus grunniens),mammals,unreviewed,0.965,0.997
+ABHD5,A0A341CDG3,Neophocaena asiaeorientalis asiaeorientalis (Yangtze finless porpoise) (Neophocaena phocaenoides subsp. asiaeorientalis),mammals,unreviewed,0.952,1.0
+ABHD5,A0A340WB94,Lipotes vexillifer (Yangtze river dolphin),mammals,unreviewed,0.952,1.0
+ABHD5,A0ACM8QAG8,Bos taurus (Bovine),mammals,unreviewed,0.965,0.997
+ABHD5,A0A7N5KBK5,Ailuropoda melanoleuca (Giant panda),mammals,unreviewed,0.971,0.984
+ABHD5,A0A8C6FAH7,Monodon monoceros (Narwhal) (Ceratodon monodon),mammals,unreviewed,0.946,1.0
+ABHD5,A0A2Y9LVY0,Delphinapterus leucas (Beluga whale),mammals,unreviewed,0.946,1.0
+ABHD5,A0A6P5DTH3,Bos indicus (Zebu),mammals,unreviewed,0.962,0.997
+ABHD5,A0A8C3WU25,Catagonus wagneri (Chacoan peccary),mammals,unreviewed,0.942,1.0
+ABHD5,A0A2Y9FRR7,Physeter macrocephalus (Sperm whale) (Physeter catodon),mammals,unreviewed,0.946,1.0
+ABHD5,A0A6I9I394,Vicugna pacos (Alpaca) (Lama pacos),mammals,unreviewed,0.955,1.0
+ABHD5,A0A4W2BPP5,Bos indicus x Bos taurus (Hybrid cattle),mammals,unreviewed,0.965,0.994
+ABHD5,A0A8C6ERE3,Marmota marmota marmota (Alpine marmot),mammals,unreviewed,0.984,0.994
+ABHD5,A0ABM0R322,Galeopterus variegatus (Malayan flying lemur) (Cynocephalus variegatus),mammals,unreviewed,0.974,1.0
+ABHD5,A0A6P5QKQ6,Mus caroli (Ryukyu mouse) (Ricefield mouse),mammals,unreviewed,0.958,1.0
+ABHD5,Q9DBL9,Mus musculus (Mouse),mammals,reviewed,0.958,1.0
+ABHD5,A0A1U7QWF1,Mesocricetus auratus (Golden hamster),mammals,unreviewed,0.961,0.994
+ABHD5,A0JPK5,Rattus norvegicus (Rat),mammals,unreviewed,0.955,1.0
+ABHD5,A0A2Y9D633,Trichechus manatus latirostris (Florida manatee),mammals,unreviewed,0.939,1.0
+ABHD5,A0A8C9K7Z2,Panthera tigris altaica (Siberian tiger),mammals,unreviewed,0.965,1.0
+ABHD5,A0A9J7JI07,Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus),mammals,unreviewed,0.958,0.994
+ABHD5,A0AAU9YSS3,Phodopus roborovskii (Roborovski's desert hamster) (Cricetulus roborovskii),mammals,unreviewed,0.958,0.994
+ABHD5,A0A6J2M2B9,Phyllostomus discolor (pale spear-nosed bat),mammals,unreviewed,0.949,1.0
+ABHD5,A0A6G1B9T0,Crocuta crocuta (Spotted hyena),mammals,unreviewed,0.971,1.0
+ABHD5,A0ABM0KKK6,Microtus ochrogaster (Prairie vole),mammals,unreviewed,0.945,0.994
+ABHD5,A0A1S3GCP3,Dipodomys ordii (Ord's kangaroo rat),mammals,unreviewed,0.942,0.997
+ABHD5,A0A8C2VYN4,Chinchilla lanigera (Long-tailed chinchilla) (Chinchilla villidera),mammals,unreviewed,0.945,0.994
+ABHD5,A0A6P6CCI5,Pteropus vampyrus (Large flying fox),mammals,unreviewed,0.946,1.0
+ABHD5,A0A9B0TYA6,Chrysochloris asiatica (Cape golden mole),mammals,unreviewed,0.955,1.0
+ABHD5,A0AC54Z5V8,Orycteropus afer afer,mammals,unreviewed,0.946,1.0
+ABHD5,A0A6P3FLZ2,Octodon degus (Degu) (Sciurus degus),mammals,unreviewed,0.939,0.994
+ABHD5,G1NUN9,Myotis lucifugus (Little brown bat),mammals,unreviewed,0.93,1.0
+ABHD5,A0AAX6NR78,Heterocephalus glaber (Naked mole rat),mammals,unreviewed,0.914,1.0
+ABHD5,A0A286XRV1,Cavia porcellus (Guinea pig),mammals,unreviewed,0.916,0.994
+ABHD5,A0A8C0JYE6,Canis lupus dingo (dingo),mammals,unreviewed,0.984,1.0
+ABHD5,A0A7N4V2U1,Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius),mammals,unreviewed,0.891,1.0
+ABHD5,A0A673UN57,Suricata suricatta (Meerkat),mammals,unreviewed,0.962,0.914
+ABHD5,A0A6I8NHJ5,Ornithorhynchus anatinus (Duckbill platypus),mammals,unreviewed,0.901,1.0
+ABHD5,F6UK46,Monodelphis domestica (Gray short-tailed opossum),mammals,unreviewed,0.895,1.0
+ABHD5,A0A6P5KT50,Phascolarctos cinereus (Koala),mammals,unreviewed,0.888,1.0
+ABHD5,A0A8T1SQ98,Chelydra serpentina (Snapping turtle) (Testudo serpentina),turtles,unreviewed,0.843,1.0
+ABHD5,A0A9F2N5P6,Python bivittatus (Burmese python) (Python molurus bivittatus),lepidosaurs,unreviewed,0.827,1.0
+ABHD5,G1KQJ1,Anolis carolinensis (Green anole) (American chameleon),lepidosaurs,unreviewed,0.834,1.0
+ABHD5,A0A8C4YPS6,Gopherus evgoodei (Goodes thornscrub tortoise),turtles,unreviewed,0.837,1.0
+ABHD5,A0A8C3ID51,Chrysemys picta bellii (Western painted turtle) (Emys bellii),turtles,unreviewed,0.837,1.0
+ABHD5,A0A674KDW0,Terrapene triunguis (Three-toed box turtle),turtles,unreviewed,0.837,1.0
+ABHD5,A0A6J0U303,Pogona vitticeps (central bearded dragon),lepidosaurs,unreviewed,0.824,1.0
+ABHD5,A0ACS7L1T3,Liasis olivaceus (Olive python) (Morelia olivacea),lepidosaurs,unreviewed,0.824,1.0
+ABHD5,A0AA97K2Q4,Eublepharis macularius (Leopard gecko) (Cyrtodactylus macularius),lepidosaurs,unreviewed,0.824,1.0
+ABHD5,A0A8C4P6J6,Dromaius novaehollandiae (Emu),birds,unreviewed,0.827,1.0
+ABHD5,A0ACS7E6L7,Chlamydotis macqueenii (Macqueen's bustard),birds,unreviewed,0.827,1.0
+ABHD5,A0A6I9XC84,Thamnophis sirtalis,lepidosaurs,unreviewed,0.818,1.0
+ABHD5,A0A8D2IT50,Varanus komodoensis (Komodo dragon),lepidosaurs,unreviewed,0.821,1.0
+ABHD5,A0A6J1VAI7,Notechis scutatus (mainland tiger snake),lepidosaurs,unreviewed,0.818,1.0
+ABHD5,A0ABM4E4B6,Apteryx mantelli (North Island brown kiwi),birds,unreviewed,0.824,1.0
+ABHD5,A0A151MR24,Alligator mississippiensis (American alligator),crocodilians,unreviewed,0.837,0.997
+ABHD5,A0A7K7VDB2,Eudromia elegans (Elegant crested-tinamou),birds,unreviewed,0.827,1.0
+ABHD5,G0Z6P3,Meleagris gallopavo (Wild turkey),birds,unreviewed,0.818,1.0
+ABHD5,A0A8C3TZZ3,Catharus ustulatus (Russet-backed thrush) (Hylocichla ustulatus),birds,unreviewed,0.834,1.0
+ABHD5,A0A8C6XWX3,Naja naja (Indian cobra),lepidosaurs,unreviewed,0.812,1.0
+ABHD5,A0A663EB71,Aquila chrysaetos chrysaetos,birds,unreviewed,0.831,1.0
+ABHD5,A0A851SZT0,Nothocercus nigrocapillus,birds,unreviewed,0.827,1.0
+ABHD5,A0A7K8N4S8,Casuarius casuarius (Southern cassowary) (Struthio casuarius),birds,unreviewed,0.827,1.0
+ABHD5,A0A670Z2L1,Pseudonaja textilis (Eastern brown snake),lepidosaurs,unreviewed,0.818,1.0
+ABHD5,A0A7K8JFN9,Lophotis ruficrista,birds,unreviewed,0.831,1.0
+ABHD5,A0A8C6ZIG8,Nothoprocta perdicaria (Chilean tinamou) (Crypturus perdicarius),birds,unreviewed,0.824,1.0
+ABHD5,A0ACS7H805,Spheniscus humboldti (Humboldt penguin),birds,unreviewed,0.831,1.0
+ABHD5,A0A1V4KC83,Patagioenas fasciata monilis,birds,unreviewed,0.827,1.0
+ABHD5,A0A674H7N3,Taeniopygia guttata (Zebra finch) (Poephila guttata),birds,unreviewed,0.831,1.0
+ABHD5,A0A852FS46,Peucedramus taeniatus (Olive warbler),birds,unreviewed,0.831,1.0
+ABHD5,A0A1U7S351,Alligator sinensis (Chinese alligator),crocodilians,unreviewed,0.837,0.997
+ABHD5,A0A7L0G8P6,Herpetotheres cachinnans (Laughing falcon) (Falco cachinnans),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K7W5H8,Nothocercus julius,birds,unreviewed,0.827,1.0
+ABHD5,A0A7L1DXB8,Oenanthe oenanthe (Northern wheatear),birds,unreviewed,0.837,1.0
+ABHD5,A0A851FIG7,Pitta sordida (Hooded pitta),birds,unreviewed,0.834,1.0
+ABHD5,A0A8D2M314,Zonotrichia albicollis (White-throated sparrow) (Fringilla albicollis),birds,unreviewed,0.827,1.0
+ABHD5,A0A8C2TPT0,Coturnix japonica (Japanese quail) (Coturnix coturnix japonica),birds,unreviewed,0.818,1.0
+ABHD5,A0A8C3DE08,Corvus moneduloides (New Caledonian crow),birds,unreviewed,0.831,1.0
+ABHD5,A0A6J2HP22,Pipra filicauda (Wire-tailed manakin),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K7AWQ2,Nothoprocta ornata,birds,unreviewed,0.824,1.0
+ABHD5,A0A7K9ABW4,Grallaria varia (variegated antpitta),birds,unreviewed,0.834,1.0
+ABHD5,A0A7L2DY84,Anthoscopus minutus (Southern penduline-tit),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K5QTS8,Prunella himalayana,birds,unreviewed,0.834,1.0
+ABHD5,A0A669PT19,Phasianus colchicus (Common pheasant),birds,unreviewed,0.815,1.0
+ABHD5,A0A7K7BP78,Aphelocoma coerulescens (Florida scrub-jay) (Corvus coerulescens),birds,unreviewed,0.831,1.0
+ABHD5,A0A7L0BQV5,Spizaetus tyrannus (black hawk-eagle),birds,unreviewed,0.831,1.0
+ABHD5,A0A7L2CI00,Catharus fuscescens (Veery) (Turdus fuscescens),birds,unreviewed,0.834,1.0
+ABHD5,A0A851QH89,Tychaedon coryphoeus (Karoo scrub-robin) (Erythropygia coryphaeus),birds,unreviewed,0.834,1.0
+ABHD5,A0A7K6DD21,Origma solitaria,birds,unreviewed,0.831,1.0
+ABHD5,A0A7K8DUP5,Leucopsar rothschildi (Bali myna) (Rothschild's mynah),birds,unreviewed,0.834,1.0
+ABHD5,A0A7L1VBI2,Sitta europaea (Eurasian nuthatch),birds,unreviewed,0.827,1.0
+ABHD5,A0A851U990,Elachura formosa (spotted wren-babbler),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K7P8V2,Acrocephalus arundinaceus (Great reed-warbler),birds,unreviewed,0.831,1.0
+ABHD5,A0A851JTZ8,Donacobius atricapilla,birds,unreviewed,0.831,1.0
+ABHD5,A0A7L0IF49,Piprites chloris (Wing-barred manakin),birds,unreviewed,0.827,1.0
+ABHD5,A0A672TSG2,Strigops habroptila (Kakapo),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K7UDH6,Ibidorhyncha struthersii,birds,unreviewed,0.831,1.0
+ABHD5,A0A7K9LCA8,Rhabdornis inornatus,birds,unreviewed,0.834,1.0
+ABHD5,A0A7L3ZUI3,Circaetus pectoralis (black-chested snake-eagle),birds,unreviewed,0.831,1.0
+ABHD5,A0A7L1L272,Himantopus himantopus (Black-winged stilt) (Charadrius himantopus),birds,unreviewed,0.831,1.0
+ABHD5,A0A7L0U3Q7,Chordeiles acutipennis (Lesser nighthawk) (Caprimulgus acutipennis),birds,unreviewed,0.837,1.0
+ABHD5,A0A7L2K3M6,Cinclus mexicanus (American dipper),birds,unreviewed,0.834,1.0
+ABHD5,A0A851V1I0,Copsychus sechellarum,birds,unreviewed,0.834,1.0
+ABHD5,A0A7L1BMU4,Illadopsis cleaveri (blackcap illadopsis),birds,unreviewed,0.827,1.0
+ABHD5,A0A091NUG2,Haliaeetus albicilla (White-tailed sea-eagle) (Falco albicilla),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K8LRJ2,Ptilorrhoa leucosticta,birds,unreviewed,0.831,1.0
+ABHD5,B3TZB3,Gallus gallus (Chicken),birds,unreviewed,0.818,1.0
+ABHD5,A0A7L3ES90,Chaetops frenatus (Rufous rock-jumper),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K6ZIK5,Nothoprocta pentlandii,birds,unreviewed,0.824,1.0
+ABHD5,A0A7K5JHS5,Mionectes macconnelli (McConnell's flycatcher),birds,unreviewed,0.831,1.0
+ABHD5,A0A7L3VF11,Molothrus ater (Brown-headed cowbird),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K5EDP7,Polioptila caerulea (Blue-grey gnatcatcher),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K5U1U7,Cephalopterus ornatus (Amazonian umbrellabird),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K8L2N1,Ardeotis kori,birds,unreviewed,0.827,1.0
+ABHD5,A0A7K7JK01,Agelaius phoeniceus (Red-winged blackbird) (Oriolus phoeniceus),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K7YM04,Thryothorus ludovicianus (Carolina wren) (Sylvia ludoviciana),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K4WLS0,Tachuris rubrigastra,birds,unreviewed,0.831,1.0
+ABHD5,A0A7L0Z460,Oxyruncus cristatus (sharpbill),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K5RPI4,Lanius ludovicianus (Loggerhead shrike),birds,unreviewed,0.831,1.0
+ABHD5,A0A7L4HN35,Scopus umbretta (Hammerkop),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K5ZAU9,Onychorhynchus coronatus (Royal flycatcher),birds,unreviewed,0.831,1.0
+ABHD5,A0A7L2F9V0,Quiscalus mexicanus (Great-tailed grackle) (Cassidix mexicanus),birds,unreviewed,0.831,1.0
+ABHD5,A0A8C0HGE1,Chelonoidis abingdonii (Abingdon island giant tortoise) (Testudo abingdonii),turtles,unreviewed,0.821,1.0
+ABHD5,A0A7K4L7X1,Crypturellus undulatus,birds,unreviewed,0.824,1.0
+ABHD5,A0A7K7GK56,Erithacus rubecula (European robin),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K4J791,Geococcyx californianus (Greater roadrunner) (Saurothera californiana),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K9KD78,Dicaeum eximium,birds,unreviewed,0.834,1.0
+ABHD5,A0A7K5YU19,Pterocles burchelli,birds,unreviewed,0.827,1.0
+ABHD5,A0A8J4MZJ6,Eudyptula minor (Little blue penguin) (Aptenodytes minor),birds,unreviewed,0.831,1.0
+ABHD5,A0A7L1B1Y2,Gymnorhina tibicen (Australian magpie) (Cracticus tibicen),birds,unreviewed,0.831,1.0
+ABHD5,A0A8C9MF07,Serinus canaria (Island canary) (Fringilla canaria),birds,unreviewed,0.824,1.0
+ABHD5,A0A8J4IFH1,Spheniscus mendiculus (Galapagos penguin),birds,unreviewed,0.831,1.0
+ABHD5,A0A7L1HN96,Nycticryphes semicollaris,birds,unreviewed,0.834,1.0
+ABHD5,A0ABM1K2L5,Gekko japonicus (Schlegel's Japanese gecko),lepidosaurs,unreviewed,0.827,1.0
+ABHD5,A0A7K7TAN3,Sapayoa aenigma (broad-billed sapayoa),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K5J633,Toxostoma redivivum (California thrasher),birds,unreviewed,0.831,1.0
+ABHD5,A0A803V6Z2,Ficedula albicollis (Collared flycatcher) (Muscicapa albicollis),birds,unreviewed,0.834,1.0
+ABHD5,A0A7K6GPI0,Malurus elegans (Red-winged fairywren),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K8QK71,Smithornis capensis,birds,unreviewed,0.831,1.0
+ABHD5,A0A7K4R9T2,Neopipo cinnamomea,birds,unreviewed,0.831,1.0
+ABHD5,A0A852LVT3,Centropus bengalensis (lesser coucal),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K5HW37,Crotophaga sulcirostris (Groove-billed ani),birds,unreviewed,0.827,1.0
+ABHD5,A0A7M4FTW3,Crocodylus porosus (Saltwater crocodile) (Estuarine crocodile),crocodilians,unreviewed,0.833,0.997
+ABHD5,A0A7L3BEH7,Syrrhaptes paradoxus (Pallas's sandgrouse),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L1XLP1,Thinocorus orbignyianus,birds,unreviewed,0.831,1.0
+ABHD5,A0A7K9QM79,Irena cyanogastra (Philippine fairy-bluebird),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L0EMQ1,Trogon melanurus (Black-tailed trogon),birds,unreviewed,0.83,0.994
+ABHD5,A0A7L0RN03,Glaucidium brasilianum (Ferruginous pygmy-owl),birds,unreviewed,0.827,1.0
+ABHD5,A0A2I0MQN6,Columba livia (Rock dove),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K9JEM4,Myiagra hebetior,birds,unreviewed,0.827,1.0
+ABHD5,A0A7K8PA56,Cochlearius cochlearius (Boat-billed heron),birds,unreviewed,0.824,1.0
+ABHD5,A0A851Q266,Anhinga anhinga (Anhinga) (Plotus anhinga),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K4UXU1,Emberiza fucata,birds,unreviewed,0.827,1.0
+ABHD5,A0A7K4ZB04,Centropus unirufus,birds,unreviewed,0.824,1.0
+ABHD5,A0A7L1QMH0,Cisticola juncidis,birds,unreviewed,0.827,1.0
+ABHD5,A0A7K5P3J0,Erythrocercus mccallii,birds,unreviewed,0.827,1.0
+ABHD5,A0A7L1NAS5,Rhinopomastus cyanomelas (Common scimitarbill),birds,unreviewed,0.827,1.0
+ABHD5,A0A8J4PGF8,Aptenodytes patagonicus (King penguin),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K8CTA0,Eulacestoma nigropectus (wattled ploughbill),birds,unreviewed,0.827,1.0
+ABHD5,A0A850Y473,Aegithalos caudatus (Long-tailed tit) (Acredula caudata),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L0KRW7,Sylvietta virens (Green crombec),birds,unreviewed,0.827,1.0
+ABHD5,A0A852I3X8,Nicator chloris,birds,unreviewed,0.827,1.0
+ABHD5,A0A7L0QYK5,Setophaga kirtlandii (Kirtland's warbler) (Dendroica kirtlandii),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K4TYQ1,Sinosuthora webbiana,birds,unreviewed,0.827,1.0
+ABHD5,A0A7K6TBS0,Caloenas nicobarica (Nicobar pigeon),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L1MFZ5,Bombycilla garrulus (Bohemian waxwing) (Lanius garrulus),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L2L4P2,Zosterops hypoxanthus,birds,unreviewed,0.827,1.0
+ABHD5,A0A7K7ZG68,Melanocharis versteri (Fan-tailed berrypecker),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L2A3K2,Leiothrix lutea (Red-billed leiothrix) (Sylvia lutea),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K8RBC0,Rhodinocichla rosea,birds,unreviewed,0.827,1.0
+ABHD5,A0A7L1U1T1,Phainopepla nitens (Phainopepla),birds,unreviewed,0.827,1.0
+ABHD5,A0A850UEV6,Chloropsis hardwickii,birds,unreviewed,0.827,1.0
+ABHD5,A0A7K7D6P9,Pheucticus melanocephalus (Black-headed grosbeak) (Guiraca melanocephala),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L4IUK7,Pomatorhinus ruficollis (streak-breasted scimitar babbler),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K7RSS7,Nesospiza acunhae,birds,unreviewed,0.827,1.0
+ABHD5,A0A7L1W4F8,Certhia brachydactyla (short-toed tree-creeper),birds,unreviewed,0.827,1.0
+ABHD5,A0A852MXY5,Pteruthius melanotis,birds,unreviewed,0.827,1.0
+ABHD5,A0A7L1PQY3,Oriolus oriolus (Eurasian golden oriole) (Coracias oriolus),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K6Y663,Promerops cafer (Cape sugarbird),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L0N478,Formicarius rufipectus,birds,unreviewed,0.831,1.0
+ABHD5,A0A7L2SYL0,Pomatostomus ruficeps (Chestnut-crowned babbler),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K5UXR1,Platysteira castanea,birds,unreviewed,0.827,1.0
+ABHD5,A0A7K9ZKL7,Dicrurus megarhynchus,birds,unreviewed,0.827,1.0
+ABHD5,A0A7L0YS31,Ploceus nigricollis,birds,unreviewed,0.827,1.0
+ABHD5,A0A7K8I057,Aleadryas rufinucha (rufous-naped whistler),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L0HFP9,Arenaria interpres (Ruddy turnstone) (Tringa interpres),birds,unreviewed,0.831,1.0
+ABHD5,A0A7L2MY96,Rhadina sibilatrix,birds,unreviewed,0.827,1.0
+ABHD5,A0A7K8V859,Ciccaba nigrolineata,birds,unreviewed,0.827,1.0
+ABHD5,A0A7L2XVM8,Erpornis zantholeuca,birds,unreviewed,0.827,1.0
+ABHD5,A0A7K6JFR1,Machaerirhynchus nigripectus,birds,unreviewed,0.827,1.0
+ABHD5,A0A852DEJ5,Passerina amoena (Lazuli bunting),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K6KXV6,Falcunculus frontatus (Eastern shriketit),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L2LV08,Hippolais icterina (icterine warbler),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K5G4A1,Chunga burmeisteri (Black-legged seriema),birds,unreviewed,0.831,1.0
+ABHD5,A0A7L4CSD3,Eurystomus gularis,birds,unreviewed,0.827,1.0
+ABHD5,A0A851S339,Certhia familiaris (Eurasian treecreeper),birds,unreviewed,0.827,1.0
+ABHD5,A0A8C0ULB7,Cyanistes caeruleus (Eurasian blue tit) (Parus caeruleus),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K4PYV9,Melospiza melodia (Song sparrow) (Fringilla melodia),birds,unreviewed,0.827,1.0
+ABHD5,A0A851ZVY1,Calcarius ornatus (Chestnut-collared longspur),birds,unreviewed,0.824,1.0
+ABHD5,A0A7L2ZMW5,Prunella fulvescens (Brown accentor),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K9NPQ9,Edolisoma coerulescens,birds,unreviewed,0.824,1.0
+ABHD5,A0A7L3KGT9,Drymodes brunneopygia,birds,unreviewed,0.821,1.0
+ABHD5,A0A7L4FSR3,Pampusana beccarii (Western bronze ground-dove),birds,unreviewed,0.827,1.0
+ABHD5,A0A852ECM8,Vidua macroura (Pin-tailed whydah),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K9ESW1,Baryphthengus martii (Rufous motmot),birds,unreviewed,0.827,1.0
+ABHD5,A0A851KGZ5,Vidua chalybeata (Village indigobird),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K5M6R7,Cardinalis cardinalis (Northern cardinal),birds,unreviewed,0.824,1.0
+ABHD5,A0A7L2PA30,Pycnonotus jocosus (Red-whiskered bulbul) (Lanius jocosus),birds,unreviewed,0.827,1.0
+ABHD5,A0A852KCC8,Urocolius indicus (Red-faced mousebird) (Colius indicus),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K4TL29,Burhinus bistriatus,birds,unreviewed,0.827,1.0
+ABHD5,A0A7K8BM21,Rhagologus leucostigma,birds,unreviewed,0.827,1.0
+ABHD5,A0A7K8EW84,Struthidea cinerea,birds,unreviewed,0.824,1.0
+ABHD5,A0A7K4XY31,Regulus satrapa (Golden-crowned kinglet),birds,unreviewed,0.824,1.0
+ABHD5,A0A7L3H195,Buphagus erythrorhynchus (red-billed oxpecker),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L3NWT0,Xiphorhynchus elegans (elegant woodcreeper),birds,unreviewed,0.824,1.0
+ABHD5,A0A7L0CK92,Rostratula benghalensis (greater painted-snipe),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K6C0A0,Ptilonorhynchus violaceus (Satin bowerbird) (Pyrrhocorax violaceus),birds,unreviewed,0.83,0.997
+ABHD5,A0A7K8YEL5,Sakesphorus luctuosus,birds,unreviewed,0.827,1.0
+ABHD5,A0A7K8IXV1,Chaetorhynchus papuensis (pygmy drongo),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K9WCA7,Rhipidura dahli,birds,unreviewed,0.827,1.0
+ABHD5,A0A7L3LMS4,Turnix velox (Little buttonquail),birds,unreviewed,0.824,1.0
+ABHD5,A0A7L3UFE5,Uria aalge (Common mure) (Colymbus aalge),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K9PFS0,Pachycephala philippinensis (yellow-belllied whistler),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L2HEW5,Sagittarius serpentarius (Secretary bird),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K5C5K4,Motacilla alba (White wagtail) (Pied wagtail),birds,unreviewed,0.827,1.0
+ABHD5,A0A851BHF7,Picathartes gymnocephalus (White-necked rockfowl),birds,unreviewed,0.824,1.0
+ABHD5,A0A7L3DB29,Pluvianellus socialis (Magellanic plover),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K8B8H4,Cnemophilus loriae (Loria's bird-of-paradise),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K5X1R5,Dromas ardeola,birds,unreviewed,0.824,1.0
+ABHD5,A0A7K6N201,Pedionomus torquatus (Plains-wanderer),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K5KUP3,Vireo altiloquus (Black-whiskered vireo) (Muscicapa altiloqua),birds,unreviewed,0.827,1.0
+ABHD5,A0ACS7IZZ5,Aegotheles albertisi,birds,unreviewed,0.821,1.0
+ABHD5,A0A850WNH2,Piaya cayana (Common squirrel cuckoo),birds,unreviewed,0.831,1.0
+ABHD5,A0A8J4JTI2,Eudyptes sclateri (Erect-crested penguin),birds,unreviewed,0.827,1.0
+ABHD5,A0A8J4L6S1,Eudyptes chrysocome (Western rockhopper penguin) (Aptenodytes chrysocome),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K9G1X0,Loxia leucoptera (White-winged crossbill),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K7I861,Loxia curvirostra (Red crossbill),birds,unreviewed,0.824,1.0
+ABHD5,A0A850VSJ0,Fregata magnificens (Magnificent frigatebird),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K6RR29,Rhynochetos jubatus (kagu),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K6MMR0,Panurus biarmicus (Bearded tit),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L0UZF2,Leptocoma aspasia,birds,unreviewed,0.824,1.0
+ABHD5,A0A7L4KXZ0,Callaeas wilsoni (North Island kokako),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L1T958,Aramus guarauna (Limpkin) (Scolopax guarauna),birds,unreviewed,0.824,1.0
+ABHD5,A0A8K0BVB4,Eudyptes filholi (Southern rockhopper penguin),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K5DKA9,Pachyramphus minor,birds,unreviewed,0.831,1.0
+ABHD5,A0A7K6AMF8,Upupa epops (Eurasian hoopoe),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K5WCE8,Hylia prasina (green hylia),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K6DVV2,Grantiella picta,birds,unreviewed,0.821,1.0
+ABHD5,A0A7K7EAU9,Sylvia atricapilla (blackcap),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K7M392,Brachypodius melanocephalos (black-headed bulbul),birds,unreviewed,0.824,1.0
+ABHD5,A0A7L3QKZ2,Cettia cetti,birds,unreviewed,0.824,1.0
+ABHD5,A0A7L2C0Z0,Alaudala cheleensis (Asian short-toed lark),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K4KM30,Crypturellus soui,birds,unreviewed,0.818,1.0
+ABHD5,A0A7L1FSK9,Sylvia borin (Garden warbler) (Motacilla borin),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K6F3Z1,Daphoenositta chrysoptera (varied sittella),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K9S4Q2,Sterrhoptilus dennistouni,birds,unreviewed,0.824,1.0
+ABHD5,A0A851MD56,Campylorhamphus procurvoides,birds,unreviewed,0.824,1.0
+ABHD5,A0A7K6HZT8,Dasyornis broadbenti (rufous bristle-bird),birds,unreviewed,0.821,1.0
+ABHD5,A0A7K7FFR6,Chionis minor (Black-faced sheathbill),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L1D473,Serilophus lunatus (silver-breasted broadbill),birds,unreviewed,0.831,1.0
+ABHD5,A0A7K6R5K9,Climacteris rufus (rufous treecreeper),birds,unreviewed,0.824,1.0
+ABHD5,A0A852P4A7,Atrichornis clamosus,birds,unreviewed,0.824,1.0
+ABHD5,A0A7K5NMB0,Chroicocephalus maculipennis (Brown-hooded gull) (Larus maculipennis),birds,unreviewed,0.821,1.0
+ABHD5,A0A7L2V0X1,Brachypteracias leptosomus (short-legged ground-roller),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K9M7A8,Oceanodroma tethys (Wedge-rumped storm-petrel) (Hydrobates tethys),birds,unreviewed,0.827,1.0
+ABHD5,A0AA40L0W6,Pygoscelis papua (Gentoo penguin),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L0XL65,Tyrannus savana (Fork-tailed flycatcher) (Muscivora tyrannus),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K4YD67,Bucorvus abyssinicus (Northern ground-hornbill) (Abyssinian ground-hornbill),birds,unreviewed,0.821,1.0
+ABHD5,A0A7K5TIL6,Urocynchramus pylzowi,birds,unreviewed,0.824,1.0
+ABHD5,A0ABM1VLA5,Echinops telfairi (Lesser hedgehog tenrec),mammals,unreviewed,0.945,0.879
+ABHD5,A0A7K6VIG4,Notiomystis cincta,birds,unreviewed,0.827,1.0
+ABHD5,A0A7L3YXX0,Fregetta grallaria (White-bellied storm-petrel) (Procellaria grallaria),birds,unreviewed,0.824,1.0
+ABHD5,A0A7L3C6V6,Pelecanoides urinatrix (Common diving petrel) (Procellaria urinatrix),birds,unreviewed,0.827,1.0
+ABHD5,A0A7K8SW77,Nyctibius bracteatus (Rufous potoo),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L3YAW3,Calonectris borealis (Cory's shearwater),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L4B175,Phaetusa simplex (large-billed tern),birds,unreviewed,0.818,1.0
+ABHD5,A0A7L3IR42,Pardalotus punctatus (spotted pardalote),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K8WA89,Sclerurus mexicanus (tawny-throated leaftosser),birds,unreviewed,0.821,1.0
+ABHD5,A0A7K5B0T5,Furnarius figulus,birds,unreviewed,0.833,0.994
+ABHD5,A0A493T4L1,Anas platyrhynchos platyrhynchos (Northern mallard),birds,unreviewed,0.812,1.0
+ABHD5,A0A7K9YA82,Odontophorus gujanensis (marbled wood quail),birds,unreviewed,0.818,1.0
+ABHD5,A0AA97M9S5,Menura novaehollandiae (superb lyrebird),birds,unreviewed,0.821,1.0
+ABHD5,A0A7L2G641,Nyctibius grandis (Great potoo),birds,unreviewed,0.827,1.0
+ABHD5,A0A7L1RE83,Helopsaltes ochotensis (Middendorff's grasshopper-warbler),birds,unreviewed,0.821,1.0
+ABHD5,A0A7L0JX67,Chauna torquata (Southern screamer),birds,unreviewed,0.815,1.0
+ABHD5,A0A7K5FPF3,Probosciger aterrimus (Palm cockatoo),birds,unreviewed,0.821,1.0
+ABHD5,A0A851NB03,Penelope pileata,birds,unreviewed,0.818,1.0
+ABHD5,A0A663MGP5,Athene cunicularia (Burrowing owl) (Speotyto cunicularia),birds,unreviewed,0.824,1.0
+ABHD5,A0A7L0SNH7,Podilymbus podiceps (Pied-billed grebe),birds,unreviewed,0.821,1.0
+ABHD5,A0A7K7XFW4,Mohoua ochrocephala,birds,unreviewed,0.821,1.0
+ABHD5,A0A7L4JT97,Ceuthmochares aereus,birds,unreviewed,0.827,1.0
+ABHD5,A0A7L0WEU9,Alectura lathami (Australian brush turkey),birds,unreviewed,0.818,1.0
+ABHD5,A0A7K6PJL4,Ifrita kowaldi (blue-capped ifrita),birds,unreviewed,0.824,1.0
+ABHD5,A0A7L3SK43,Rissa tridactyla (Black-legged kittiwake) (Larus tridactyla),birds,unreviewed,0.821,1.0
+ABHD5,A0A7K8GIL2,Orthonyx spaldingii (Chowchilla),birds,unreviewed,0.818,1.0
+ABHD5,A0A7K9V1Y2,Anseranas semipalmata (Magpie goose) (Anas semipalmata),birds,unreviewed,0.815,1.0
+ABHD5,A0A7K6YQ39,Alca torda (Razorbill),birds,unreviewed,0.824,1.0
+ABHD5,A0A7L1JGD9,Rynchops niger (Black skimmer),birds,unreviewed,0.818,1.0
+ABHD5,A0A7K6JMB9,Oreocharis arfaki (tit berrypecker),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K7QA63,Poecile atricapillus (Black-capped chickadee) (Parus atricapillus),birds,unreviewed,0.824,1.0
+ABHD5,A0A7K9X8H2,Psophia crepitans (common trumpeter),birds,unreviewed,0.821,1.0
+ABHD5,A0A6J3CKG3,Aythya fuligula (Tufted duck) (Anas fuligula),birds,unreviewed,0.812,1.0
+ABHD5,A0A8B9I2C1,Anser brachyrhynchus (Pink-footed goose),birds,unreviewed,0.812,1.0
+ABHD5,A0A7K6UR38,Aegotheles bennettii,birds,unreviewed,0.821,1.0
+ABHD5,A0A7L4MH00,Glareola pratincola (Collared pratincole) (Hirundo pratincola),birds,unreviewed,0.821,1.0
+ABHD5,A0A7L2AIF2,Heliornis fulica (sungrebe),birds,unreviewed,0.824,1.0
+ABHD5,A0A7L0FLS5,Corythaixoides concolor (Grey go-away-bird),birds,unreviewed,0.815,1.0
+ABHD5,A0A7L0AUM5,Ciconia maguari,birds,unreviewed,0.818,1.0
+ABHD5,A0A7K9FSM5,Stercorarius parasiticus (Parasitic jaeger) (Arctic skua),birds,unreviewed,0.821,1.0
+ABHD5,A0A7K9HIM2,Bucco capensis (collared puffbird),birds,unreviewed,0.821,1.0
+ABHD5,A0A7K4RZ42,Columbina picui (Picui ground-dove),birds,unreviewed,0.821,1.0
+ABHD5,A0A7L1J8B7,Smutsornis africanus (Double-banded courser) (Rhinoptilus africanus),birds,unreviewed,0.821,1.0
+ABHD5,A0A7K6VXL5,Steatornis caripensis (Oilbird),birds,unreviewed,0.815,1.0
+ABHD5,A0A851YAA8,Eolophus roseicapilla (Galah cockatoo) (Cacatua roseicapilla),birds,unreviewed,0.818,1.0
+ABHD5,A0A7K7KRY4,Asarcornis scutulata,birds,unreviewed,0.812,1.0
+ABHD5,A0A7L3FMS8,Zapornia atra (Henderson crake),birds,unreviewed,0.821,1.0
+ABHD5,A0A7L3X516,Atlantisia rogersi (Inaccessible Island rail),birds,unreviewed,0.818,1.0
+ABHD5,A0A7L4NNK4,Ceyx cyanopectus (Indigo-banded kingfisher),birds,unreviewed,0.821,1.0
+ABHD5,A0A7K9U083,Chloroceryle aenea (American pygmy kingfisher),birds,unreviewed,0.821,1.0
+ABHD5,A0A7L0PPM6,Mesembrinibis cayennensis,birds,unreviewed,0.824,1.0
+ABHD5,A0A7L3S2E9,Cepphus grylle (Black guillemot) (Alca grylle),birds,unreviewed,0.821,1.0
+ABHD5,A0A850TSB2,Grus americana (Whooping crane),birds,unreviewed,0.821,1.0
+ABHD5,A0A851YRA5,Halcyon senegalensis,birds,unreviewed,0.818,1.0
+ABHD5,A0A7L0MTP2,Amazona guildingii,birds,unreviewed,0.808,1.0
+ABHD5,A0A7K9T3W1,Galbula dea,birds,unreviewed,0.815,1.0
+ABHD5,A0A7K9CWS7,Hemiprocne comata,birds,unreviewed,0.815,1.0
+ABHD5,A0A7K8Y389,Eubucco bourcierii (red-headed barbet),birds,unreviewed,0.815,1.0
+ABHD5,A0A7K9BX71,Psilopogon haemacephalus (coppersmith barbet),birds,unreviewed,0.815,1.0
+ABHD5,A0A852BMP6,Ramphastos sulfuratus,birds,unreviewed,0.815,1.0
+ABHD5,A0A7L3NY79,Oreotrochilus melanogaster,birds,unreviewed,0.805,1.0
+ABHD5,A0A852IU68,Tricholaema leucomelas (pied barbet),birds,unreviewed,0.808,1.0
+ABHD5,A0A7L1GJ38,Indicator maculatus (spotted honeyguide),birds,unreviewed,0.799,1.0
+ABHD5,A0A6P7X5P1,Microcaecilia unicolor,amphibians,unreviewed,0.78,1.0
+ABHD5,A0A803KHR3,Xenopus tropicalis (Western clawed frog) (Silurana tropicalis),amphibians,unreviewed,0.767,1.0
+ABHD5,A0A1L8FWC8,Xenopus laevis (African clawed frog),amphibians,unreviewed,0.773,1.0
+ABHD5,A0A6P8QGQ6,Geotrypetes seraphini (Gaboon caecilian) (Caecilia seraphini),amphibians,unreviewed,0.77,1.0
+ABHD5,A0A218UTA5,Lonchura striata (white-rumped munia),birds,unreviewed,0.85,0.917
+ABHD5,A0A8C4T5I5,Erpetoichthys calabaricus (Rope fish) (Calamoichthys calabaricus),ray-finned fish,unreviewed,0.751,1.0
+ABHD5,A0A6J0HHG8,Lepidothrix coronata (blue-crowned manakin),birds,unreviewed,0.83,0.978
+ABHD5,A0A6I9HLM2,Geospiza fortis (Medium ground-finch),birds,unreviewed,0.827,0.978
+ABHD5,A0A8C5QSJ6,Leptobrachium leishanense (Leishan spiny toad),amphibians,unreviewed,0.735,1.0
+ABHD5,A0A851DUH5,Dryoscopus gambensis,birds,unreviewed,0.825,0.914
+ABHD5,A0A7L4H0H2,Podargus strigoides (Tawny frogmouth) (Caprimulgus strigoides),birds,unreviewed,0.822,0.914
+ABHD5,A0A7L1Y3P7,Scytalopus superciliaris,birds,unreviewed,0.818,0.914
+ABHD5,A0A7K8UEK3,Oceanites oceanicus (Wilson's storm petrel) (Procellaria oceanica),birds,unreviewed,0.822,0.914
+ABHD5,A0A851C3Z4,Calyptomena viridis (Lesser green broadbill),birds,unreviewed,0.839,0.952
+ABHD5,A0A850ZWT5,Sula dactylatra (Masked booby),birds,unreviewed,0.818,0.914
+ABHD5,A0A8C9QW21,Scleropages formosus (Asian bonytongue) (Osteoglossum formosum),ray-finned fish,unreviewed,0.722,1.0
+ABHD5,A0A852B6U8,Chloropsis cyanopogon,birds,unreviewed,0.817,0.923
+ABHD5,A0ACB8FVU5,Sphaerodactylus townsendi,lepidosaurs,unreviewed,0.811,0.914
+ABHD5,A0A3Q2LH13,Equus caballus (Horse),mammals,unreviewed,0.969,0.712
+ABHD5,A0AAZ3RH80,Oncorhynchus tshawytscha (Chinook salmon) (Salmo tshawytscha),ray-finned fish,unreviewed,0.708,0.997
+ABHD5,A0A8X7XFB7,Polypterus senegalus (Senegal bichir),ray-finned fish,unreviewed,0.748,1.0
+ABHD5,A0ACF8DQT1,Arapaima gigas (Giant arapaima) (Sudis gigas),ray-finned fish,unreviewed,0.705,0.997
+ABHD5,A0A3B4EBI3,Pygocentrus nattereri (Red-bellied piranha),ray-finned fish,unreviewed,0.712,1.0
+ABHD5,A0A673WCJ0,Salmo trutta (Brown trout),ray-finned fish,unreviewed,0.7,0.99
+ABHD5,V8NV71,Ophiophagus hannah (King cobra) (Naja hannah),lepidosaurs,unreviewed,0.817,0.907
+ABHD5,A0A667ZXC0,Myripristis murdjan (pinecone soldierfish),ray-finned fish,unreviewed,0.692,0.997
+ABHD5,A0A4W4FHC1,Electrophorus electricus (Electric eel) (Gymnotus electricus),ray-finned fish,unreviewed,0.696,1.0
+ABHD5,A0A4W6EWC3,Lates calcarifer (Barramundi) (Holocentrus calcarifer),ray-finned fish,unreviewed,0.676,0.997
+ABHD5,A0AAY4CPE1,Denticeps clupeoides (denticle herring),ray-finned fish,unreviewed,0.697,0.99
+ABHD5,A0A671XLR9,Sparus aurata (Gilthead sea bream),ray-finned fish,unreviewed,0.667,0.997
+ABHD5,A0A3P8XHB5,Esox lucius (Northern pike),ray-finned fish,unreviewed,0.67,0.997
+ABHD5,A0A8J4T3R0,Clarias magur (Asian catfish) (Macropteronotus magur),ray-finned fish,unreviewed,0.681,1.0
+ABHD5,A0A8J7PF41,Atractosteus spatula (Alligator gar) (Lepisosteus spatula),ray-finned fish,unreviewed,0.74,0.971
+ABHD5,A0A3Q1C1Z0,Amphiprion ocellaris (Clown anemonefish),ray-finned fish,unreviewed,0.644,0.997
+ABHD5,A0A3Q1JSJ0,Anabas testudineus (Climbing perch) (Anthias testudineus),ray-finned fish,unreviewed,0.653,0.994
+ABHD5,A0A8C7IYG1,Oncorhynchus kisutch (Coho salmon) (Salmo kisutch),ray-finned fish,unreviewed,0.715,0.93
+ABHD5,A0A673CB83,Sphaeramia orbicularis (orbiculate cardinalfish),ray-finned fish,unreviewed,0.642,1.0
+ABHD5,H2UBE7,Takifugu rubripes (Japanese pufferfish) (Fugu rubripes),ray-finned fish,unreviewed,0.644,0.997
+ABHD5,A0A668UQW8,Oreochromis aureus (Israeli tilapia) (Chromis aureus),ray-finned fish,unreviewed,0.641,0.997
+ABHD5,A0AAV9QV35,Crenichthys baileyi (White River springfish),ray-finned fish,unreviewed,0.644,0.997
+ABHD5,A0A3P8P358,Astatotilapia calliptera (Eastern river bream) (Chromis callipterus),ray-finned fish,unreviewed,0.638,0.997
+ABHD5,A0ABV0YL43,Ameca splendens,ray-finned fish,unreviewed,0.638,0.981
+ABHD5,A0ABU7BU98,Ataeniobius toweri,ray-finned fish,unreviewed,0.641,0.978
+ABHD5,A0ABV0VHZ4,Ilyodon furcidens (goldbreast splitfin),ray-finned fish,unreviewed,0.638,0.981
+ABHD5,A0ABV0WQ02,Xenotaenia resolanae,ray-finned fish,unreviewed,0.638,0.981
+ABHD5,A0AA47MDQ3,Merluccius polli (Benguela hake) (Merluccius cadenati),ray-finned fish,unreviewed,0.655,0.971
+ABHD5,A0A8C6PIW4,Nothobranchius furzeri (Turquoise killifish),ray-finned fish,unreviewed,0.599,0.997
+ABHD5,A0ABU7E4X4,Characodon lateralis,ray-finned fish,unreviewed,0.632,0.981
+ABHD5,A0A8C4ZKC7,Gadus morhua (Atlantic cod),ray-finned fish,unreviewed,0.637,0.712
+ABHD4,G3QWP4,Gorilla gorilla gorilla (Western lowland gorilla),mammals,unreviewed,1.0,1.0
+ABHD4,K7BYI6,Pan troglodytes (Chimpanzee),mammals,unreviewed,1.0,1.0
+ABHD4,A0A2I3G7I5,Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys),mammals,unreviewed,0.99,1.0
+ABHD4,H2NKP7,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),mammals,unreviewed,0.99,1.0
+ABHD4,A0A2K5L3I8,Cercocebus atys (Sooty mangabey) (Cercocebus torquatus atys),mammals,unreviewed,0.987,1.0
+ABHD4,A0A2K5TU58,Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey),mammals,unreviewed,0.987,1.0
+ABHD4,A0A2K6C8S3,Macaca nemestrina (Pig-tailed macaque),mammals,unreviewed,0.987,1.0
+ABHD4,A0A8D2FMA3,Theropithecus gelada (Gelada baboon),mammals,unreviewed,0.987,1.0
+ABHD4,H9Z1B3,Macaca mulatta (Rhesus macaque),mammals,unreviewed,0.987,1.0
+ABHD4,A0A8C9LQJ5,Piliocolobus tephrosceles (Ugandan red Colobus),mammals,unreviewed,0.984,1.0
+ABHD4,A0A2K6P4L3,Rhinopithecus roxellana (Golden snub-nosed monkey) (Pygathrix roxellana),mammals,unreviewed,0.984,1.0
+ABHD4,A0A2K5R528,Cebus imitator (Panamanian white-faced capuchin) (Cebus capucinus imitator),mammals,unreviewed,0.974,1.0
+ABHD4,U3DX90,Callithrix jacchus (White-tufted-ear marmoset) (Simia Jacchus),mammals,unreviewed,0.974,1.0
+ABHD4,A0A8D2AXL5,Sciurus vulgaris (Eurasian red squirrel),mammals,unreviewed,0.971,1.0
+ABHD4,A0A8C6EUC1,Marmota marmota marmota (Alpine marmot),mammals,unreviewed,0.971,1.0
+ABHD4,A0A287CU95,Ictidomys tridecemlineatus (Thirteen-lined ground squirrel) (Spermophilus tridecemlineatus),mammals,unreviewed,0.971,1.0
+ABHD4,A0A6J3GUB2,Sapajus apella (Brown-capped capuchin) (Cebus apella),mammals,unreviewed,0.971,1.0
+ABHD4,G1T725,Oryctolagus cuniculus (Rabbit),mammals,unreviewed,0.971,1.0
+ABHD4,A0A1S3FWH5,Dipodomys ordii (Ord's kangaroo rat),mammals,unreviewed,0.968,1.0
+ABHD4,A0A6P5R394,Mus caroli (Ryukyu mouse) (Ricefield mouse),mammals,unreviewed,0.971,1.0
+ABHD4,G5BXC8,Heterocephalus glaber (Naked mole rat),mammals,unreviewed,0.968,1.0
+ABHD4,A0A1U7UC73,Carlito syrichta (Philippine tarsier) (Tarsius syrichta),mammals,unreviewed,0.971,1.0
+ABHD4,A0A8D2KHI0,Urocitellus parryii (Arctic ground squirrel) (Spermophilus parryii),mammals,unreviewed,0.968,1.0
+ABHD4,A0A480UT68,Sus scrofa (Pig),mammals,unreviewed,0.968,1.0
+ABHD4,A0A8B7VY34,Castor canadensis (American beaver),mammals,unreviewed,0.968,1.0
+ABHD4,A0AAU9ZQ51,Phodopus roborovskii (Roborovski's desert hamster) (Cricetulus roborovskii),mammals,unreviewed,0.968,1.0
+ABHD4,A0A8C3YS78,Catagonus wagneri (Chacoan peccary),mammals,unreviewed,0.961,1.0
+ABHD4,Q8VD66,Mus musculus (Mouse),mammals,reviewed,0.968,1.0
+ABHD4,A0A8B6Y7S4,Camelus ferus (Wild bactrian camel) (Camelus bactrianus ferus),mammals,unreviewed,0.968,1.0
+ABHD4,A0A9W3GSE3,Camelus bactrianus (Bactrian camel),mammals,unreviewed,0.968,1.0
+ABHD4,A0ABM2X186,Mesocricetus auratus (Golden hamster),mammals,unreviewed,0.965,1.0
+ABHD4,A0ABM2FGS5,Equus przewalskii (Przewalski's horse) (Equus caballus przewalskii),mammals,unreviewed,0.965,1.0
+ABHD4,A0A8C2MV03,Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus),mammals,unreviewed,0.965,1.0
+ABHD4,A0ABM0S607,Galeopterus variegatus (Malayan flying lemur) (Cynocephalus variegatus),mammals,unreviewed,0.965,1.0
+ABHD4,A0ABM0LQ52,Microtus ochrogaster (Prairie vole),mammals,unreviewed,0.965,1.0
+ABHD4,D3ZAW4,Rattus norvegicus (Rat),mammals,unreviewed,0.965,1.0
+ABHD4,A0A8C2VSJ8,Chinchilla lanigera (Long-tailed chinchilla) (Chinchilla villidera),mammals,unreviewed,0.961,1.0
+ABHD4,A0A8B7FIF5,Microcebus murinus (Gray mouse lemur) (Lemur murinus),mammals,unreviewed,0.961,1.0
+ABHD4,A0A2Y9EAC3,Trichechus manatus latirostris (Florida manatee),mammals,unreviewed,0.965,1.0
+ABHD4,A0A8C4M222,Equus asinus (Donkey) (Equus africanus asinus),mammals,unreviewed,0.961,1.0
+ABHD4,A0A6P3FX45,Octodon degus (Degu) (Sciurus degus),mammals,unreviewed,0.958,1.0
+ABHD4,A0A8C9DFU2,Prolemur simus (Greater bamboo lemur) (Hapalemur simus),mammals,unreviewed,0.958,1.0
+ABHD4,A0A6I9M1A2,Peromyscus maniculatus bairdii (Prairie deer mouse),mammals,unreviewed,0.968,1.0
+ABHD4,A0A8B7T3P5,Hipposideros armiger (Great Himalayan leaf-nosed bat),mammals,unreviewed,0.961,1.0
+ABHD4,G3SM53,Loxodonta africana (African elephant),mammals,unreviewed,0.961,1.0
+ABHD4,A0A8C6WAN2,Nannospalax galili (Northern Israeli blind subterranean mole rat) (Spalax galili),mammals,unreviewed,0.958,1.0
+ABHD4,A0A3Q7P775,Callorhinus ursinus (Northern fur seal),mammals,unreviewed,0.961,1.0
+ABHD4,A0A2U3W2J1,Odobenus rosmarus divergens (Pacific walrus),mammals,unreviewed,0.961,1.0
+ABHD4,A0A8U0MUJ1,Mustela putorius furo (European domestic ferret) (Mustela furo),mammals,unreviewed,0.961,1.0
+ABHD4,A0A6J2B4A5,Zalophus californianus (California sealion),mammals,unreviewed,0.961,1.0
+ABHD4,A0A8I3RQA5,Canis lupus familiaris (Dog) (Canis familiaris),mammals,unreviewed,0.961,1.0
+ABHD4,A0A8C7BN45,Neogale vison (American mink) (Mustela vison),mammals,unreviewed,0.961,1.0
+ABHD4,A0A2Y9HN70,Neomonachus schauinslandi (Hawaiian monk seal) (Monachus schauinslandi),mammals,unreviewed,0.961,1.0
+ABHD4,A0A2U3YC62,Leptonychotes weddellii (Weddell seal) (Otaria weddellii),mammals,unreviewed,0.961,1.0
+ABHD4,A0A8C0K4U6,Canis lupus dingo (dingo),mammals,unreviewed,0.961,1.0
+ABHD4,A1L593,Bos taurus (Bovine),mammals,unreviewed,0.952,1.0
+ABHD4,A0A667GDW3,Lynx canadensis (Canada lynx) (Felis canadensis),mammals,unreviewed,0.965,1.0
+ABHD4,A0A6J1ZYJ2,Acinonyx jubatus (Cheetah),mammals,unreviewed,0.965,1.0
+ABHD4,A0A6I9IRR0,Vicugna pacos (Alpaca) (Lama pacos),mammals,unreviewed,0.961,1.0
+ABHD4,A0A8C8X1E1,Panthera leo (Lion),mammals,unreviewed,0.965,1.0
+ABHD4,A0A6P6HI03,Puma concolor (Mountain lion) (Felis concolor),mammals,unreviewed,0.965,1.0
+ABHD4,A0A6J0YGH0,Odocoileus virginianus (White-tailed deer),mammals,unreviewed,0.955,1.0
+ABHD4,A0A9V1EPY6,Panthera pardus (Leopard) (Felis pardus),mammals,unreviewed,0.965,1.0
+ABHD4,A0A8B7ANL0,Orycteropus afer afer,mammals,unreviewed,0.958,1.0
+ABHD4,A0A6J2L6X3,Phyllostomus discolor (pale spear-nosed bat),mammals,unreviewed,0.958,1.0
+ABHD4,A0A8B9WVU6,Bos grunniens (Wild yak) (Bos mutus grunniens),mammals,unreviewed,0.948,1.0
+ABHD4,G1P110,Myotis lucifugus (Little brown bat),mammals,unreviewed,0.955,1.0
+ABHD4,A0A8B8WQK2,Balaenoptera musculus (Blue whale),mammals,unreviewed,0.952,1.0
+ABHD4,A0A6P3GSA4,Bison bison bison (North American plains bison),mammals,unreviewed,0.948,1.0
+ABHD4,A0A6P5CE23,Bos indicus (Zebu),mammals,unreviewed,0.948,1.0
+ABHD4,A0A4W2D5S2,Bos indicus x Bos taurus (Hybrid cattle),mammals,unreviewed,0.948,1.0
+ABHD4,A0A3Q7U7B0,Vulpes vulpes (Red fox),mammals,unreviewed,0.961,1.0
+ABHD4,H0WTQ8,Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby),mammals,unreviewed,0.958,1.0
+ABHD4,A0ABM0IEV9,Echinops telfairi (Lesser hedgehog tenrec),mammals,unreviewed,0.955,1.0
+ABHD4,A0A4V5P7B5,Monodon monoceros (Narwhal) (Ceratodon monodon),mammals,unreviewed,0.948,1.0
+ABHD4,G1LKS7,Ailuropoda melanoleuca (Giant panda),mammals,unreviewed,0.958,1.0
+ABHD4,A0A452DRJ9,Capra hircus (Goat),mammals,unreviewed,0.945,1.0
+ABHD4,A0A452SAD8,Ursus americanus (American black bear) (Euarctos americanus),mammals,unreviewed,0.961,1.0
+ABHD4,A0A384DNV4,Ursus maritimus (Polar bear) (Thalarctos maritimus),mammals,unreviewed,0.961,1.0
+ABHD4,A0A2Y9EEU0,Physeter macrocephalus (Sperm whale) (Physeter catodon),mammals,unreviewed,0.945,1.0
+ABHD4,A0A341B5I8,Neophocaena asiaeorientalis asiaeorientalis (Yangtze finless porpoise) (Neophocaena phocaenoides subsp. asiaeorientalis),mammals,unreviewed,0.948,1.0
+ABHD4,A0A2U4CFC8,Tursiops truncatus (Atlantic bottle-nosed dolphin) (Delphinus truncatus),mammals,unreviewed,0.948,1.0
+ABHD4,A0A8C9CND4,Phocoena sinus (Vaquita),mammals,unreviewed,0.948,1.0
+ABHD4,A0A2Y9LI58,Delphinapterus leucas (Beluga whale),mammals,unreviewed,0.945,1.0
+ABHD4,A0A9B0WHX4,Chrysochloris asiatica (Cape golden mole),mammals,unreviewed,0.945,1.0
+ABHD4,A0A383ZZR1,Balaenoptera acutorostrata (Common minke whale) (Balaena rostrata),mammals,unreviewed,0.945,1.0
+ABHD4,A0A340WPL2,Lipotes vexillifer (Yangtze river dolphin),mammals,unreviewed,0.939,1.0
+ABHD4,A0A6P3QVE7,Pteropus vampyrus (Large flying fox),mammals,unreviewed,0.948,1.0
+ABHD4,A0A9L0R3Z5,Equus caballus (Horse),mammals,unreviewed,0.965,1.0
+ABHD4,H0UUV8,Cavia porcellus (Guinea pig),mammals,unreviewed,0.961,1.0
+ABHD4,A0A6G1AQ37,Crocuta crocuta (Spotted hyena),mammals,unreviewed,0.965,1.0
+ABHD4,G3WA06,Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius),mammals,unreviewed,0.919,1.0
+ABHD4,A0A4X2M0H7,Vombatus ursinus (Common wombat),mammals,unreviewed,0.919,1.0
+ABHD4,A0A6P5LYD6,Phascolarctos cinereus (Koala),mammals,unreviewed,0.903,1.0
+ABHD4,F6ZNV4,Ornithorhynchus anatinus (Duckbill platypus),mammals,unreviewed,0.923,1.0
+ABHD4,F7CZS5,Monodelphis domestica (Gray short-tailed opossum),mammals,unreviewed,0.903,1.0
+ABHD4,A0ABI7YXD8,Felis catus (Cat) (Felis silvestris catus),mammals,unreviewed,0.965,1.0
+ABHD4,A0A673TEY7,Suricata suricatta (Meerkat),mammals,unreviewed,0.965,1.0
+ABHD4,A0A671DJG4,Rhinolophus ferrumequinum (Greater horseshoe bat),mammals,unreviewed,0.955,1.0
+ABHD4,A0A670JF72,Podarcis muralis (Wall lizard) (Lacerta muralis),lepidosaurs,unreviewed,0.81,1.0
+ABHD4,A0AA97K4R5,Eublepharis macularius (Leopard gecko) (Cyrtodactylus macularius),lepidosaurs,unreviewed,0.79,1.0
+ABHD4,A0ABM1K976,Gekko japonicus (Schlegel's Japanese gecko),lepidosaurs,unreviewed,0.794,1.0
+ABHD4,A0A803SZR8,Anolis carolinensis (Green anole) (American chameleon),lepidosaurs,unreviewed,0.781,1.0
+ABHD4,A0A9F5IPU2,Python bivittatus (Burmese python) (Python molurus bivittatus),lepidosaurs,unreviewed,0.787,1.0
+ABHD4,A0ACS7L7B8,Liasis olivaceus (Olive python) (Morelia olivacea),lepidosaurs,unreviewed,0.784,1.0
+ABHD4,A0ABM5EIZ0,Pogona vitticeps (central bearded dragon),lepidosaurs,unreviewed,0.797,1.0
+ABHD4,A0A670ZDN5,Pseudonaja textilis (Eastern brown snake),lepidosaurs,unreviewed,0.768,1.0
+ABHD4,A0A6P8NVH3,Geotrypetes seraphini (Gaboon caecilian) (Caecilia seraphini),amphibians,unreviewed,0.774,1.0
+ABHD4,A0A8C4YQG8,Gopherus evgoodei (Goodes thornscrub tortoise),turtles,unreviewed,0.765,1.0
+ABHD4,A0A8C5MCE6,Leptobrachium leishanense (Leishan spiny toad),amphibians,unreviewed,0.771,1.0
+ABHD4,Q28D58,Xenopus tropicalis (Western clawed frog) (Silurana tropicalis),amphibians,unreviewed,0.768,1.0
+ABHD4,A0A8J0V4R8,Xenopus laevis (African clawed frog),amphibians,unreviewed,0.755,1.0
+ABHD4,A0A151NCR6,Alligator mississippiensis (American alligator),crocodilians,unreviewed,0.742,1.0
+ABHD4,A0ACB8EWQ7,Sphaerodactylus townsendi,lepidosaurs,unreviewed,0.806,1.0
+ABHD4,A0A6J1VRR8,Notechis scutatus (mainland tiger snake),lepidosaurs,unreviewed,0.761,1.0
+ABHD4,A0A6I9YZK1,Thamnophis sirtalis,lepidosaurs,unreviewed,0.771,1.0
+ABHD4,A0A1U8DI21,Alligator sinensis (Chinese alligator),crocodilians,unreviewed,0.742,1.0
+ABHD4,A0A8C4RDU0,Erpetoichthys calabaricus (Rope fish) (Calamoichthys calabaricus),ray-finned fish,unreviewed,0.648,1.0
+ABHD4,A0A673ANZ9,Sphaeramia orbicularis (orbiculate cardinalfish),ray-finned fish,unreviewed,0.645,1.0
+ABHD4,A0A8J7TDH6,Atractosteus spatula (Alligator gar) (Lepisosteus spatula),ray-finned fish,unreviewed,0.619,1.0
+ABHD4,A0A8M2BAQ5,Danio rerio (Zebrafish) (Brachydanio rerio),ray-finned fish,unreviewed,0.645,1.0
+ABHD4,A0A3B4DCG9,Pygocentrus nattereri (Red-bellied piranha),ray-finned fish,unreviewed,0.639,1.0
+ABHD4,A0ACF8F8E9,Arapaima gigas (Giant arapaima) (Sudis gigas),ray-finned fish,unreviewed,0.632,1.0
+ABHD4,A0A672SKS9,Sinocyclocheilus grahami (Dianchi golden-line fish) (Barbus grahami),ray-finned fish,unreviewed,0.639,1.0
+ABHD4,A0A8C9RYR2,Scleropages formosus (Asian bonytongue) (Osteoglossum formosum),ray-finned fish,unreviewed,0.623,1.0
+ABHD4,A0A668AWH3,Myripristis murdjan (pinecone soldierfish),ray-finned fish,unreviewed,0.635,1.0
+ABHD4,A0A4W6CU01,Lates calcarifer (Barramundi) (Holocentrus calcarifer),ray-finned fish,unreviewed,0.629,1.0
+ABHD4,A0A672HJY7,Salarias fasciatus (Jewelled blenny) (Blennius fasciatus),ray-finned fish,unreviewed,0.629,1.0
+ABHD4,A0A6P3W6M5,Clupea harengus (Atlantic herring),ray-finned fish,unreviewed,0.635,1.0
+ABHD4,H2RM72,Takifugu rubripes (Japanese pufferfish) (Fugu rubripes),ray-finned fish,unreviewed,0.621,0.997
+ABHD4,A0A6P7L316,Betta splendens (Siamese fighting fish),ray-finned fish,unreviewed,0.635,1.0
+ABHD4,A0A6P7K3D7,Parambassis ranga (Indian glassy fish),ray-finned fish,unreviewed,0.635,1.0
+ABHD4,A0A7M3THG8,Ctenopharyngodon idella (Grass carp) (Leuciscus idella),ray-finned fish,unreviewed,0.632,1.0
+ABHD4,A0A2I4AWV3,Austrofundulus limnaeus (Annual killifish),ray-finned fish,unreviewed,0.623,1.0
+ABHD4,H2MAR5,Oryzias latipes (Japanese rice fish) (Japanese killifish),ray-finned fish,unreviewed,0.623,1.0
+ABHD4,A0A3B5B1G1,Stegastes partitus (bicolor damselfish),ray-finned fish,unreviewed,0.629,1.0
+ABHD4,A0A6J2VA85,Chanos chanos (Milkfish) (Mugil chanos),ray-finned fish,unreviewed,0.639,1.0
+ABHD4,A0AAV9S9J0,Crenichthys baileyi (White River springfish),ray-finned fish,unreviewed,0.623,1.0
+ABHD4,A0AAY4AVJ4,Denticeps clupeoides (denticle herring),ray-finned fish,unreviewed,0.626,1.0
+ABHD4,A0A1A8UGN5,Nothobranchius furzeri (Turquoise killifish),ray-finned fish,unreviewed,0.608,0.997
+ABHD4,A0A673XHX5,Salmo trutta (Brown trout),ray-finned fish,unreviewed,0.623,1.0
+ABHD4,A0A8C7NEF4,Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri),ray-finned fish,unreviewed,0.623,1.0
+ABHD4,A0A8C8MEH1,Oncorhynchus tshawytscha (Chinook salmon) (Salmo tshawytscha),ray-finned fish,unreviewed,0.623,1.0
+ABHD4,A0A8C7N153,Oncorhynchus kisutch (Coho salmon) (Salmo kisutch),ray-finned fish,unreviewed,0.623,1.0
+ABHD4,A0A8C5GW17,Gouania willdenowi (Blunt-snouted clingfish) (Lepadogaster willdenowi),ray-finned fish,unreviewed,0.619,1.0
+ABHD4,A0A8C2X9M0,Cyclopterus lumpus (Lumpsucker),ray-finned fish,unreviewed,0.632,1.0
+ABHD4,A0A8C4NQA7,Dicentrarchus labrax (European seabass) (Morone labrax),ray-finned fish,unreviewed,0.61,1.0
+ABHD4,A0A3Q1HXJ4,Anabas testudineus (Climbing perch) (Anthias testudineus),ray-finned fish,unreviewed,0.626,1.0
+ABHD4,A0A6P8VCM5,Gymnodraco acuticeps (Antarctic dragonfish),ray-finned fish,unreviewed,0.626,1.0
+ABHD4,A0A1S3LZV7,Salmo salar (Atlantic salmon),ray-finned fish,unreviewed,0.619,1.0
+ABHD4,A0A6J2RJQ0,Cottoperca gobio (Frogmouth) (Aphritis gobio),ray-finned fish,unreviewed,0.619,1.0
+ABHD4,A0A665WXJ2,Echeneis naucrates (Live sharksucker),ray-finned fish,unreviewed,0.619,1.0
+ABHD4,A0A671X0K9,Sparus aurata (Gilthead sea bream),ray-finned fish,unreviewed,0.613,1.0
+ABHD4,A0A4W4GXN4,Electrophorus electricus (Electric eel) (Gymnotus electricus),ray-finned fish,unreviewed,0.619,1.0
+ABHD4,A0A8X8BR24,Polypterus senegalus (Senegal bichir),ray-finned fish,unreviewed,0.649,0.919
+ABHD4,A0A2D0TA05,Ictalurus punctatus (Channel catfish) (Silurus punctatus),ray-finned fish,unreviewed,0.625,0.997
+ABHD4,A0A3P8QPB8,Astatotilapia calliptera (Eastern river bream) (Chromis callipterus),ray-finned fish,unreviewed,0.619,1.0
+ABHD4,I3JRC6,Oreochromis niloticus (Nile tilapia) (Tilapia nilotica),ray-finned fish,unreviewed,0.616,1.0
+ABHD4,A0A668VR65,Oreochromis aureus (Israeli tilapia) (Chromis aureus),ray-finned fish,unreviewed,0.616,1.0
+ABHD4,A0A3B4GXM5,Pundamilia nyererei,ray-finned fish,unreviewed,0.616,1.0
+ABHD4,A0A3P8Y3B7,Esox lucius (Northern pike),ray-finned fish,unreviewed,0.61,1.0
+ABHD4,A0A8C4Z4D4,Gadus morhua (Atlantic cod),ray-finned fish,unreviewed,0.629,1.0
+ABHD4,A0AA47P2E2,Merluccius polli (Benguela hake) (Merluccius cadenati),ray-finned fish,unreviewed,0.611,0.987
+ABHD4,A0A8C9XH55,Sander lucioperca (Pike-perch) (Perca lucioperca),ray-finned fish,unreviewed,0.632,0.929
+ABHD4,A0A8J4TVN7,Clarias magur (Asian catfish) (Macropteronotus magur),ray-finned fish,unreviewed,0.629,0.903
+ABHD3,K7BLA1,Pan troglodytes (Chimpanzee),mammals,unreviewed,0.997,1.0
+ABHD3,H2NW09,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),mammals,unreviewed,0.997,1.0
+ABHD3,A0A2K6PXV7,Rhinopithecus roxellana (Golden snub-nosed monkey) (Pygathrix roxellana),mammals,unreviewed,0.984,1.0
+ABHD3,A0A8C9IST0,Piliocolobus tephrosceles (Ugandan red Colobus),mammals,unreviewed,0.99,1.0
+ABHD3,A0A6J3J2M5,Sapajus apella (Brown-capped capuchin) (Cebus apella),mammals,unreviewed,0.984,1.0
+ABHD3,A0A8D2FDR3,Theropithecus gelada (Gelada baboon),mammals,unreviewed,0.984,1.0
+ABHD3,A0ACM8QY63,Macaca mulatta (Rhesus macaque),mammals,unreviewed,0.984,1.0
+ABHD3,A0A2K5Q3H1,Cebus imitator (Panamanian white-faced capuchin) (Cebus capucinus imitator),mammals,unreviewed,0.984,1.0
+ABHD3,A0A9B0TL59,Chrysochloris asiatica (Cape golden mole),mammals,unreviewed,0.97,1.0
+ABHD3,A0ABI7WP11,Felis catus (Cat) (Felis silvestris catus),mammals,unreviewed,0.967,1.0
+ABHD3,A0A667I712,Lynx canadensis (Canada lynx) (Felis canadensis),mammals,unreviewed,0.967,1.0
+ABHD3,A0A6I9ZIS5,Acinonyx jubatus (Cheetah),mammals,unreviewed,0.967,1.0
+ABHD3,A0A6P6IFY9,Puma concolor (Mountain lion) (Felis concolor),mammals,unreviewed,0.967,1.0
+ABHD3,A0A8D2AW02,Sciurus vulgaris (Eurasian red squirrel),mammals,unreviewed,0.97,1.0
+ABHD3,A0A9V1E4H6,Panthera pardus (Leopard) (Felis pardus),mammals,unreviewed,0.964,1.0
+ABHD3,A0A2Y9E6L6,Trichechus manatus latirostris (Florida manatee),mammals,unreviewed,0.961,1.0
+ABHD3,A0A8D2HAV0,Urocitellus parryii (Arctic ground squirrel) (Spermophilus parryii),mammals,unreviewed,0.967,1.0
+ABHD3,A0A8C5ZCW1,Marmota marmota marmota (Alpine marmot),mammals,unreviewed,0.967,1.0
+ABHD3,A0A8B7S9V8,Hipposideros armiger (Great Himalayan leaf-nosed bat),mammals,unreviewed,0.97,1.0
+ABHD3,A0A384C380,Ursus maritimus (Polar bear) (Thalarctos maritimus),mammals,unreviewed,0.964,1.0
+ABHD3,A0A8B7UJI4,Castor canadensis (American beaver),mammals,unreviewed,0.957,1.0
+ABHD3,A0A8C7BSD1,Neogale vison (American mink) (Mustela vison),mammals,unreviewed,0.967,1.0
+ABHD3,M3Y2I9,Mustela putorius furo (European domestic ferret) (Mustela furo),mammals,unreviewed,0.967,1.0
+ABHD3,A0A2Y9FQ59,Physeter macrocephalus (Sperm whale) (Physeter catodon),mammals,unreviewed,0.961,1.0
+ABHD3,A0A340WIX4,Lipotes vexillifer (Yangtze river dolphin),mammals,unreviewed,0.961,1.0
+ABHD3,A0A8C9E264,Phocoena sinus (Vaquita),mammals,unreviewed,0.961,1.0
+ABHD3,A0A341CG76,Neophocaena asiaeorientalis asiaeorientalis (Yangtze finless porpoise) (Neophocaena phocaenoides subsp. asiaeorientalis),mammals,unreviewed,0.961,1.0
+ABHD3,A0A2U3WQ09,Odobenus rosmarus divergens (Pacific walrus),mammals,unreviewed,0.961,1.0
+ABHD3,A0A2Y9PGY8,Delphinapterus leucas (Beluga whale),mammals,unreviewed,0.957,1.0
+ABHD3,A0A3Q7T1W0,Vulpes vulpes (Red fox),mammals,unreviewed,0.97,1.0
+ABHD3,A0A2U4AZ60,Tursiops truncatus (Atlantic bottle-nosed dolphin) (Delphinus truncatus),mammals,unreviewed,0.961,1.0
+ABHD3,A0A3Q7Q9L9,Callorhinus ursinus (Northern fur seal),mammals,unreviewed,0.957,1.0
+ABHD3,A0A9W3ETW1,Camelus bactrianus (Bactrian camel),mammals,unreviewed,0.957,1.0
+ABHD3,A0A8B8S0H3,Camelus ferus (Wild bactrian camel) (Camelus bactrianus ferus),mammals,unreviewed,0.957,1.0
+ABHD3,A0A8C3YE48,Catagonus wagneri (Chacoan peccary),mammals,unreviewed,0.961,1.0
+ABHD3,A0A6J2BKV0,Zalophus californianus (California sealion),mammals,unreviewed,0.957,1.0
+ABHD3,A0A8B8V4D8,Balaenoptera musculus (Blue whale),mammals,unreviewed,0.961,1.0
+ABHD3,A0A8C6APG9,Monodon monoceros (Narwhal) (Ceratodon monodon),mammals,unreviewed,0.954,1.0
+ABHD3,A0A384BE10,Balaenoptera acutorostrata (Common minke whale) (Balaena rostrata),mammals,unreviewed,0.957,1.0
+ABHD3,A0A6I9I9X9,Vicugna pacos (Alpaca) (Lama pacos),mammals,unreviewed,0.954,1.0
+ABHD3,A0A2Y9GRQ8,Neomonachus schauinslandi (Hawaiian monk seal) (Monachus schauinslandi),mammals,unreviewed,0.957,1.0
+ABHD3,H0WX58,Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby),mammals,unreviewed,0.961,1.0
+ABHD3,A0A8C0KVP5,Canis lupus dingo (dingo),mammals,unreviewed,0.97,1.0
+ABHD3,A0A8I3NMR1,Canis lupus familiaris (Dog) (Canis familiaris),mammals,unreviewed,0.97,1.0
+ABHD3,A0A671FTQ4,Rhinolophus ferrumequinum (Greater horseshoe bat),mammals,unreviewed,0.957,1.0
+ABHD3,A0A8C6RN94,Nannospalax galili (Northern Israeli blind subterranean mole rat) (Spalax galili),mammals,unreviewed,0.951,1.0
+ABHD3,A0A673URM6,Suricata suricatta (Meerkat),mammals,unreviewed,0.957,1.0
+ABHD3,A0A6P3Q645,Pteropus vampyrus (Large flying fox),mammals,unreviewed,0.951,1.0
+ABHD3,A0ACI6QPM3,Ovis aries (Sheep),mammals,unreviewed,0.957,1.0
+ABHD3,A0A452FYY9,Capra hircus (Goat),mammals,unreviewed,0.957,1.0
+ABHD3,G1PD00,Myotis lucifugus (Little brown bat),mammals,unreviewed,0.961,1.0
+ABHD3,G1L745,Ailuropoda melanoleuca (Giant panda),mammals,unreviewed,0.957,1.0
+ABHD3,A0A8C5WB66,Microcebus murinus (Gray mouse lemur) (Lemur murinus),mammals,unreviewed,0.96,0.997
+ABHD3,A0A6J0WI64,Odocoileus virginianus (White-tailed deer),mammals,unreviewed,0.954,1.0
+ABHD3,A0ABM4RHD1,Bos indicus (Zebu),mammals,unreviewed,0.954,1.0
+ABHD3,Q0VC00,Bos taurus (Bovine),mammals,reviewed,0.954,1.0
+ABHD3,A0A8B9XQ37,Bos grunniens (Wild yak) (Bos mutus grunniens),mammals,unreviewed,0.951,1.0
+ABHD3,A0A8C6FL99,Moschus moschiferus (Siberian musk deer) (Moschus sibiricus),mammals,unreviewed,0.951,1.0
+ABHD3,A0A8C9ANN4,Prolemur simus (Greater bamboo lemur) (Hapalemur simus),mammals,unreviewed,0.95,0.997
+ABHD3,A0A8C4KZZ4,Equus asinus (Donkey) (Equus africanus asinus),mammals,unreviewed,0.947,1.0
+ABHD3,A0A1S3F185,Dipodomys ordii (Ord's kangaroo rat),mammals,unreviewed,0.947,1.0
+ABHD3,A0ABM2FPM2,Equus przewalskii (Przewalski's horse) (Equus caballus przewalskii),mammals,unreviewed,0.947,1.0
+ABHD3,A0A3Q2L599,Equus caballus (Horse),mammals,unreviewed,0.947,1.0
+ABHD3,Q91ZH7,Mus musculus (Mouse),mammals,reviewed,0.928,1.0
+ABHD3,A0A8C2LJA1,Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus),mammals,unreviewed,0.938,1.0
+ABHD3,A0A6P5NTD1,Mus caroli (Ryukyu mouse) (Ricefield mouse),mammals,unreviewed,0.924,1.0
+ABHD3,D4A3D4,Rattus norvegicus (Rat),mammals,unreviewed,0.931,1.0
+ABHD3,A0ABM3VYZ9,Erinaceus europaeus (Western European hedgehog),mammals,unreviewed,0.947,1.0
+ABHD3,A0ABM0ILQ4,Echinops telfairi (Lesser hedgehog tenrec),mammals,unreviewed,0.927,0.997
+ABHD3,G3WD36,Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius),mammals,unreviewed,0.938,1.0
+ABHD3,A0A6P5J574,Phascolarctos cinereus (Koala),mammals,unreviewed,0.938,1.0
+ABHD3,A0ABM2YG39,Mesocricetus auratus (Golden hamster),mammals,unreviewed,0.924,1.0
+ABHD3,A0ABM0KZA8,Microtus ochrogaster (Prairie vole),mammals,unreviewed,0.924,1.0
+ABHD3,A0A6P3GKR6,Bison bison bison (North American plains bison),mammals,unreviewed,0.954,1.0
+ABHD3,A0A2I3FVZ1,Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys),mammals,unreviewed,0.997,1.0
+ABHD3,F7FVC0,Ornithorhynchus anatinus (Duckbill platypus),mammals,unreviewed,0.914,1.0
+ABHD3,A0AAX6PJK3,Heterocephalus glaber (Naked mole rat),mammals,unreviewed,0.934,1.0
+ABHD3,A0A7E6CDS7,Phyllostomus discolor (pale spear-nosed bat),mammals,unreviewed,0.921,1.0
+ABHD3,A0A8D1VPR7,Sus scrofa (Pig),mammals,unreviewed,0.954,1.0
+ABHD3,A0ABM0RCY8,Galeopterus variegatus (Malayan flying lemur) (Cynocephalus variegatus),mammals,unreviewed,0.967,1.0
+ABHD3,A0A6G1AFN6,Crocuta crocuta (Spotted hyena),mammals,unreviewed,0.964,1.0
+ABHD3,A0A8C2VBC5,Chinchilla lanigera (Long-tailed chinchilla) (Chinchilla villidera),mammals,unreviewed,0.951,1.0
+ABHD3,A0A6P3F0B5,Octodon degus (Degu) (Sciurus degus),mammals,unreviewed,0.938,1.0
+ABHD3,G3RMQ0,Gorilla gorilla gorilla (Western lowland gorilla),mammals,unreviewed,0.992,0.809
+ABHD3,H0UXR6,Cavia porcellus (Guinea pig),mammals,unreviewed,0.938,1.0
+ABHD3,A0A7K8JTA8,Lophotis ruficrista,birds,unreviewed,0.839,1.0
+ABHD3,A0A452RDX5,Ursus americanus (American black bear) (Euarctos americanus),mammals,unreviewed,0.934,0.845
+ABHD3,A0A7K9LLX9,Rhabdornis inornatus,birds,unreviewed,0.836,1.0
+ABHD3,A0A7K8X0M1,Sclerurus mexicanus (tawny-throated leaftosser),birds,unreviewed,0.829,1.0
+ABHD3,A0A7K7CW41,Pheucticus melanocephalus (Black-headed grosbeak) (Guiraca melanocephala),birds,unreviewed,0.836,1.0
+ABHD3,A0A7K7M8M3,Brachypodius melanocephalos (black-headed bulbul),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K6WKF5,Steatornis caripensis (Oilbird),birds,unreviewed,0.832,1.0
+ABHD3,A0A7L0QTY8,Setophaga kirtlandii (Kirtland's warbler) (Dendroica kirtlandii),birds,unreviewed,0.836,1.0
+ABHD3,A0A852D855,Passerina amoena (Lazuli bunting),birds,unreviewed,0.836,1.0
+ABHD3,A0A7L0RTL4,Glaucidium brasilianum (Ferruginous pygmy-owl),birds,unreviewed,0.839,1.0
+ABHD3,A0A7K7VZX6,Nothocercus julius,birds,unreviewed,0.829,1.0
+ABHD3,A0A852NE61,Atrichornis clamosus,birds,unreviewed,0.832,1.0
+ABHD3,A0A7L2W3W6,Pandion haliaetus (Osprey) (Falco haliaetus),birds,unreviewed,0.839,1.0
+ABHD3,A0A7K5JP74,Mionectes macconnelli (McConnell's flycatcher),birds,unreviewed,0.832,1.0
+ABHD3,A0A7L3L904,Turnix velox (Little buttonquail),birds,unreviewed,0.842,1.0
+ABHD3,A0A7K4LIN7,Crypturellus undulatus,birds,unreviewed,0.826,1.0
+ABHD3,A0A7K7IVY8,Loxia curvirostra (Red crossbill),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K5PCX2,Erythrocercus mccallii,birds,unreviewed,0.829,1.0
+ABHD3,A0A7L3TZR4,Uria aalge (Common mure) (Colymbus aalge),birds,unreviewed,0.836,1.0
+ABHD3,A0A850UJT2,Chloropsis hardwickii,birds,unreviewed,0.836,1.0
+ABHD3,A0A7K7Q6N5,Poecile atricapillus (Black-capped chickadee) (Parus atricapillus),birds,unreviewed,0.832,1.0
+ABHD3,A0A8B7I8M8,Apteryx mantelli (North Island brown kiwi),birds,unreviewed,0.832,1.0
+ABHD3,A0A7L2NVB5,Pycnonotus jocosus (Red-whiskered bulbul) (Lanius jocosus),birds,unreviewed,0.836,1.0
+ABHD3,A0A7L4AQY7,Phaetusa simplex (large-billed tern),birds,unreviewed,0.836,1.0
+ABHD3,A0A7L1HDZ8,Nycticryphes semicollaris,birds,unreviewed,0.836,1.0
+ABHD3,A0A7L1WZU9,Thinocorus orbignyianus,birds,unreviewed,0.836,1.0
+ABHD3,A0A7K6T346,Caloenas nicobarica (Nicobar pigeon),birds,unreviewed,0.826,1.0
+ABHD3,A0A8C9N9M7,Serinus canaria (Island canary) (Fringilla canaria),birds,unreviewed,0.832,1.0
+ABHD3,A0A7L3A6M8,Prunella fulvescens (Brown accentor),birds,unreviewed,0.832,1.0
+ABHD3,A0A851R0N7,Tychaedon coryphoeus (Karoo scrub-robin) (Erythropygia coryphaeus),birds,unreviewed,0.829,1.0
+ABHD3,A0A852IAB9,Nicator chloris,birds,unreviewed,0.829,1.0
+ABHD3,A0A851V113,Copsychus sechellarum,birds,unreviewed,0.829,1.0
+ABHD3,A0A7L1DFZ3,Serilophus lunatus (silver-breasted broadbill),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K6QDQ3,Climacteris rufus (rufous treecreeper),birds,unreviewed,0.832,1.0
+ABHD3,A0A852LC73,Urocolius indicus (Red-faced mousebird) (Colius indicus),birds,unreviewed,0.829,1.0
+ABHD3,A0A8C3MHU7,Geospiza parvula (Small tree-finch) (Camarhynchus parvulus),birds,unreviewed,0.836,1.0
+ABHD3,A0A7L3V686,Molothrus ater (Brown-headed cowbird),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K8KPX5,Ardeotis kori,birds,unreviewed,0.836,1.0
+ABHD3,A0A7K5ML08,Cardinalis cardinalis (Northern cardinal),birds,unreviewed,0.836,1.0
+ABHD3,A0A7K7RCW1,Nesospiza acunhae,birds,unreviewed,0.832,1.0
+ABHD3,A0A7K7KBF3,Agelaius phoeniceus (Red-winged blackbird) (Oriolus phoeniceus),birds,unreviewed,0.832,1.0
+ABHD3,H0ZJ77,Taeniopygia guttata (Zebra finch) (Poephila guttata),birds,unreviewed,0.829,1.0
+ABHD3,A0A7L3QT62,Cettia cetti,birds,unreviewed,0.829,1.0
+ABHD3,A0A7L3IGU4,Pardalotus punctatus (spotted pardalote),birds,unreviewed,0.836,1.0
+ABHD3,A0A7K8RIY4,Rhodinocichla rosea,birds,unreviewed,0.832,1.0
+ABHD3,A0A7L2BMV2,Alaudala cheleensis (Asian short-toed lark),birds,unreviewed,0.829,1.0
+ABHD3,A0A7L0KMV8,Sylvietta virens (Green crombec),birds,unreviewed,0.829,1.0
+ABHD3,A0A7L2LE24,Hippolais icterina (icterine warbler),birds,unreviewed,0.829,1.0
+ABHD3,A0A7L3SKN7,Rissa tridactyla (Black-legged kittiwake) (Larus tridactyla),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K5NXU7,Chroicocephalus maculipennis (Brown-hooded gull) (Larus maculipennis),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K4WDP3,Tachuris rubrigastra,birds,unreviewed,0.832,1.0
+ABHD3,A0A7K6UZV9,Notiomystis cincta,birds,unreviewed,0.826,1.0
+ABHD3,A0A7K4PQH0,Melospiza melodia (Song sparrow) (Fringilla melodia),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K4V353,Emberiza fucata,birds,unreviewed,0.832,1.0
+ABHD3,A0A852A3C7,Calcarius ornatus (Chestnut-collared longspur),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K5Q9X7,Prunella himalayana,birds,unreviewed,0.829,1.0
+ABHD3,A0A851K7U9,Vidua chalybeata (Village indigobird),birds,unreviewed,0.829,1.0
+ABHD3,A0A7L4MTF8,Ceyx cyanopectus (Indigo-banded kingfisher),birds,unreviewed,0.832,1.0
+ABHD3,A0A8J4JVC6,Eudyptula minor (Little blue penguin) (Aptenodytes minor),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K6H6S8,Malurus elegans (Red-winged fairywren),birds,unreviewed,0.829,1.0
+ABHD3,A0A7K9Y9Y3,Odontophorus gujanensis (marbled wood quail),birds,unreviewed,0.822,1.0
+ABHD3,A0A7L1ZA50,Leiothrix lutea (Red-billed leiothrix) (Sylvia lutea),birds,unreviewed,0.826,1.0
+ABHD3,A0A7L3BHG7,Pelecanoides urinatrix (Common diving petrel) (Procellaria urinatrix),birds,unreviewed,0.832,1.0
+ABHD3,A0A7L4IM98,Pomatorhinus ruficollis (streak-breasted scimitar babbler),birds,unreviewed,0.826,1.0
+ABHD3,A0A7K8LPC8,Ptilorrhoa leucosticta,birds,unreviewed,0.832,1.0
+ABHD3,A0A7L3R6C8,Cepphus grylle (Black guillemot) (Alca grylle),birds,unreviewed,0.832,1.0
+ABHD3,A0AA40GVT3,Pygoscelis papua (Gentoo penguin),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K8AC16,Cnemophilus loriae (Loria's bird-of-paradise),birds,unreviewed,0.829,1.0
+ABHD3,A0A8J4JZD6,Eudyptes sclateri (Erect-crested penguin),birds,unreviewed,0.832,1.0
+ABHD3,A0A8J4KU19,Eudyptes chrysocome (Western rockhopper penguin) (Aptenodytes chrysocome),birds,unreviewed,0.832,1.0
+ABHD3,A0A8J4MKE2,Spheniscus mendiculus (Galapagos penguin),birds,unreviewed,0.832,1.0
+ABHD3,A0A851AVL9,Picathartes gymnocephalus (White-necked rockfowl),birds,unreviewed,0.826,1.0
+ABHD3,A0A8K0BI23,Eudyptes filholi (Southern rockhopper penguin),birds,unreviewed,0.832,1.0
+ABHD3,A0A7L4K351,Ceuthmochares aereus,birds,unreviewed,0.836,1.0
+ABHD3,A0A7K4QV74,Neopipo cinnamomea,birds,unreviewed,0.832,1.0
+ABHD3,A0A7K5DAC4,Pachyramphus minor,birds,unreviewed,0.832,1.0
+ABHD3,A0A7K7G5N4,Erithacus rubecula (European robin),birds,unreviewed,0.826,1.0
+ABHD3,A0A7K6D3S9,Origma solitaria,birds,unreviewed,0.829,1.0
+ABHD3,A0A7K6M187,Panurus biarmicus (Bearded tit),birds,unreviewed,0.826,1.0
+ABHD3,A0A8J4KY77,Aptenodytes patagonicus (King penguin),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K4KYW4,Crypturellus soui,birds,unreviewed,0.822,1.0
+ABHD3,A0ACS7J4G6,Aegotheles albertisi,birds,unreviewed,0.836,1.0
+ABHD3,A0A7K7E7T6,Sylvia atricapilla (blackcap),birds,unreviewed,0.826,1.0
+ABHD3,A0A663EEH2,Aquila chrysaetos chrysaetos,birds,unreviewed,0.836,1.0
+ABHD3,A0A7L0ZB23,Ploceus nigricollis,birds,unreviewed,0.829,1.0
+ABHD3,A0A7K8ZSZ2,Grallaria varia (variegated antpitta),birds,unreviewed,0.832,1.0
+ABHD3,A0A852LFN0,Centropus bengalensis (lesser coucal),birds,unreviewed,0.832,1.0
+ABHD3,A0A7L1RBQ3,Helopsaltes ochotensis (Middendorff's grasshopper-warbler),birds,unreviewed,0.829,1.0
+ABHD3,A0A7K6I2E7,Dasyornis broadbenti (rufous bristle-bird),birds,unreviewed,0.829,1.0
+ABHD3,A0A7L0GRA7,Herpetotheres cachinnans (Laughing falcon) (Falco cachinnans),birds,unreviewed,0.829,1.0
+ABHD3,A0ACS7E541,Chlamydotis macqueenii (Macqueen's bustard),birds,unreviewed,0.836,1.0
+ABHD3,A0A7L0TUG8,Chordeiles acutipennis (Lesser nighthawk) (Caprimulgus acutipennis),birds,unreviewed,0.836,1.0
+ABHD3,A0A7L4KPJ1,Callaeas wilsoni (North Island kokako),birds,unreviewed,0.822,1.0
+ABHD3,A0A8D2MHZ7,Zonotrichia albicollis (White-throated sparrow) (Fringilla albicollis),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K8UMF5,Oceanites oceanicus (Wilson's storm petrel) (Procellaria oceanica),birds,unreviewed,0.829,1.0
+ABHD3,A0A7K8FNZ5,Struthidea cinerea,birds,unreviewed,0.832,1.0
+ABHD3,A0A7K5ZLQ3,Onychorhynchus coronatus (Royal flycatcher),birds,unreviewed,0.832,1.0
+ABHD3,A0ACS7H654,Spheniscus humboldti (Humboldt penguin),birds,unreviewed,0.832,1.0
+ABHD3,A0A851Y4Y9,Halcyon senegalensis,birds,unreviewed,0.829,1.0
+ABHD3,A0A851IYF2,Donacobius atricapilla,birds,unreviewed,0.826,1.0
+ABHD3,A0A7L0CMI5,Rostratula benghalensis (greater painted-snipe),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K7P8P5,Acrocephalus arundinaceus (Great reed-warbler),birds,unreviewed,0.826,1.0
+ABHD3,A0A7L0SMF4,Podilymbus podiceps (Pied-billed grebe),birds,unreviewed,0.829,1.0
+ABHD3,U3JUH7,Ficedula albicollis (Collared flycatcher) (Muscicapa albicollis),birds,unreviewed,0.826,1.0
+ABHD3,A0A7K8QDY1,Smithornis capensis,birds,unreviewed,0.832,1.0
+ABHD3,A0A7L0ZU33,Oxyruncus cristatus (sharpbill),birds,unreviewed,0.829,1.0
+ABHD3,A0A7K5FNP0,Probosciger aterrimus (Palm cockatoo),birds,unreviewed,0.826,1.0
+ABHD3,A0A7K8IU41,Chaetorhynchus papuensis (pygmy drongo),birds,unreviewed,0.826,1.0
+ABHD3,A0A6J0IMR1,Lepidothrix coronata (blue-crowned manakin),birds,unreviewed,0.832,1.0
+ABHD3,A0A6J2HHD2,Pipra filicauda (Wire-tailed manakin),birds,unreviewed,0.832,1.0
+ABHD3,A0A851TY22,Elachura formosa (spotted wren-babbler),birds,unreviewed,0.826,1.0
+ABHD3,A0A7K7TIS1,Sapayoa aenigma (broad-billed sapayoa),birds,unreviewed,0.829,1.0
+ABHD3,A0A7K9DNS1,Hemiprocne comata,birds,unreviewed,0.829,1.0
+ABHD3,A0A7K4ZEN2,Centropus unirufus,birds,unreviewed,0.829,1.0
+ABHD3,A0A7K7B8C9,Nothoprocta ornata,birds,unreviewed,0.826,1.0
+ABHD3,A0A7K6ZY56,Nothoprocta pentlandii,birds,unreviewed,0.826,1.0
+ABHD3,A0A7L0MBA4,Amazona guildingii,birds,unreviewed,0.822,1.0
+ABHD3,A0A7K6BI65,Upupa epops (Eurasian hoopoe),birds,unreviewed,0.829,1.0
+ABHD3,F1NTP8,Gallus gallus (Chicken),birds,unreviewed,0.822,1.0
+ABHD3,A0A851MDE9,Campylorhamphus procurvoides,birds,unreviewed,0.826,1.0
+ABHD3,A0A8B9CH70,Anser brachyrhynchus (Pink-footed goose),birds,unreviewed,0.826,1.0
+ABHD3,A0A7K6X8W9,Promerops cafer (Cape sugarbird),birds,unreviewed,0.829,1.0
+ABHD3,A0A7K8TJD7,Nyctibius bracteatus (Rufous potoo),birds,unreviewed,0.829,1.0
+ABHD3,A0A6J3CGR5,Aythya fuligula (Tufted duck) (Anas fuligula),birds,unreviewed,0.826,1.0
+ABHD3,U3IB05,Anas platyrhynchos platyrhynchos (Northern mallard),birds,unreviewed,0.826,1.0
+ABHD3,A0A8B9DDU3,Anser cygnoides (Swan goose),birds,unreviewed,0.826,1.0
+ABHD3,A0A7K5L7S4,Vireo altiloquus (Black-whiskered vireo) (Muscicapa altiloqua),birds,unreviewed,0.829,1.0
+ABHD3,A0A7K7KYD0,Asarcornis scutulata,birds,unreviewed,0.826,1.0
+ABHD3,A0A7L4H4M3,Podargus strigoides (Tawny frogmouth) (Caprimulgus strigoides),birds,unreviewed,0.826,1.0
+ABHD3,A0A7K5U4Q6,Cephalopterus ornatus (Amazonian umbrellabird),birds,unreviewed,0.829,1.0
+ABHD3,A0AA97MNG1,Menura novaehollandiae (superb lyrebird),birds,unreviewed,0.829,1.0
+ABHD3,A0A7L0DXV2,Trogon melanurus (Black-tailed trogon),birds,unreviewed,0.826,1.0
+ABHD3,A0A7L0XMP0,Tyrannus savana (Fork-tailed flycatcher) (Muscivora tyrannus),birds,unreviewed,0.826,1.0
+ABHD3,A0A7K7NUU9,Haliaeetus albicilla (White-tailed sea-eagle) (Falco albicilla),birds,unreviewed,0.829,1.0
+ABHD3,A0A7L3Y6T4,Calonectris borealis (Cory's shearwater),birds,unreviewed,0.822,1.0
+ABHD3,A0A7K6LKC7,Falcunculus frontatus (Eastern shriketit),birds,unreviewed,0.826,1.0
+ABHD3,A0A850XWK0,Piaya cayana (Common squirrel cuckoo),birds,unreviewed,0.826,1.0
+ABHD3,A0A7K7YLF4,Thryothorus ludovicianus (Carolina wren) (Sylvia ludoviciana),birds,unreviewed,0.822,1.0
+ABHD3,A0A8C3E970,Corvus moneduloides (New Caledonian crow),birds,unreviewed,0.826,1.0
+ABHD3,A0A7K7BSI2,Aphelocoma coerulescens (Florida scrub-jay) (Corvus coerulescens),birds,unreviewed,0.826,1.0
+ABHD3,A0A7K8N3T9,Casuarius casuarius (Southern cassowary) (Struthio casuarius),birds,unreviewed,0.826,1.0
+ABHD3,A0A669R7Y9,Phasianus colchicus (Common pheasant),birds,unreviewed,0.819,1.0
+ABHD3,A0A7K6J9F8,Machaerirhynchus nigripectus,birds,unreviewed,0.829,1.0
+ABHD3,A0A851XFW0,Eolophus roseicapilla (Galah cockatoo) (Cacatua roseicapilla),birds,unreviewed,0.822,1.0
+ABHD3,A0A7K9T8E5,Galbula dea,birds,unreviewed,0.826,1.0
+ABHD3,A0A672U7P4,Strigops habroptila (Kakapo),birds,unreviewed,0.822,1.0
+ABHD3,A0A7L2GVM7,Nyctibius grandis (Great potoo),birds,unreviewed,0.822,1.0
+ABHD3,A0A7L1N7R7,Rhinopomastus cyanomelas (Common scimitarbill),birds,unreviewed,0.832,1.0
+ABHD3,A0A8C2Y9V1,Coturnix japonica (Japanese quail) (Coturnix coturnix japonica),birds,unreviewed,0.819,1.0
+ABHD3,A0A8C4VUX8,Gopherus evgoodei (Goodes thornscrub tortoise),turtles,unreviewed,0.806,1.0
+ABHD3,A0A852JA50,Tricholaema leucomelas (pied barbet),birds,unreviewed,0.822,1.0
+ABHD3,A0A7L0FEE6,Corythaixoides concolor (Grey go-away-bird),birds,unreviewed,0.822,1.0
+ABHD3,A0A7K5I028,Crotophaga sulcirostris (Groove-billed ani),birds,unreviewed,0.832,1.0
+ABHD3,A0A8C3J0G4,Chrysemys picta bellii (Western painted turtle) (Emys bellii),turtles,unreviewed,0.803,1.0
+ABHD3,A0A674K6A6,Terrapene triunguis (Three-toed box turtle),turtles,unreviewed,0.806,1.0
+ABHD3,A0A7L3F0F6,Zapornia atra (Henderson crake),birds,unreviewed,0.832,1.0
+ABHD3,A0A852BTE2,Ramphastos sulfuratus,birds,unreviewed,0.822,1.0
+ABHD3,A0A7L3APE5,Syrrhaptes paradoxus (Pallas's sandgrouse),birds,unreviewed,0.812,1.0
+ABHD3,A0A7L1YNV3,Scytalopus superciliaris,birds,unreviewed,0.819,1.0
+ABHD3,A0A8C6ZN22,Nothoprocta perdicaria (Chilean tinamou) (Crypturus perdicarius),birds,unreviewed,0.822,1.0
+ABHD3,A0A7K5YN11,Pterocles burchelli,birds,unreviewed,0.812,1.0
+ABHD3,A0A7K9ZZZ9,Dicrurus megarhynchus,birds,unreviewed,0.829,1.0
+ABHD3,A0A7K9HIR4,Bucco capensis (collared puffbird),birds,unreviewed,0.826,1.0
+ABHD3,A0A7K8P0N2,Cochlearius cochlearius (Boat-billed heron),birds,unreviewed,0.832,1.0
+ABHD3,A0A7L1B732,Gymnorhina tibicen (Australian magpie) (Cracticus tibicen),birds,unreviewed,0.822,1.0
+ABHD3,A0A7K6FFK0,Daphoenositta chrysoptera (varied sittella),birds,unreviewed,0.826,1.0
+ABHD3,A0A1V4KG56,Patagioenas fasciata monilis,birds,unreviewed,0.806,1.0
+ABHD3,A0A7L0VB30,Leptocoma aspasia,birds,unreviewed,0.819,1.0
+ABHD3,A0A8C4JEX6,Dromaius novaehollandiae (Emu),birds,unreviewed,0.819,1.0
+ABHD3,A0A7L1TBL7,Aramus guarauna (Limpkin) (Scolopax guarauna),birds,unreviewed,0.826,1.0
+ABHD3,A0A7L4FE16,Pampusana beccarii (Western bronze ground-dove),birds,unreviewed,0.805,0.997
+ABHD3,A0A7K6E555,Grantiella picta,birds,unreviewed,0.829,1.0
+ABHD3,A0A851EWC6,Pitta sordida (Hooded pitta),birds,unreviewed,0.829,1.0
+ABHD3,A0A7K6K8Q5,Oreocharis arfaki (tit berrypecker),birds,unreviewed,0.832,1.0
+ABHD3,A0AAV0A191,Phodopus roborovskii (Roborovski's desert hamster) (Cricetulus roborovskii),mammals,unreviewed,0.924,0.826
+ABHD3,A0A7K9PB30,Pachycephala philippinensis (yellow-belllied whistler),birds,unreviewed,0.826,1.0
+ABHD3,A0A7L0NI86,Formicarius rufipectus,birds,unreviewed,0.832,1.0
+ABHD3,A0A7L1MA38,Bombycilla garrulus (Bohemian waxwing) (Lanius garrulus),birds,unreviewed,0.816,1.0
+ABHD3,A0A7L2L6K2,Zosterops hypoxanthus,birds,unreviewed,0.826,1.0
+ABHD3,A0A7K9GJ33,Loxia leucoptera (White-winged crossbill),birds,unreviewed,0.832,1.0
+ABHD3,A0A7L1F5S8,Sylvia borin (Garden warbler) (Motacilla borin),birds,unreviewed,0.826,1.0
+ABHD3,A0A7K8GD88,Orthonyx spaldingii (Chowchilla),birds,unreviewed,0.826,1.0
+ABHD3,A0A851P0L6,Penelope pileata,birds,unreviewed,0.819,1.0
+ABHD3,A0A7L4AC25,Circaetus pectoralis (black-chested snake-eagle),birds,unreviewed,0.805,0.993
+ABHD3,A0A7L2N8S7,Rhadina sibilatrix,birds,unreviewed,0.829,1.0
+ABHD3,I3MR62,Ictidomys tridecemlineatus (Thirteen-lined ground squirrel) (Spermophilus tridecemlineatus),mammals,unreviewed,0.978,0.76
+ABHD3,A0A7K9NV68,Edolisoma coerulescens,birds,unreviewed,0.829,1.0
+ABHD3,A0A8J0PKD4,Xenopus tropicalis (Western clawed frog) (Silurana tropicalis),amphibians,unreviewed,0.759,0.997
+ABHD3,A0A8C0G9U2,Chelonoidis abingdonii (Abingdon island giant tortoise) (Testudo abingdonii),turtles,unreviewed,0.827,0.931
+ABHD3,A0A7K8DEF1,Eulacestoma nigropectus (wattled ploughbill),birds,unreviewed,0.822,1.0
+ABHD3,A0A6J0T5L3,Pogona vitticeps (central bearded dragon),lepidosaurs,unreviewed,0.78,1.0
+ABHD3,A0A1L8FYM9,Xenopus laevis (African clawed frog),amphibians,unreviewed,0.766,0.997
+ABHD3,A0A7L1P5V2,Oriolus oriolus (Eurasian golden oriole) (Coracias oriolus),birds,unreviewed,0.822,1.0
+ABHD3,A0A7L2CMU0,Catharus fuscescens (Veery) (Turdus fuscescens),birds,unreviewed,0.822,1.0
+ABHD3,H3API5,Latimeria chalumnae (Coelacanth),lobe-finned fish,unreviewed,0.76,1.0
+ABHD3,A0A151NEL1,Alligator mississippiensis (American alligator),crocodilians,unreviewed,0.793,1.0
+ABHD3,A0A6P8QTA2,Geotrypetes seraphini (Gaboon caecilian) (Caecilia seraphini),amphibians,unreviewed,0.776,0.997
+ABHD3,A0A1U7RRI6,Alligator sinensis (Chinese alligator),crocodilians,unreviewed,0.796,1.0
+ABHD3,A0A8C5PK17,Leptobrachium leishanense (Leishan spiny toad),amphibians,unreviewed,0.759,0.997
+ABHD3,A0AA97L3G6,Eublepharis macularius (Leopard gecko) (Cyrtodactylus macularius),lepidosaurs,unreviewed,0.77,1.0
+ABHD3,A0A6P7YUM8,Microcaecilia unicolor,amphibians,unreviewed,0.766,0.997
+ABHD3,A0A670I8C2,Podarcis muralis (Wall lizard) (Lacerta muralis),lepidosaurs,unreviewed,0.773,1.0
+ABHD3,A0A7K8A596,Melanocharis versteri (Fan-tailed berrypecker),birds,unreviewed,0.826,1.0
+ABHD3,A0A7L3D5N1,Pluvianellus socialis (Magellanic plover),birds,unreviewed,0.836,1.0
+ABHD3,A0ABS2X913,Polyodon spathula (North American paddlefish) (Squalus spathula),ray-finned fish,unreviewed,0.723,0.997
+ABHD3,A0A7L1CCQ4,Illadopsis cleaveri (blackcap illadopsis),birds,unreviewed,0.822,1.0
+ABHD3,A0A8X7WXJ8,Polypterus senegalus (Senegal bichir),ray-finned fish,unreviewed,0.711,1.0
+ABHD3,A0A7L2B506,Heliornis fulica (sungrebe),birds,unreviewed,0.829,1.0
+ABHD3,G1KH59,Anolis carolinensis (Green anole) (American chameleon),lepidosaurs,unreviewed,0.747,1.0
+ABHD3,A0A7K6P1P7,Pedionomus torquatus (Plains-wanderer),birds,unreviewed,0.839,1.0
+ABHD3,A0A851Q8A4,Anhinga anhinga (Anhinga) (Plotus anhinga),birds,unreviewed,0.839,1.0
+ABHD3,A0A850XUV1,Aegithalos caudatus (Long-tailed tit) (Acredula caudata),birds,unreviewed,0.832,1.0
+ABHD3,A0AAD8LTN0,Acipenser oxyrinchus oxyrinchus,ray-finned fish,unreviewed,0.723,0.997
+ABHD3,A0A663MDE1,Athene cunicularia (Burrowing owl) (Speotyto cunicularia),birds,unreviewed,0.839,1.0
+ABHD3,A0A7L3NLH3,Oreotrochilus melanogaster,birds,unreviewed,0.836,1.0
+ABHD3,A0A7K5IKF8,Toxostoma redivivum (California thrasher),birds,unreviewed,0.836,1.0
+ABHD3,A0A7L1IXD7,Smutsornis africanus (Double-banded courser) (Rhinoptilus africanus),birds,unreviewed,0.832,1.0
+ABHD3,A0A8C0ZFL2,Cyanistes caeruleus (Eurasian blue tit) (Parus caeruleus),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K6U7I9,Aegotheles bennettii,birds,unreviewed,0.839,1.0
+ABHD3,A0A7L0HM64,Arenaria interpres (Ruddy turnstone) (Tringa interpres),birds,unreviewed,0.836,1.0
+ABHD3,A0A7L0C9I2,Spizaetus tyrannus (black hawk-eagle),birds,unreviewed,0.836,1.0
+ABHD3,A0A7K7UDH4,Ibidorhyncha struthersii,birds,unreviewed,0.836,1.0
+ABHD3,A0A7L1L504,Himantopus himantopus (Black-winged stilt) (Charadrius himantopus),birds,unreviewed,0.836,1.0
+ABHD3,A0A6I9ZCZ2,Geospiza fortis (Medium ground-finch),birds,unreviewed,0.836,1.0
+ABHD3,A0A7L4MPQ3,Glareola pratincola (Collared pratincole) (Hirundo pratincola),birds,unreviewed,0.836,1.0
+ABHD3,A0A7K4STS4,Burhinus bistriatus,birds,unreviewed,0.836,1.0
+ABHD3,A0A850ZZE3,Sula dactylatra (Masked booby),birds,unreviewed,0.836,1.0
+ABHD3,A0A7L4HLH3,Scopus umbretta (Hammerkop),birds,unreviewed,0.836,1.0
+ABHD3,A0A852FDQ7,Peucedramus taeniatus (Olive warbler),birds,unreviewed,0.836,1.0
+ABHD3,A0A7K5C1V2,Motacilla alba (White wagtail) (Pied wagtail),birds,unreviewed,0.836,1.0
+ABHD3,A0A850VGS3,Fregata magnificens (Magnificent frigatebird),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K8E721,Leucopsar rothschildi (Bali myna) (Rothschild's mynah),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K5XVB4,Dromas ardeola,birds,unreviewed,0.836,1.0
+ABHD3,A0A851SXI9,Nothocercus nigrocapillus,birds,unreviewed,0.829,1.0
+ABHD3,A0A7L2YZM9,Jacana jacana (Wattled jacana) (Parra jacana),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K6Z027,Alca torda (Razorbill),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K7EWN8,Chionis minor (Black-faced sheathbill),birds,unreviewed,0.832,1.0
+ABHD3,A0A7L3YF80,Fregetta grallaria (White-bellied storm-petrel) (Procellaria grallaria),birds,unreviewed,0.832,1.0
+ABHD3,A0A7L2FM04,Quiscalus mexicanus (Great-tailed grackle) (Cassidix mexicanus),birds,unreviewed,0.836,1.0
+ABHD3,A0A7K5ATL3,Furnarius figulus,birds,unreviewed,0.832,1.0
+ABHD3,A0A7L0AT24,Ciconia maguari,birds,unreviewed,0.832,1.0
+ABHD3,A0A7L0P2Z3,Mesembrinibis cayennensis,birds,unreviewed,0.842,1.0
+ABHD3,A0A7K9FZM5,Stercorarius parasiticus (Parasitic jaeger) (Arctic skua),birds,unreviewed,0.836,1.0
+ABHD3,A0A7K5RHR2,Lanius ludovicianus (Loggerhead shrike),birds,unreviewed,0.829,1.0
+ABHD3,A0A7L1QWJ4,Cisticola juncidis,birds,unreviewed,0.829,1.0
+ABHD3,A0A803XS99,Meleagris gallopavo (Wild turkey),birds,unreviewed,0.819,1.0
+ABHD3,A0A7K9WUW1,Rhipidura dahli,birds,unreviewed,0.829,1.0
+ABHD3,A0A7L0IFE4,Piprites chloris (Wing-barred manakin),birds,unreviewed,0.829,1.0
+ABHD3,A0A7K7UV51,Eudromia elegans (Elegant crested-tinamou),birds,unreviewed,0.822,1.0
+ABHD3,A0A7K9VJY4,Anseranas semipalmata (Magpie goose) (Anas semipalmata),birds,unreviewed,0.822,1.0
+ABHD3,A0A7L3KGI0,Drymodes brunneopygia,birds,unreviewed,0.829,1.0
+ABHD3,A0A7L2HZS7,Sagittarius serpentarius (Secretary bird),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K6S3A8,Rhynochetos jubatus (kagu),birds,unreviewed,0.832,1.0
+ABHD3,A0A7K9XNW7,Psophia crepitans (common trumpeter),birds,unreviewed,0.829,1.0
+ABHD3,A0A7K9S5F3,Sterrhoptilus dennistouni,birds,unreviewed,0.829,1.0
+ABHD3,A0A7K5E021,Polioptila caerulea (Blue-grey gnatcatcher),birds,unreviewed,0.822,1.0
+ABHD3,A0A851S3T1,Certhia familiaris (Eurasian treecreeper),birds,unreviewed,0.819,1.0
+ABHD3,A0A850TFZ7,Grus americana (Whooping crane),birds,unreviewed,0.829,1.0
+ABHD3,A0A7K9TNQ5,Chloroceryle aenea (American pygmy kingfisher),birds,unreviewed,0.822,1.0
+ABHD3,A0A4W4FA56,Electrophorus electricus (Electric eel) (Gymnotus electricus),ray-finned fish,unreviewed,0.706,0.997
+ABHD3,A0A7K5GGS4,Chunga burmeisteri (Black-legged seriema),birds,unreviewed,0.822,1.0
+ABHD3,A0A7L3EFJ6,Chaetops frenatus (Rufous rock-jumper),birds,unreviewed,0.822,1.0
+ABHD3,A0A7L1VRF6,Sitta europaea (Eurasian nuthatch),birds,unreviewed,0.819,1.0
+ABHD3,A0A8C6XBC8,Naja naja (Indian cobra),lepidosaurs,unreviewed,0.747,1.0
+ABHD3,A0A7K8UVE6,Ciccaba nigrolineata,birds,unreviewed,0.839,1.0
+ABHD3,A0A7K4X639,Regulus satrapa (Golden-crowned kinglet),birds,unreviewed,0.819,1.0
+ABHD3,A0A7L0K7V4,Chauna torquata (Southern screamer),birds,unreviewed,0.822,1.0
+ABHD3,A0A2I0MW25,Columba livia (Rock dove),birds,unreviewed,0.812,1.0
+ABHD3,A0A7L1GQM1,Indicator maculatus (spotted honeyguide),birds,unreviewed,0.822,1.0
+ABHD3,A0A670Y9Q7,Pseudonaja textilis (Eastern brown snake),lepidosaurs,unreviewed,0.743,1.0
+ABHD3,A0A7K9EKH4,Baryphthengus martii (Rufous motmot),birds,unreviewed,0.819,1.0
+ABHD3,A0A7L0WWY2,Alectura lathami (Australian brush turkey),birds,unreviewed,0.816,1.0
+ABHD3,A0A852MXL9,Pteruthius melanotis,birds,unreviewed,0.789,0.921
+ABHD3,A0AAV9S5G2,Crenichthys baileyi (White River springfish),ray-finned fish,unreviewed,0.703,0.997
+ABHD3,A0A672GW80,Salarias fasciatus (Jewelled blenny) (Blennius fasciatus),ray-finned fish,unreviewed,0.706,0.997
+ABHD3,A0A6P7K500,Parambassis ranga (Indian glassy fish),ray-finned fish,unreviewed,0.703,0.997
+ABHD3,A0ABU7A0W8,Ataeniobius toweri,ray-finned fish,unreviewed,0.703,0.997
+ABHD3,A0A4W3K3G5,Callorhinchus milii (Ghost shark),cartilaginous fish,unreviewed,0.707,1.0
+ABHD3,A0A6P3VWR4,Clupea harengus (Atlantic herring),ray-finned fish,unreviewed,0.701,1.0
+ABHD3,A0ABV0ZJF6,Ameca splendens,ray-finned fish,unreviewed,0.703,0.997
+ABHD3,A0A6P9D1C3,Pantherophis guttatus (Corn snake) (Elaphe guttata),lepidosaurs,unreviewed,0.743,1.0
+ABHD3,A0A668TRL0,Oreochromis aureus (Israeli tilapia) (Chromis aureus),ray-finned fish,unreviewed,0.7,0.997
+ABHD3,A0AA47N083,Merluccius polli (Benguela hake) (Merluccius cadenati),ray-finned fish,unreviewed,0.7,0.997
+ABHD3,A0A7L4CU46,Eurystomus gularis,birds,unreviewed,0.822,1.0
+ABHD3,A0A669E4D7,Oreochromis niloticus (Nile tilapia) (Tilapia nilotica),ray-finned fish,unreviewed,0.7,0.997
+ABHD3,A0A3B5BGG1,Stegastes partitus (bicolor damselfish),ray-finned fish,unreviewed,0.703,0.997
+ABHD3,A0A667ZN99,Myripristis murdjan (pinecone soldierfish),ray-finned fish,unreviewed,0.696,0.997
+ABHD3,A0A3Q1HFU4,Anabas testudineus (Climbing perch) (Anthias testudineus),ray-finned fish,unreviewed,0.696,0.997
+ABHD3,A0A7K4RTJ8,Columbina picui (Picui ground-dove),birds,unreviewed,0.816,1.0
+ABHD3,A0A3P8Q269,Astatotilapia calliptera (Eastern river bream) (Chromis callipterus),ray-finned fish,unreviewed,0.696,0.997
+ABHD3,A0ABU7E8X7,Characodon lateralis,ray-finned fish,unreviewed,0.696,0.997
+ABHD3,A0A671XZI6,Sparus aurata (Gilthead sea bream),ray-finned fish,unreviewed,0.7,0.997
+ABHD3,A0A4W6C515,Lates calcarifer (Barramundi) (Holocentrus calcarifer),ray-finned fish,unreviewed,0.7,0.997
+ABHD3,A0ACF8E993,Arapaima gigas (Giant arapaima) (Sudis gigas),ray-finned fish,unreviewed,0.696,0.997
+ABHD3,A0A665UVH7,Echeneis naucrates (Live sharksucker),ray-finned fish,unreviewed,0.703,0.997
+ABHD3,A0A3Q1AST1,Amphiprion ocellaris (Clown anemonefish),ray-finned fish,unreviewed,0.7,0.997
+ABHD3,A0A9Y3RQE3,Pundamilia nyererei,ray-finned fish,unreviewed,0.693,0.997
+ABHD3,H2U7K7,Takifugu rubripes (Japanese pufferfish) (Fugu rubripes),ray-finned fish,unreviewed,0.693,0.997
+ABHD3,A0AAY4C2P0,Denticeps clupeoides (denticle herring),ray-finned fish,unreviewed,0.686,0.997
+ABHD3,A0A8P4K434,Dicentrarchus labrax (European seabass) (Morone labrax),ray-finned fish,unreviewed,0.696,0.997
+ABHD3,A0A674E3H2,Salmo trutta (Brown trout),ray-finned fish,unreviewed,0.683,0.997
+ABHD3,A0A8C6LK54,Nothobranchius furzeri (Turquoise killifish),ray-finned fish,unreviewed,0.693,0.997
+ABHD3,A0A3P8Z8C8,Esox lucius (Northern pike),ray-finned fish,unreviewed,0.693,0.997
+ABHD3,W5UEN1,Ictalurus punctatus (Channel catfish) (Silurus punctatus),ray-finned fish,unreviewed,0.691,1.0
+ABHD3,A0A673A2Q0,Sphaeramia orbicularis (orbiculate cardinalfish),ray-finned fish,unreviewed,0.693,0.997
+ABHD3,A0A8C4ZEX2,Gadus morhua (Atlantic cod),ray-finned fish,unreviewed,0.69,0.997
+ABHD3,A0A2I4CXW6,Austrofundulus limnaeus (Annual killifish),ray-finned fish,unreviewed,0.693,0.997
+ABHD3,A0A8C9SKV5,Scleropages formosus (Asian bonytongue) (Osteoglossum formosum),ray-finned fish,unreviewed,0.693,0.997
+ABHD3,A0ACB8FDG9,Sphaerodactylus townsendi,lepidosaurs,unreviewed,0.753,1.0
+ABHD3,A0A8J7TF80,Atractosteus spatula (Alligator gar) (Lepisosteus spatula),ray-finned fish,unreviewed,0.677,0.997
+ABHD3,A0A8C8JH09,Oncorhynchus tshawytscha (Chinook salmon) (Salmo tshawytscha),ray-finned fish,unreviewed,0.683,0.997
+ABHD3,A0A8C7I3H8,Oncorhynchus kisutch (Coho salmon) (Salmo kisutch),ray-finned fish,unreviewed,0.683,0.997
+ABHD3,A0A6J2VHX5,Chanos chanos (Milkfish) (Mugil chanos),ray-finned fish,unreviewed,0.683,0.997
+ABHD3,A0A6P8VJL0,Gymnodraco acuticeps (Antarctic dragonfish),ray-finned fish,unreviewed,0.696,0.997
+ABHD3,A0A3B3HVG4,Oryzias latipes (Japanese rice fish) (Japanese killifish),ray-finned fish,unreviewed,0.686,0.997
+ABHD3,A0A6P7L4D1,Betta splendens (Siamese fighting fish),ray-finned fish,unreviewed,0.69,0.997
+ABHD3,A0A8C3TL36,Catharus ustulatus (Russet-backed thrush) (Hylocichla ustulatus),birds,unreviewed,0.774,0.888
+ABHD3,A0A7M4FB97,Crocodylus porosus (Saltwater crocodile) (Estuarine crocodile),crocodilians,unreviewed,0.793,1.0
+ABHD3,A0A8C9Z8N5,Sander lucioperca (Pike-perch) (Perca lucioperca),ray-finned fish,unreviewed,0.69,0.997
+ABHD3,A0A8C7URF3,Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri),ray-finned fish,unreviewed,0.683,0.997
+ABHD3,A0A6I9MHK1,Notothenia coriiceps (black rockcod),ray-finned fish,unreviewed,0.696,0.997
+ABHD3,A0A3B4D2F7,Pygocentrus nattereri (Red-bellied piranha),ray-finned fish,unreviewed,0.703,0.997
+ABHD3,A0A8M1N237,Danio rerio (Zebrafish) (Brachydanio rerio),ray-finned fish,unreviewed,0.681,1.0
+ABHD3,A0A7L3HMI5,Buphagus erythrorhynchus (red-billed oxpecker),birds,unreviewed,0.805,0.993
+ABHD3,A0A672T157,Sinocyclocheilus grahami (Dianchi golden-line fish) (Barbus grahami),ray-finned fish,unreviewed,0.674,1.0
+ABHD3,A0A851LU94,Corythaeola cristata (Great blue turaco),birds,unreviewed,0.712,0.97
+ABHD3,A0A8C4RV89,Erpetoichthys calabaricus (Rope fish) (Calamoichthys calabaricus),ray-finned fish,unreviewed,0.724,0.895
+ABHD3,A0ACB7FJQ6,Nibea albiflora (Yellow drum) (Corvina albiflora),ray-finned fish,unreviewed,0.67,0.997
+ABHD3,A0A8C5SIP0,Laticauda laticaudata (Blue-ringed sea krait) (Blue-lipped sea krait),lepidosaurs,unreviewed,0.748,0.99
+ABHD3,A0A7L1JQ54,Rynchops niger (Black skimmer),birds,unreviewed,0.825,0.829
+ABHD3,A0A7L3Q0F7,Xiphorhynchus elegans (elegant woodcreeper),birds,unreviewed,0.824,0.974
+ABHD3,A0A8J4T5I6,Clarias magur (Asian catfish) (Macropteronotus magur),ray-finned fish,unreviewed,0.694,0.829
+ABHD3,A0A4Z2HS01,Liparis tanakae (Tanaka's snailfish),ray-finned fish,unreviewed,0.684,0.822
+ABHD3,A0A3Q0DHZ6,Carlito syrichta (Philippine tarsier) (Tarsius syrichta),mammals,unreviewed,0.929,0.783
+ABHD3,A0A7L2SAV8,Mystacornis crossleyi,birds,unreviewed,0.824,0.898
+ABHD3,A0AC54Z6C5,Orycteropus afer afer,mammals,unreviewed,0.873,0.826
+ABHD3,A0A6J2RKD5,Cottoperca gobio (Frogmouth) (Aphritis gobio),ray-finned fish,unreviewed,0.702,0.97
+ABHD3,A0A8C5HL36,Gouania willdenowi (Blunt-snouted clingfish) (Lepadogaster willdenowi),ray-finned fish,unreviewed,0.568,0.99
+ABHD3,A0A852GJM2,Larus smithsonianus (American herring gull),birds,unreviewed,0.816,0.734
+ABHD3,A0A7L2XF35,Erpornis zantholeuca,birds,unreviewed,0.812,0.734
+ABHD3,A0A7L3WBG1,Atlantisia rogersi (Inaccessible Island rail),birds,unreviewed,0.819,0.727
+ABHD3,A0A7K8X771,Eubucco bourcierii (red-headed barbet),birds,unreviewed,0.805,0.727
+ABHD3,A0ABM1KYJ6,Gekko japonicus (Schlegel's Japanese gecko),lepidosaurs,unreviewed,0.787,0.711
+ABHD3,A0A9F2RFQ5,Python bivittatus (Burmese python) (Python molurus bivittatus),lepidosaurs,unreviewed,0.573,0.878
+ABHD2,A0A8C5UQT6,Microcebus murinus (Gray mouse lemur) (Lemur murinus),mammals,unreviewed,1.0,1.0
+ABHD2,A0A6I9HX50,Vicugna pacos (Alpaca) (Lama pacos),mammals,unreviewed,0.997,1.0
+ABHD2,A0A2K6QIG8,Rhinopithecus roxellana (Golden snub-nosed monkey) (Pygathrix roxellana),mammals,unreviewed,1.0,1.0
+ABHD2,H9FP76,Macaca mulatta (Rhesus macaque),mammals,unreviewed,1.0,1.0
+ABHD2,A0A8D2EPG9,Theropithecus gelada (Gelada baboon),mammals,unreviewed,1.0,1.0
+ABHD2,K7B1B1,Pan troglodytes (Chimpanzee),mammals,unreviewed,1.0,1.0
+ABHD2,A0A8C9LH64,Piliocolobus tephrosceles (Ugandan red Colobus),mammals,unreviewed,1.0,1.0
+ABHD2,Q4R2Y9,Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey),mammals,reviewed,1.0,1.0
+ABHD2,A0A8B6YP10,Camelus ferus (Wild bactrian camel) (Camelus bactrianus ferus),mammals,unreviewed,0.993,1.0
+ABHD2,A0A9W3EQ50,Camelus bactrianus (Bactrian camel),mammals,unreviewed,0.993,1.0
+ABHD2,A0A8I3WHG8,Callithrix jacchus (White-tufted-ear marmoset) (Simia Jacchus),mammals,unreviewed,0.997,1.0
+ABHD2,A0A8D2AYU2,Sciurus vulgaris (Eurasian red squirrel),mammals,unreviewed,1.0,1.0
+ABHD2,A0A2I2Y224,Gorilla gorilla gorilla (Western lowland gorilla),mammals,unreviewed,1.0,1.0
+ABHD2,A0A8C9DGC5,Prolemur simus (Greater bamboo lemur) (Hapalemur simus),mammals,unreviewed,0.993,1.0
+ABHD2,A0A2J8VX11,Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii),mammals,unreviewed,1.0,1.0
+ABHD2,A0A2Y9GBH3,Neomonachus schauinslandi (Hawaiian monk seal) (Monachus schauinslandi),mammals,unreviewed,0.993,1.0
+ABHD2,A0A673TH30,Suricata suricatta (Meerkat),mammals,unreviewed,0.993,1.0
+ABHD2,A0A9V1G5Q0,Panthera pardus (Leopard) (Felis pardus),mammals,unreviewed,0.993,1.0
+ABHD2,A0A2K5QG96,Cebus imitator (Panamanian white-faced capuchin) (Cebus capucinus imitator),mammals,unreviewed,1.0,1.0
+ABHD2,A0A6J3GPK0,Sapajus apella (Brown-capped capuchin) (Cebus apella),mammals,unreviewed,1.0,1.0
+ABHD2,A0A8C8XJE3,Panthera leo (Lion),mammals,unreviewed,0.993,1.0
+ABHD2,A0A384BTT3,Ursus maritimus (Polar bear) (Thalarctos maritimus),mammals,unreviewed,0.993,1.0
+ABHD2,A0ABI7XJK8,Felis catus (Cat) (Felis silvestris catus),mammals,unreviewed,0.993,1.0
+ABHD2,A0A6G1AKF5,Crocuta crocuta (Spotted hyena),mammals,unreviewed,0.99,1.0
+ABHD2,A0A4X1U5A9,Sus scrofa (Pig),mammals,unreviewed,0.993,1.0
+ABHD2,A0A2Y9FDZ2,Physeter macrocephalus (Sperm whale) (Physeter catodon),mammals,unreviewed,0.997,1.0
+ABHD2,A0A8C6B8H5,Monodon monoceros (Narwhal) (Ceratodon monodon),mammals,unreviewed,0.997,1.0
+ABHD2,A0A8B8WJR8,Balaenoptera musculus (Blue whale),mammals,unreviewed,0.997,1.0
+ABHD2,A0A2U4C7K9,Tursiops truncatus (Atlantic bottle-nosed dolphin) (Delphinus truncatus),mammals,unreviewed,0.997,1.0
+ABHD2,A0A341D589,Neophocaena asiaeorientalis asiaeorientalis (Yangtze finless porpoise) (Neophocaena phocaenoides subsp. asiaeorientalis),mammals,unreviewed,0.997,1.0
+ABHD2,A0A384B4C3,Balaenoptera acutorostrata (Common minke whale) (Balaena rostrata),mammals,unreviewed,0.997,1.0
+ABHD2,A0A1U7USG6,Carlito syrichta (Philippine tarsier) (Tarsius syrichta),mammals,unreviewed,0.997,1.0
+ABHD2,A0A8C9B594,Phocoena sinus (Vaquita),mammals,unreviewed,0.997,1.0
+ABHD2,D4A7W1,Rattus norvegicus (Rat),mammals,unreviewed,0.993,1.0
+ABHD2,M3YWI0,Mustela putorius furo (European domestic ferret) (Mustela furo),mammals,unreviewed,0.993,1.0
+ABHD2,A0A8C7BLC8,Neogale vison (American mink) (Mustela vison),mammals,unreviewed,0.993,1.0
+ABHD2,D2HCD9,Ailuropoda melanoleuca (Giant panda),mammals,unreviewed,0.99,1.0
+ABHD2,A0A3Q7SAI5,Vulpes vulpes (Red fox),mammals,unreviewed,0.993,1.0
+ABHD2,A0A8I3MLA4,Canis lupus familiaris (Dog) (Canis familiaris),mammals,unreviewed,0.993,1.0
+ABHD2,A0A6P5Q5I6,Mus caroli (Ryukyu mouse) (Ricefield mouse),mammals,unreviewed,0.993,1.0
+ABHD2,Q9QXM0,Mus musculus (Mouse),mammals,reviewed,0.993,1.0
+ABHD2,A0A8C0L230,Canis lupus dingo (dingo),mammals,unreviewed,0.993,1.0
+ABHD2,A0A1S2ZBH2,Erinaceus europaeus (Western European hedgehog),mammals,unreviewed,0.98,1.0
+ABHD2,A0A6J2B4H7,Zalophus californianus (California sealion),mammals,unreviewed,0.99,1.0
+ABHD2,A0A2U3VSY1,Odobenus rosmarus divergens (Pacific walrus),mammals,unreviewed,0.99,1.0
+ABHD2,A0A6J2A284,Acinonyx jubatus (Cheetah),mammals,unreviewed,0.99,1.0
+ABHD2,A0A6J0YTG1,Odocoileus virginianus (White-tailed deer),mammals,unreviewed,1.0,1.0
+ABHD2,A0ACM7FXV4,Callorhinus ursinus (Northern fur seal),mammals,unreviewed,0.99,1.0
+ABHD2,A0ABM0L2S7,Microtus ochrogaster (Prairie vole),mammals,unreviewed,0.993,1.0
+ABHD2,A0A340YDR6,Lipotes vexillifer (Yangtze river dolphin),mammals,unreviewed,0.993,1.0
+ABHD2,G3IAQ4,Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus),mammals,unreviewed,0.99,1.0
+ABHD2,A0A8C3WHY1,Catagonus wagneri (Chacoan peccary),mammals,unreviewed,0.993,1.0
+ABHD2,A0A2Y9MDA7,Delphinapterus leucas (Beluga whale),mammals,unreviewed,0.993,1.0
+ABHD2,A0A1U8C7K6,Mesocricetus auratus (Golden hamster),mammals,unreviewed,0.99,1.0
+ABHD2,H0WXS8,Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby),mammals,unreviewed,0.99,1.0
+ABHD2,A0A8C6G1Y6,Moschus moschiferus (Siberian musk deer) (Moschus sibiricus),mammals,unreviewed,0.997,1.0
+ABHD2,I3M6S3,Ictidomys tridecemlineatus (Thirteen-lined ground squirrel) (Spermophilus tridecemlineatus),mammals,unreviewed,0.99,1.0
+ABHD2,A0A8C6EXR7,Marmota marmota marmota (Alpine marmot),mammals,unreviewed,0.99,1.0
+ABHD2,A0A8C6QVF6,Nannospalax galili (Northern Israeli blind subterranean mole rat) (Spalax galili),mammals,unreviewed,0.993,1.0
+ABHD2,A0A6I9KSV3,Peromyscus maniculatus bairdii (Prairie deer mouse),mammals,unreviewed,0.986,1.0
+ABHD2,A0A8B9WGV1,Bos grunniens (Wild yak) (Bos mutus grunniens),mammals,unreviewed,0.997,1.0
+ABHD2,A0A6P5DM05,Bos indicus (Zebu),mammals,unreviewed,0.997,1.0
+ABHD2,A0A671EGV0,Rhinolophus ferrumequinum (Greater horseshoe bat),mammals,unreviewed,0.986,1.0
+ABHD2,Q5EA42,Bos taurus (Bovine),mammals,reviewed,0.997,1.0
+ABHD2,A0A4W2C9Q7,Bos indicus x Bos taurus (Hybrid cattle),mammals,unreviewed,0.997,1.0
+ABHD2,A0A6P3H7N6,Bison bison bison (North American plains bison),mammals,unreviewed,0.997,1.0
+ABHD2,A0ACI6NV25,Ovis aries (Sheep),mammals,unreviewed,0.997,1.0
+ABHD2,A0A452FNQ5,Capra hircus (Goat),mammals,unreviewed,0.997,1.0
+ABHD2,A0ABM0Q997,Galeopterus variegatus (Malayan flying lemur) (Cynocephalus variegatus),mammals,unreviewed,0.99,1.0
+ABHD2,A0A8C2VXD4,Chinchilla lanigera (Long-tailed chinchilla) (Chinchilla villidera),mammals,unreviewed,0.993,1.0
+ABHD2,A0A286XFL8,Cavia porcellus (Guinea pig),mammals,unreviewed,0.993,1.0
+ABHD2,A0A6P3EGF1,Octodon degus (Degu) (Sciurus degus),mammals,unreviewed,0.99,1.0
+ABHD2,A0A3Q2I6P0,Equus caballus (Horse),mammals,unreviewed,0.983,1.0
+ABHD2,A0ABM2F1H0,Equus przewalskii (Przewalski's horse) (Equus caballus przewalskii),mammals,unreviewed,0.983,1.0
+ABHD2,A0A8D2KKV2,Urocitellus parryii (Arctic ground squirrel) (Spermophilus parryii),mammals,unreviewed,0.99,1.0
+ABHD2,G1T5K7,Oryctolagus cuniculus (Rabbit),mammals,unreviewed,0.983,1.0
+ABHD2,G5CA88,Heterocephalus glaber (Naked mole rat),mammals,unreviewed,0.98,1.0
+ABHD2,A0A6P3RC85,Pteropus vampyrus (Large flying fox),mammals,unreviewed,0.983,1.0
+ABHD2,A0A8C4MH24,Equus asinus (Donkey) (Equus africanus asinus),mammals,unreviewed,0.983,1.0
+ABHD2,A0AC58LKZ8,Castor canadensis (American beaver),mammals,unreviewed,0.976,1.0
+ABHD2,A0A6J2KY47,Phyllostomus discolor (pale spear-nosed bat),mammals,unreviewed,0.976,1.0
+ABHD2,G3TGP3,Loxodonta africana (African elephant),mammals,unreviewed,0.963,1.0
+ABHD2,A0A8B7A8J4,Orycteropus afer afer,mammals,unreviewed,0.973,1.0
+ABHD2,A0A9B0TN53,Chrysochloris asiatica (Cape golden mole),mammals,unreviewed,0.976,1.0
+ABHD2,A0A4X2KCC0,Vombatus ursinus (Common wombat),mammals,unreviewed,0.966,1.0
+ABHD2,A0A2Y9QJR9,Trichechus manatus latirostris (Florida manatee),mammals,unreviewed,0.966,1.0
+ABHD2,A0A6P5IE88,Phascolarctos cinereus (Koala),mammals,unreviewed,0.963,1.0
+ABHD2,G1RL89,Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys),mammals,unreviewed,1.0,1.0
+ABHD2,G3WT24,Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius),mammals,unreviewed,0.963,1.0
+ABHD2,A0ABM0IX95,Echinops telfairi (Lesser hedgehog tenrec),mammals,unreviewed,0.963,1.0
+ABHD2,A0A5F8HIA4,Monodelphis domestica (Gray short-tailed opossum),mammals,unreviewed,0.956,1.0
+ABHD2,A0A667FZT2,Lynx canadensis (Canada lynx) (Felis canadensis),mammals,unreviewed,0.993,1.0
+ABHD2,F6Z8L9,Ornithorhynchus anatinus (Duckbill platypus),mammals,unreviewed,0.946,1.0
+ABHD2,A0A7M4FG51,Crocodylus porosus (Saltwater crocodile) (Estuarine crocodile),crocodilians,unreviewed,0.918,1.0
+ABHD2,A0A8C5NZM9,Jaculus jaculus (Lesser Egyptian jerboa),mammals,unreviewed,0.964,0.949
+ABHD2,A0A1U7S316,Alligator sinensis (Chinese alligator),crocodilians,unreviewed,0.915,1.0
+ABHD2,A0A151M982,Alligator mississippiensis (American alligator),crocodilians,unreviewed,0.915,1.0
+ABHD2,G1N922,Meleagris gallopavo (Wild turkey),birds,unreviewed,0.915,1.0
+ABHD2,A0ABM4F8V7,Apteryx mantelli (North Island brown kiwi),birds,unreviewed,0.912,1.0
+ABHD2,U3ITY8,Anas platyrhynchos platyrhynchos (Northern mallard),birds,unreviewed,0.918,1.0
+ABHD2,A0A8C4JG98,Dromaius novaehollandiae (Emu),birds,unreviewed,0.908,1.0
+ABHD2,A0A6P6HGP1,Puma concolor (Mountain lion) (Felis concolor),mammals,unreviewed,0.99,1.0
+ABHD2,A0A6J3DIB2,Aythya fuligula (Tufted duck) (Anas fuligula),birds,unreviewed,0.915,1.0
+ABHD2,A0A7L0D0D9,Rostratula benghalensis (greater painted-snipe),birds,unreviewed,0.908,1.0
+ABHD2,A0ACS7D2S2,Chlamydotis macqueenii (Macqueen's bustard),birds,unreviewed,0.915,1.0
+ABHD2,A0A7L0G8G1,Herpetotheres cachinnans (Laughing falcon) (Falco cachinnans),birds,unreviewed,0.908,1.0
+ABHD2,F1P1V6,Gallus gallus (Chicken),birds,unreviewed,0.908,1.0
+ABHD2,A0A851LQ66,Corythaeola cristata (Great blue turaco),birds,unreviewed,0.912,1.0
+ABHD2,A0A674KB84,Terrapene triunguis (Three-toed box turtle),turtles,unreviewed,0.905,1.0
+ABHD2,A0A669PH83,Phasianus colchicus (Common pheasant),birds,unreviewed,0.912,1.0
+ABHD2,A0A663N646,Athene cunicularia (Burrowing owl) (Speotyto cunicularia),birds,unreviewed,0.908,1.0
+ABHD2,A0A7L0AV50,Ciconia maguari,birds,unreviewed,0.908,1.0
+ABHD2,A0A7L4NCZ9,Ceyx cyanopectus (Indigo-banded kingfisher),birds,unreviewed,0.908,1.0
+ABHD2,A0A7L1XEK3,Thinocorus orbignyianus,birds,unreviewed,0.905,1.0
+ABHD2,A0A8B9CY58,Anser brachyrhynchus (Pink-footed goose),birds,unreviewed,0.908,1.0
+ABHD2,A0A8B9DYD9,Anser cygnoides (Swan goose),birds,unreviewed,0.908,1.0
+ABHD2,A0A8C2UD44,Coturnix japonica (Japanese quail) (Coturnix coturnix japonica),birds,unreviewed,0.908,1.0
+ABHD2,A0A7L2H9G8,Sagittarius serpentarius (Secretary bird),birds,unreviewed,0.908,1.0
+ABHD2,A0A8C4W2T6,Gopherus evgoodei (Goodes thornscrub tortoise),turtles,unreviewed,0.905,1.0
+ABHD2,A0A8C3HWT9,Chrysemys picta bellii (Western painted turtle) (Emys bellii),turtles,unreviewed,0.901,1.0
+ABHD2,A0A7K7TQD9,Ibidorhyncha struthersii,birds,unreviewed,0.908,1.0
+ABHD2,A0A663E9E1,Aquila chrysaetos chrysaetos,birds,unreviewed,0.912,1.0
+ABHD2,A0A851Y8P3,Halcyon senegalensis,birds,unreviewed,0.905,1.0
+ABHD2,A0A7L0EYV9,Corythaixoides concolor (Grey go-away-bird),birds,unreviewed,0.908,1.0
+ABHD2,A0A7L0KF72,Chauna torquata (Southern screamer),birds,unreviewed,0.901,1.0
+ABHD2,A0A8C0G5Z8,Chelonoidis abingdonii (Abingdon island giant tortoise) (Testudo abingdonii),turtles,unreviewed,0.901,1.0
+ABHD2,A0ACS7FQW2,Spheniscus humboldti (Humboldt penguin),birds,unreviewed,0.912,1.0
+ABHD2,A0A7K4TJR0,Burhinus bistriatus,birds,unreviewed,0.912,1.0
+ABHD2,A0A7K9MM56,Oceanodroma tethys (Wedge-rumped storm-petrel) (Hydrobates tethys),birds,unreviewed,0.912,1.0
+ABHD2,A0A7L1J2C3,Smutsornis africanus (Double-banded courser) (Rhinoptilus africanus),birds,unreviewed,0.905,1.0
+ABHD2,A0A1V4JEK4,Patagioenas fasciata monilis,birds,unreviewed,0.908,1.0
+ABHD2,A0A7K6Y867,Alca torda (Razorbill),birds,unreviewed,0.905,1.0
+ABHD2,A0A7L2G0W4,Nyctibius grandis (Great potoo),birds,unreviewed,0.901,1.0
+ABHD2,A0A7K5XQ13,Dromas ardeola,birds,unreviewed,0.908,1.0
+ABHD2,A0A7L1LER0,Himantopus himantopus (Black-winged stilt) (Charadrius himantopus),birds,unreviewed,0.905,1.0
+ABHD2,A0A7L1SF58,Aramus guarauna (Limpkin) (Scolopax guarauna),birds,unreviewed,0.908,1.0
+ABHD2,A0A8T1SNB5,Chelydra serpentina (Snapping turtle) (Testudo serpentina),turtles,unreviewed,0.895,1.0
+ABHD2,A0A7L2AGN7,Heliornis fulica (sungrebe),birds,unreviewed,0.901,1.0
+ABHD2,A0AA97KJQ1,Eublepharis macularius (Leopard gecko) (Cyrtodactylus macularius),lepidosaurs,unreviewed,0.891,1.0
+ABHD2,A0A7K6W9P4,Steatornis caripensis (Oilbird),birds,unreviewed,0.901,1.0
+ABHD2,A0A7L1CZD1,Serilophus lunatus (silver-breasted broadbill),birds,unreviewed,0.905,1.0
+ABHD2,A0ABM1L5Z9,Gekko japonicus (Schlegel's Japanese gecko),lepidosaurs,unreviewed,0.891,1.0
+ABHD2,A0A8C0UNS1,Cyanistes caeruleus (Eurasian blue tit) (Parus caeruleus),birds,unreviewed,0.898,1.0
+ABHD2,A0A851FA12,Pitta sordida (Hooded pitta),birds,unreviewed,0.901,1.0
+ABHD2,A0A8C6ZQ21,Nothoprocta perdicaria (Chilean tinamou) (Crypturus perdicarius),birds,unreviewed,0.905,1.0
+ABHD2,A0A7L0NCQ1,Formicarius rufipectus,birds,unreviewed,0.898,1.0
+ABHD2,A0A8C3EE40,Corvus moneduloides (New Caledonian crow),birds,unreviewed,0.905,1.0
+ABHD2,A0A672UD72,Strigops habroptila (Kakapo),birds,unreviewed,0.905,1.0
+ABHD2,A0A7K7SNR3,Sapayoa aenigma (broad-billed sapayoa),birds,unreviewed,0.898,1.0
+ABHD2,A0ACS7IR33,Aegotheles albertisi,birds,unreviewed,0.901,0.997
+ABHD2,A0A6J0GEC8,Lepidothrix coronata (blue-crowned manakin),birds,unreviewed,0.895,1.0
+ABHD2,A0A6J2ILP9,Pipra filicauda (Wire-tailed manakin),birds,unreviewed,0.895,1.0
+ABHD2,A0A8C3UDA8,Catharus ustulatus (Russet-backed thrush) (Hylocichla ustulatus),birds,unreviewed,0.901,1.0
+ABHD2,A0A7L1DW70,Oenanthe oenanthe (Northern wheatear),birds,unreviewed,0.898,1.0
+ABHD2,A0A7K5JXD7,Mionectes macconnelli (McConnell's flycatcher),birds,unreviewed,0.895,1.0
+ABHD2,A0A8D2M2Z1,Zonotrichia albicollis (White-throated sparrow) (Fringilla albicollis),birds,unreviewed,0.884,1.0
+ABHD2,A0A7L0WZU0,Tyrannus savana (Fork-tailed flycatcher) (Muscivora tyrannus),birds,unreviewed,0.888,1.0
+ABHD2,A0A8C3MSN2,Geospiza parvula (Small tree-finch) (Camarhynchus parvulus),birds,unreviewed,0.884,1.0
+ABHD2,A0ABQ9CUE7,Willisornis vidua (Xingu scale-backed antbird),birds,unreviewed,0.901,1.0
+ABHD2,H0ZD64,Taeniopygia guttata (Zebra finch) (Poephila guttata),birds,unreviewed,0.888,1.0
+ABHD2,A0A218V9B2,Lonchura striata (white-rumped munia),birds,unreviewed,0.884,1.0
+ABHD2,A0A8C9MSJ1,Serinus canaria (Island canary) (Fringilla canaria),birds,unreviewed,0.881,1.0
+ABHD2,A0A6J0SR48,Pogona vitticeps (central bearded dragon),lepidosaurs,unreviewed,0.891,1.0
+ABHD2,H9G465,Anolis carolinensis (Green anole) (American chameleon),lepidosaurs,unreviewed,0.881,1.0
+ABHD2,A0A8D2LUU9,Varanus komodoensis (Komodo dragon),lepidosaurs,unreviewed,0.864,1.0
+ABHD2,A0A851V6L7,Copsychus sechellarum,birds,unreviewed,0.888,1.0
+ABHD2,A0A670K5Z1,Podarcis muralis (Wall lizard) (Lacerta muralis),lepidosaurs,unreviewed,0.857,1.0
+ABHD2,A0A9F3QTT0,Python bivittatus (Burmese python) (Python molurus bivittatus),lepidosaurs,unreviewed,0.861,1.0
+ABHD2,A0ACS7JKX7,Liasis olivaceus (Olive python) (Morelia olivacea),lepidosaurs,unreviewed,0.864,1.0
+ABHD2,A0A6P7WWN4,Microcaecilia unicolor,amphibians,unreviewed,0.844,1.0
+ABHD2,A0A6J1V319,Notechis scutatus (mainland tiger snake),lepidosaurs,unreviewed,0.85,1.0
+ABHD2,A0A670YG14,Pseudonaja textilis (Eastern brown snake),lepidosaurs,unreviewed,0.85,1.0
+ABHD2,A0A8C6X6N0,Naja naja (Indian cobra),lepidosaurs,unreviewed,0.844,1.0
+ABHD2,A0A6P8NKL0,Geotrypetes seraphini (Gaboon caecilian) (Caecilia seraphini),amphibians,unreviewed,0.833,1.0
+ABHD2,A0A7K7RVE6,Nesospiza acunhae,birds,unreviewed,0.878,1.0
+ABHD2,A0A6I9XTC8,Thamnophis sirtalis,lepidosaurs,unreviewed,0.837,1.0
+ABHD2,A0A7L2VRM4,Brachypteracias leptosomus (short-legged ground-roller),birds,unreviewed,0.905,1.0
+ABHD2,A0ABM3ZQZ6,Pantherophis guttatus (Corn snake) (Elaphe guttata),lepidosaurs,unreviewed,0.83,1.0
+ABHD2,A0ABQ9VE73,Saguinus oedipus (Cotton-top tamarin) (Oedipomidas oedipus),mammals,unreviewed,0.997,1.0
+ABHD2,A0A8J1MMY1,Xenopus laevis (African clawed frog),amphibians,unreviewed,0.84,1.0
+ABHD2,B4F6T5,Xenopus tropicalis (Western clawed frog) (Silurana tropicalis),amphibians,unreviewed,0.827,1.0
+ABHD2,A0A7L2ZSX5,Prunella fulvescens (Brown accentor),birds,unreviewed,0.891,1.0
+ABHD2,A0A8B7QPR4,Hipposideros armiger (Great Himalayan leaf-nosed bat),mammals,unreviewed,0.925,0.912
+ABHD2,A0A1S3EV81,Dipodomys ordii (Ord's kangaroo rat),mammals,unreviewed,0.983,1.0
+ABHD2,G1Q645,Myotis lucifugus (Little brown bat),mammals,unreviewed,0.825,0.99
+ABHD2,A0A8C5MJ14,Leptobrachium leishanense (Leishan spiny toad),amphibians,unreviewed,0.816,1.0
+ABHD2,A0A8C9VFZ4,Scleropages formosus (Asian bonytongue) (Osteoglossum formosum),ray-finned fish,unreviewed,0.808,0.99
+ABHD2,A0A8C4ANF2,Denticeps clupeoides (denticle herring),ray-finned fish,unreviewed,0.797,0.986
+ABHD2,A0AAQ5Y4V8,Amphiprion ocellaris (Clown anemonefish),ray-finned fish,unreviewed,0.801,0.99
+ABHD2,A0AC58FY14,Danio rerio (Zebrafish) (Brachydanio rerio),ray-finned fish,unreviewed,0.797,0.986
+ABHD2,A0A4W6BMX3,Lates calcarifer (Barramundi) (Holocentrus calcarifer),ray-finned fish,unreviewed,0.801,0.99
+ABHD2,A0A668T3C9,Oreochromis aureus (Israeli tilapia) (Chromis aureus),ray-finned fish,unreviewed,0.801,0.99
+ABHD2,A0A7N5ZSM0,Anabas testudineus (Climbing perch) (Anthias testudineus),ray-finned fish,unreviewed,0.786,0.986
+ABHD2,A0AAX7TG69,Astatotilapia calliptera (Eastern river bream) (Chromis callipterus),ray-finned fish,unreviewed,0.801,0.99
+ABHD2,A0A8C5B0H8,Gadus morhua (Atlantic cod),ray-finned fish,unreviewed,0.797,0.99
+ABHD2,A0A6Q2XY08,Esox lucius (Northern pike),ray-finned fish,unreviewed,0.79,0.986
+ABHD2,A0A7L3Y3L2,Calonectris borealis (Cory's shearwater),birds,unreviewed,0.908,1.0
+ABHD2,A0A852GV22,Larus smithsonianus (American herring gull),birds,unreviewed,0.908,1.0
+ABHD2,A0A7K8ULD0,Oceanites oceanicus (Wilson's storm petrel) (Procellaria oceanica),birds,unreviewed,0.908,1.0
+ABHD2,A0A7L3AYX7,Syrrhaptes paradoxus (Pallas's sandgrouse),birds,unreviewed,0.901,1.0
+ABHD2,A0A7L2WRE7,Pandion haliaetus (Osprey) (Falco haliaetus),birds,unreviewed,0.905,1.0
+ABHD2,A0A7L3LBB4,Turnix velox (Little buttonquail),birds,unreviewed,0.901,1.0
+ABHD2,A0A7L3EEA4,Chaetops frenatus (Rufous rock-jumper),birds,unreviewed,0.898,1.0
+ABHD2,A0A7L2E8T7,Anthoscopus minutus (Southern penduline-tit),birds,unreviewed,0.895,1.0
+ABHD2,A0A7L2SWU5,Pomatostomus ruficeps (Chestnut-crowned babbler),birds,unreviewed,0.901,1.0
+ABHD2,A0A7L2XUB9,Erpornis zantholeuca,birds,unreviewed,0.898,1.0
+ABHD2,A0A852HZE5,Nicator chloris,birds,unreviewed,0.901,1.0
+ABHD2,A0AAZ3STC7,Oncorhynchus tshawytscha (Chinook salmon) (Salmo tshawytscha),ray-finned fish,unreviewed,0.779,0.986
+ABHD2,A0A674CLV7,Salmo trutta (Brown trout),ray-finned fish,unreviewed,0.779,0.986
+ABHD2,A0A8C7TAX2,Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri),ray-finned fish,unreviewed,0.779,0.986
+ABHD2,A0A8C7JAS6,Oncorhynchus kisutch (Coho salmon) (Salmo kisutch),ray-finned fish,unreviewed,0.779,0.986
+ABHD2,A0A852AUN2,Chloropsis cyanopogon,birds,unreviewed,0.891,1.0
+ABHD2,A0ACB8E6A2,Sphaerodactylus townsendi,lepidosaurs,unreviewed,0.874,1.0
+ABHD2,A0A667Z8E1,Myripristis murdjan (pinecone soldierfish),ray-finned fish,unreviewed,0.759,0.99
+ABHD2,V8NTT8,Ophiophagus hannah (King cobra) (Naja hannah),lepidosaurs,unreviewed,0.847,0.888
+ABHD2,A0A8C4DI06,Dicentrarchus labrax (European seabass) (Morone labrax),ray-finned fish,unreviewed,0.725,0.99
+ABHD2,I3KEX1,Oreochromis niloticus (Nile tilapia) (Tilapia nilotica),ray-finned fish,unreviewed,0.729,0.99
+ABHD2,A0A3Q2WKM6,Haplochromis burtoni (Burton's mouthbrooder) (Chromis burtoni),ray-finned fish,unreviewed,0.725,0.99
+ABHD2,A0A3Q4HHU8,Neolamprologus brichardi (Fairy cichlid) (Lamprologus brichardi),ray-finned fish,unreviewed,0.725,0.99
+ABHD2,A0A671Y084,Sparus aurata (Gilthead sea bream),ray-finned fish,unreviewed,0.729,0.99
+ABHD2,A0A3Q1EX80,Acanthochromis polyacanthus (spiny chromis),ray-finned fish,unreviewed,0.735,0.99
+ABHD2,A0A7N8Y2A4,Mastacembelus armatus (zig-zag eel),ray-finned fish,unreviewed,0.729,0.99
+ABHD2,A0AAQ4P7F0,Gasterosteus aculeatus aculeatus (three-spined stickleback),ray-finned fish,unreviewed,0.718,0.99
+ABHD2,A0A3Q2ZZU0,Kryptolebias marmoratus (Mangrove killifish) (Rivulus marmoratus),ray-finned fish,unreviewed,0.711,0.99
+ABHD2,A0A2I0MD33,Columba livia (Rock dove),birds,unreviewed,0.901,1.0
+ABHD2,A0A8C7XA29,Oryzias sinensis (Chinese medaka),ray-finned fish,unreviewed,0.701,0.99
+ABHD2,A0A3Q2CPZ3,Cyprinodon variegatus (Sheepshead minnow),ray-finned fish,unreviewed,0.729,0.99
+ABHD2,A0A3B5PP47,Xiphophorus maculatus (Southern platyfish) (Platypoecilus maculatus),ray-finned fish,unreviewed,0.732,0.99
+ABHD2,A0A3B3BCB8,Oryzias melastigma (Marine medaka),ray-finned fish,unreviewed,0.698,0.99
+ABHD2,A0A7L3GXG5,Buphagus erythrorhynchus (red-billed oxpecker),birds,unreviewed,0.904,0.922
+ABHD2,A0A8N5EGU1,Geospiza fortis (Medium ground-finch),birds,unreviewed,0.884,1.0
+ABHD2,A0AAJ7U4T7,Petromyzon marinus (Sea lamprey),jawless fish,unreviewed,0.694,1.0
+ABHD2,A0A3Q3EEK8,Labrus bergylta (ballan wrasse),ray-finned fish,unreviewed,0.701,0.99
+ABHD2,H2UT54,Takifugu rubripes (Japanese pufferfish) (Fugu rubripes),ray-finned fish,unreviewed,0.707,0.986
+ABHD2,A0A8C6NVE3,Nothobranchius furzeri (Turquoise killifish),ray-finned fish,unreviewed,0.725,0.966
+ABHD2,A0A3B5KZ27,Xiphophorus couchianus (Monterrey platyfish),ray-finned fish,unreviewed,0.732,0.99
+ABHD2,A0AAV0AAQ9,Phodopus roborovskii (Roborovski's desert hamster) (Cricetulus roborovskii),mammals,unreviewed,0.987,0.81
+ABHD2,H3CYG3,Tetraodon nigroviridis (Spotted green pufferfish) (Chelonodon nigroviridis),ray-finned fish,unreviewed,0.686,0.986
+ABHD2,A0A7L2IYU4,Semnornis frantzii,birds,unreviewed,0.9,0.881
+ABHD2,A0A7K6M641,Panurus biarmicus (Bearded tit),birds,unreviewed,0.898,0.701
+ABHD1,H2QHL5,Pan troglodytes (Chimpanzee),mammals,unreviewed,0.981,1.0
+ABHD1,G3QJG7,Gorilla gorilla gorilla (Western lowland gorilla),mammals,unreviewed,0.978,0.996
+ABHD1,F6PQ72,Macaca mulatta (Rhesus macaque),mammals,unreviewed,0.952,1.0
+ABHD1,A0A8C9GJA2,Piliocolobus tephrosceles (Ugandan red Colobus),mammals,unreviewed,0.933,1.0
+ABHD1,A0A2K5QKD7,Cebus imitator (Panamanian white-faced capuchin) (Cebus capucinus imitator),mammals,unreviewed,0.922,1.0
+ABHD1,A0A6J3JSH1,Sapajus apella (Brown-capped capuchin) (Cebus apella),mammals,unreviewed,0.914,1.0
+ABHD1,A0A0D9RB25,Chlorocebus sabaeus (Green monkey) (Simia sabaea),mammals,unreviewed,0.933,1.0
+ABHD1,A0A2K6NXD4,Rhinopithecus roxellana (Golden snub-nosed monkey) (Pygathrix roxellana),mammals,unreviewed,0.937,1.0
+ABHD1,F6X074,Callithrix jacchus (White-tufted-ear marmoset) (Simia Jacchus),mammals,unreviewed,0.911,1.0
+ABHD1,A0A8C8YSU2,Prolemur simus (Greater bamboo lemur) (Hapalemur simus),mammals,unreviewed,0.885,1.0
+ABHD1,A0A8B7I276,Microcebus murinus (Gray mouse lemur) (Lemur murinus),mammals,unreviewed,0.87,1.0
+ABHD1,H0WGK9,Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby),mammals,unreviewed,0.888,1.0
+ABHD1,A0A8D2JM28,Sciurus vulgaris (Eurasian red squirrel),mammals,unreviewed,0.825,1.0
+ABHD1,A0A8B6ZMX6,Orycteropus afer afer,mammals,unreviewed,0.862,1.0
+ABHD1,A0A671F927,Rhinolophus ferrumequinum (Greater horseshoe bat),mammals,unreviewed,0.87,1.0
+ABHD1,Q9QZC8,Mus musculus (Mouse),mammals,reviewed,0.825,1.0
+ABHD1,A0A8B7R111,Hipposideros armiger (Great Himalayan leaf-nosed bat),mammals,unreviewed,0.848,1.0
+ABHD1,A0A6P5PR80,Mus caroli (Ryukyu mouse) (Ricefield mouse),mammals,unreviewed,0.825,1.0
+ABHD1,A0A8D2HAC8,Urocitellus parryii (Arctic ground squirrel) (Spermophilus parryii),mammals,unreviewed,0.814,1.0
+ABHD1,A0A8C6A791,Marmota marmota marmota (Alpine marmot),mammals,unreviewed,0.814,1.0
+ABHD1,Q5RK23,Rattus norvegicus (Rat),mammals,reviewed,0.822,1.0
+ABHD1,A0A1U7Q988,Mesocricetus auratus (Golden hamster),mammals,unreviewed,0.825,1.0
+ABHD1,I3ND38,Ictidomys tridecemlineatus (Thirteen-lined ground squirrel) (Spermophilus tridecemlineatus),mammals,unreviewed,0.818,1.0
+ABHD1,G1QRE9,Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys),mammals,unreviewed,0.943,0.981
+ABHD1,A0A667G729,Lynx canadensis (Canada lynx) (Felis canadensis),mammals,unreviewed,0.859,1.0
+ABHD1,A0A6P6I4Y1,Puma concolor (Mountain lion) (Felis concolor),mammals,unreviewed,0.855,1.0
+ABHD1,A0A8B6YL84,Camelus ferus (Wild bactrian camel) (Camelus bactrianus ferus),mammals,unreviewed,0.844,1.0
+ABHD1,A0A9W3EG42,Camelus bactrianus (Bactrian camel),mammals,unreviewed,0.844,1.0
+ABHD1,A0A6P3Q643,Pteropus vampyrus (Large flying fox),mammals,unreviewed,0.862,1.0
+ABHD1,A0A8C6R346,Nannospalax galili (Northern Israeli blind subterranean mole rat) (Spalax galili),mammals,unreviewed,0.803,1.0
+ABHD1,A0A6I9HXW7,Vicugna pacos (Alpaca) (Lama pacos),mammals,unreviewed,0.848,1.0
+ABHD1,A0A6I9ZFU5,Acinonyx jubatus (Cheetah),mammals,unreviewed,0.851,1.0
+ABHD1,A0ABI7XEB5,Felis catus (Cat) (Felis silvestris catus),mammals,unreviewed,0.855,1.0
+ABHD1,G1SR60,Oryctolagus cuniculus (Rabbit),mammals,unreviewed,0.833,1.0
+ABHD1,A0A6G1AL68,Crocuta crocuta (Spotted hyena),mammals,unreviewed,0.84,1.0
+ABHD1,A0A9V1FLF2,Panthera pardus (Leopard) (Felis pardus),mammals,unreviewed,0.855,1.0
+ABHD1,A0A0N8ETZ3,Heterocephalus glaber (Naked mole rat),mammals,unreviewed,0.796,1.0
+ABHD1,A0A8B7TSE3,Castor canadensis (American beaver),mammals,unreviewed,0.814,1.0
+ABHD1,A0ACI6QR03,Ovis aries (Sheep),mammals,unreviewed,0.832,0.996
+ABHD1,A0ABM0LRL5,Microtus ochrogaster (Prairie vole),mammals,unreviewed,0.781,1.0
+ABHD1,A0A6J0X0W5,Odocoileus virginianus (White-tailed deer),mammals,unreviewed,0.832,0.996
+ABHD1,A0AAU9Z416,Phodopus roborovskii (Roborovski's desert hamster) (Cricetulus roborovskii),mammals,unreviewed,0.807,1.0
+ABHD1,A0A3L7HB79,Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus),mammals,unreviewed,0.807,1.0
+ABHD1,A0A6P5CKU5,Bos indicus (Zebu),mammals,unreviewed,0.832,0.996
+ABHD1,A0A4W2EN36,Bos indicus x Bos taurus (Hybrid cattle),mammals,unreviewed,0.832,0.996
+ABHD1,Q3T0A0,Bos taurus (Bovine),mammals,reviewed,0.832,0.996
+ABHD1,A0A452G9L4,Capra hircus (Goat),mammals,unreviewed,0.828,0.996
+ABHD1,A0A8C6CXL1,Moschus moschiferus (Siberian musk deer) (Moschus sibiricus),mammals,unreviewed,0.832,0.996
+ABHD1,A0A8C4M3N8,Equus asinus (Donkey) (Equus africanus asinus),mammals,unreviewed,0.81,1.0
+ABHD1,A0A6P3EXI0,Octodon degus (Degu) (Sciurus degus),mammals,unreviewed,0.799,1.0
+ABHD1,A0A8B9XED1,Bos grunniens (Wild yak) (Bos mutus grunniens),mammals,unreviewed,0.825,0.996
+ABHD1,A0A8C2VQB9,Chinchilla lanigera (Long-tailed chinchilla) (Chinchilla villidera),mammals,unreviewed,0.784,1.0
+ABHD1,A0A3Q7RC53,Vulpes vulpes (Red fox),mammals,unreviewed,0.84,1.0
+ABHD1,A0A6J2LWP2,Phyllostomus discolor (pale spear-nosed bat),mammals,unreviewed,0.822,1.0
+ABHD1,A0A6P3H655,Bison bison bison (North American plains bison),mammals,unreviewed,0.828,0.996
+ABHD1,A0A6I9MK72,Peromyscus maniculatus bairdii (Prairie deer mouse),mammals,unreviewed,0.796,1.0
+ABHD1,A0A8I3MTT4,Canis lupus familiaris (Dog) (Canis familiaris),mammals,unreviewed,0.84,1.0
+ABHD1,A0A1S3EZ60,Dipodomys ordii (Ord's kangaroo rat),mammals,unreviewed,0.796,1.0
+ABHD1,G1NVH0,Myotis lucifugus (Little brown bat),mammals,unreviewed,0.833,1.0
+ABHD1,A0A384CVM8,Ursus maritimus (Polar bear) (Thalarctos maritimus),mammals,unreviewed,0.818,1.0
+ABHD1,F1SED3,Sus scrofa (Pig),mammals,unreviewed,0.807,1.0
+ABHD1,A0A340YFX5,Lipotes vexillifer (Yangtze river dolphin),mammals,unreviewed,0.799,1.0
+ABHD1,A0A286X989,Cavia porcellus (Guinea pig),mammals,unreviewed,0.777,1.0
+ABHD1,A0A2U3YI23,Leptonychotes weddellii (Weddell seal) (Otaria weddellii),mammals,unreviewed,0.807,1.0
+ABHD1,A0ABM4KII8,Equus przewalskii (Przewalski's horse) (Equus caballus przewalskii),mammals,unreviewed,0.792,0.963
+ABHD1,A0A384AW31,Balaenoptera acutorostrata (Common minke whale) (Balaena rostrata),mammals,unreviewed,0.788,1.0
+ABHD1,A0A8B8Z690,Balaenoptera musculus (Blue whale),mammals,unreviewed,0.799,1.0
+ABHD1,A0A1S3AC23,Erinaceus europaeus (Western European hedgehog),mammals,unreviewed,0.792,1.0
+ABHD1,G3WG86,Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius),mammals,unreviewed,0.792,1.0
+ABHD1,A0A8C0LKW6,Canis lupus dingo (dingo),mammals,unreviewed,0.814,0.978
+ABHD1,A0A9B0WJI8,Chrysochloris asiatica (Cape golden mole),mammals,unreviewed,0.796,1.0
+ABHD1,A0A2Y9HTZ6,Neomonachus schauinslandi (Hawaiian monk seal) (Monachus schauinslandi),mammals,unreviewed,0.803,1.0
+ABHD1,F7B5Q4,Monodelphis domestica (Gray short-tailed opossum),mammals,unreviewed,0.766,1.0
+ABHD1,A0A6J3PXG9,Tursiops truncatus (Atlantic bottle-nosed dolphin) (Delphinus truncatus),mammals,unreviewed,0.769,0.996
+ABHD1,A0A7F8KDM5,Delphinapterus leucas (Beluga whale),mammals,unreviewed,0.776,0.978
+ABHD1,A0A4X2LT73,Vombatus ursinus (Common wombat),mammals,unreviewed,0.77,1.0
+ABHD1,A0A9B0G9B4,Odobenus rosmarus divergens (Pacific walrus),mammals,unreviewed,0.777,1.0
+ABHD1,A0A341CZQ4,Neophocaena asiaeorientalis asiaeorientalis (Yangtze finless porpoise) (Neophocaena phocaenoides subsp. asiaeorientalis),mammals,unreviewed,0.777,1.0
+ABHD1,A0A6J2F842,Zalophus californianus (California sealion),mammals,unreviewed,0.773,1.0
+ABHD1,A0A455BV39,Physeter macrocephalus (Sperm whale) (Physeter catodon),mammals,unreviewed,0.792,1.0
+ABHD1,G1L501,Ailuropoda melanoleuca (Giant panda),mammals,unreviewed,0.823,0.944
+ABHD1,A0ACM7H7K7,Callorhinus ursinus (Northern fur seal),mammals,unreviewed,0.773,1.0
+ABHD1,A0ABM0RNN7,Galeopterus variegatus (Malayan flying lemur) (Cynocephalus variegatus),mammals,unreviewed,0.746,0.996
+ABHD1,A0ABQ9U571,Saguinus oedipus (Cotton-top tamarin) (Oedipomidas oedipus),mammals,unreviewed,0.866,0.833
+ABHD1,A0A2Y9R3Z3,Trichechus manatus latirostris (Florida manatee),mammals,unreviewed,0.781,1.0
+ABHD1,F6SFM7,Equus caballus (Horse),mammals,unreviewed,0.829,0.784
+ABHD1,A0A452QRC9,Ursus americanus (American black bear) (Euarctos americanus),mammals,unreviewed,0.771,0.892
+ABHD1,A0A6P5K3Z2,Phascolarctos cinereus (Koala),mammals,unreviewed,0.776,0.881
+ABHD1,A0A673UEV1,Suricata suricatta (Meerkat),mammals,unreviewed,0.712,0.877
+ABHD1,A0ABM4EDF0,Apteryx mantelli (North Island brown kiwi),birds,unreviewed,0.673,1.0
+ABHD1,A0A670YTI4,Pseudonaja textilis (Eastern brown snake),lepidosaurs,unreviewed,0.687,0.996
+ABHD1,A0A9F2QWF9,Python bivittatus (Burmese python) (Python molurus bivittatus),lepidosaurs,unreviewed,0.677,1.0
+ABHD1,A0A8C6VM68,Naja naja (Indian cobra),lepidosaurs,unreviewed,0.687,0.996
+ABHD1,A0A6J1UHM6,Notechis scutatus (mainland tiger snake),lepidosaurs,unreviewed,0.683,0.996
+ABHD1,A0A6P9C0J5,Pantherophis guttatus (Corn snake) (Elaphe guttata),lepidosaurs,unreviewed,0.679,0.996
+ABHD1,A0ACS7LSD9,Liasis olivaceus (Olive python) (Morelia olivacea),lepidosaurs,unreviewed,0.673,1.0
+ABHD1,A0A6I9XPX2,Thamnophis sirtalis,lepidosaurs,unreviewed,0.675,0.996
+ABHD1,A0AC55DED1,Echinops telfairi (Lesser hedgehog tenrec),mammals,unreviewed,0.753,0.829
+ABHD1,A0ACS7GUQ6,Spheniscus humboldti (Humboldt penguin),birds,unreviewed,0.642,0.996
+ABHD1,A0A8D2J8Q2,Varanus komodoensis (Komodo dragon),lepidosaurs,unreviewed,0.636,1.0
+ABHD1,A0A6J3CTD4,Aythya fuligula (Tufted duck) (Anas fuligula),birds,unreviewed,0.644,0.981
+ABHD1,A0A8U0RTB1,Mustela putorius furo (European domestic ferret) (Mustela furo),mammals,unreviewed,0.732,0.944
+ABHD1,A0A669Q5A6,Phasianus colchicus (Common pheasant),birds,unreviewed,0.643,0.978
+ABHD1,A0A8V0Y4T1,Gallus gallus (Chicken),birds,unreviewed,0.637,0.974
+ABHD1,A0A7L2VIL4,Brachypteracias leptosomus (short-legged ground-roller),birds,unreviewed,0.64,0.981
+ABHD1,A0A7K7MWJ3,Haliaeetus albicilla (White-tailed sea-eagle) (Falco albicilla),birds,unreviewed,0.616,0.996
+ABHD1,A0A7L3BNR6,Pelecanoides urinatrix (Common diving petrel) (Procellaria urinatrix),birds,unreviewed,0.617,1.0
+ABHD1,A0A7L3XJ51,Calonectris borealis (Cory's shearwater),birds,unreviewed,0.606,1.0
+ABHD1,A0A7L4AIJ0,Circaetus pectoralis (black-chested snake-eagle),birds,unreviewed,0.616,0.996
+ABHD1,A0A7K9CKI4,Psilopogon haemacephalus (coppersmith barbet),birds,unreviewed,0.634,0.974
+ABHD1,A0A7K4Y4C1,Bucorvus abyssinicus (Northern ground-hornbill) (Abyssinian ground-hornbill),birds,unreviewed,0.642,0.944
+ABHD1,A0A8K0FLX9,Eudyptes filholi (Southern rockhopper penguin),birds,unreviewed,0.628,0.989
+ABHD1,A0A7L0G2M9,Corythaixoides concolor (Grey go-away-bird),birds,unreviewed,0.603,0.993
+ABHD1,A0A8C4W201,Gopherus evgoodei (Goodes thornscrub tortoise),turtles,unreviewed,0.639,1.0
+ABHD1,A0A852KIY1,Urocolius indicus (Red-faced mousebird) (Colius indicus),birds,unreviewed,0.594,0.989
+ABHD1,A0A151MCD6,Alligator mississippiensis (American alligator),crocodilians,unreviewed,0.532,0.993
+ABHD1,A0A803YHX1,Meleagris gallopavo (Wild turkey),birds,unreviewed,0.654,0.978
+ABHD1,A0A7K8NY84,Casuarius casuarius (Southern cassowary) (Struthio casuarius),birds,unreviewed,0.669,1.0
+ABHD1,A0A3Q0HD53,Alligator sinensis (Chinese alligator),crocodilians,unreviewed,0.517,0.993
+ABHD1,A0A851M427,Corythaeola cristata (Great blue turaco),birds,unreviewed,0.612,0.996
+ABHD1,A0A7K9EX03,Baryphthengus martii (Rufous motmot),birds,unreviewed,0.598,0.989

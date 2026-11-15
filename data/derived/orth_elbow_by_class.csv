@@ -1,0 +1,43 @@
+gene,taxon_class,n,human_residue,residues
+ABHD15,amphibians,5,G,G:5
+ABHD15,birds,235,G,G:233;-:2
+ABHD15,crocodilians,3,G,S:3
+ABHD15,lepidosaurs,5,G,G:5
+ABHD15,mammals,94,G,G:92;S:2
+ABHD15,ray-finned fish,16,G,G:12;S:3;-:1
+ABHD15,turtles,5,G,G:4;-:1
+ABHD5,amphibians,5,N,N:5
+ABHD5,birds,282,N,N:282
+ABHD5,crocodilians,3,N,N:3
+ABHD5,lepidosaurs,13,N,N:13
+ABHD5,mammals,95,N,N:95
+ABHD5,ray-finned fish,31,N,N:31
+ABHD5,turtles,5,N,N:5
+ABHD4,amphibians,4,S,S:4
+ABHD4,crocodilians,2,S,S:2
+ABHD4,lepidosaurs,11,S,S:11
+ABHD4,mammals,99,S,S:99
+ABHD4,ray-finned fish,48,S,S:48
+ABHD4,turtles,1,S,S:1
+ABHD3,amphibians,5,S,S:5
+ABHD3,birds,260,S,S:259;-:1
+ABHD3,cartilaginous fish,1,S,S:1
+ABHD3,crocodilians,3,S,S:3
+ABHD3,lepidosaurs,11,S,S:10;-:1
+ABHD3,lobe-finned fish,1,S,S:1
+ABHD3,mammals,90,S,S:89;-:1
+ABHD3,ray-finned fish,54,S,S:53;-:1
+ABHD3,turtles,4,S,S:4
+ABHD2,amphibians,5,S,S:5
+ABHD2,birds,78,S,S:78
+ABHD2,crocodilians,3,S,S:3
+ABHD2,jawless fish,1,S,S:1
+ABHD2,lepidosaurs,15,S,S:14;-:1
+ABHD2,mammals,100,S,S:100
+ABHD2,ray-finned fish,33,S,S:33
+ABHD2,turtles,5,S,S:5
+ABHD1,birds,19,S,S:19
+ABHD1,crocodilians,2,S,S:2
+ABHD1,lepidosaurs,8,S,S:8
+ABHD1,mammals,91,S,S:88;X:1;-:1;P:1
+ABHD1,turtles,1,S,S:1

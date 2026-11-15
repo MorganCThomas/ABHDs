@@ -1,0 +1,12 @@
+<section id="q2m1" class="light">
+<p class="tag pin m">Q2 · METHOD</p>
+<h2>A backbone-angle rule for the nucleophile elbow</h2>
+<div class="body"><div class="cards">
+<div class="card"><p class="k">1 Rule</p><p>φ 30–90°, ψ −170 to −80°; strand before, helix after; confidence ≥ 70</p></div>
+<div class="card"><p class="k">2 Residue</p><p>Ser, Cys, Thr or Asp at the turn is the nucleophile call</p></div>
+<div class="card"><p class="k">3 Benchmark</p><p>31 UniProt nucleophiles, a sequence-motif baseline, 36 threshold settings, experimental structures</p></div>
+</div></div>
+<p class="src">Source: scripts/10_catalytic_sites.py; src/abhd/catalytic.py</p>
+<p class="pg"></p>
+<aside>The thresholds were set from known nucleophiles (ABHD2, ABHD14B, LPL, MGLL), which is why the benchmark result is training recall. The rule uses the nucleophile Cα angles on the AlphaFold model; the residue type is applied afterwards.</aside>
+</section>

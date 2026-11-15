@@ -1,0 +1,12 @@
+,value
+n_genes,110.0
+n_with_gold_nucleophile,31.0
+elbow_primary_match,31.0
+elbow_any_match,31.0
+regex_match,26.0
+elbow_calls_per_gene_median,2.0
+regex_hits_per_gene_median,3.0
+n_no_elbow,0.0
+triad_with_call_and_gold,28.0
+triad_matches_gold,24.0
+his_matches_gold,28.0

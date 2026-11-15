@@ -1,0 +1,17 @@
+space,nn_identity_bin,n,accuracy
+tmalign,0.00-0.25,13,0.385
+tmalign,0.25-0.30,5,1.0
+tmalign,0.30-0.40,10,0.9
+tmalign,0.40-1.00,52,0.923
+seqid,0.00-0.25,8,0.375
+seqid,0.25-0.30,8,0.875
+seqid,0.30-0.40,12,0.833
+seqid,0.40-1.00,52,0.923
+funfam,0.00-0.25,7,0.429
+funfam,0.25-0.30,11,0.636
+funfam,0.30-0.40,11,1.0
+funfam,0.40-1.00,48,0.917
+anchor_elbow,0.00-0.25,10,0.5
+anchor_elbow,0.25-0.30,10,0.8
+anchor_elbow,0.30-0.40,10,1.0
+anchor_elbow,0.40-1.00,50,0.92

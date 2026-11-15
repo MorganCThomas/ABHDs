@@ -1,0 +1,13 @@
+<section id="q4m1" class="light">
+<p class="tag pin m">Q4 · METHOD</p>
+<h2>Compare every protein with every other in several ways</h2>
+<div class="body"><div class="cards">
+<div class="card"><p class="k">Structure</p><p>TM-align on trimmed domains, with two length normalisations</p></div>
+<div class="card"><p class="k">Sequence</p><p>Local alignment score; FunFam HMM-to-HMM scores</p></div>
+<div class="card"><p class="k">Local and learned</p><p>Site descriptor (SOAP), triad RMSD, protein-language-model embeddings</p></div>
+</div>
+<p class="note"><b>Test:</b> is each ABHD gene’s nearest neighbour ABHD-named? Chance is 17%.</p></div>
+<p class="src">Source: scripts/12_global_comparison.py; 13_abhd_label_analysis.py</p>
+<p class="pg"></p>
+<aside>ABHD-named means the gene symbol starts with ABHD (20 genes). Permutation tests shuffle the label across genes. Sequence distance is a Smith-Waterman local alignment score.</aside>
+</section>

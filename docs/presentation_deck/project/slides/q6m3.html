@@ -1,0 +1,12 @@
+<section id="q6m3" class="light">
+<p class="tag pin m">Q6 · METHOD</p>
+<h2>Test whether the pocket shell differs</h2>
+<div class="body"><div class="cards">
+<div class="card"><p class="k">1 Superpose</p><p>TM-align; a residue is diverged if displaced more than 3 Å or unaligned</p></div>
+<div class="card"><p class="k">2 Shell</p><p>Residues within 6 Å of the reference active-site cavity</p></div>
+<div class="card"><p class="k">3 Test</p><p>Fisher test, plus a circular-shift test that keeps residue runs; active–active pairs as baseline</p></div>
+</div></div>
+<p class="src">Source: scripts/19_inactive_vs_active.py (A3, A5)</p>
+<p class="pg"></p>
+<aside>Residues in a segment are not independent, so the plain Fisher test overstates significance; the circular-shift test slides the divergence mask along the chain 2,000 times. Both reference directions are reported.</aside>
+</section>

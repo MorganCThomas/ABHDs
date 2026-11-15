@@ -1,0 +1,13 @@
+gene,organism,taxon_class,accession,residue,next,identity
+ABHD15,Erinaceus europaeus (Western European hedgehog),mammals,A0A1S2ZJY1,S,S,0.946
+ABHD15,Phodopus roborovskii (Roborovski's desert hamster) (Cricetulus roborovskii),mammals,A0AAU9Z280,S,S,0.928
+ABHD15,Atractosteus spatula (Alligator gar) (Lepisosteus spatula),ray-finned fish,A0A8J7TG92,S,T,0.609
+ABHD15,Arapaima gigas (Giant arapaima) (Sudis gigas),ray-finned fish,A0ACF8G8U0,S,T,0.602
+ABHD15,Polypterus senegalus (Senegal bichir),ray-finned fish,A0A8X7X095,S,T,0.593
+ABHD15,Alligator mississippiensis (American alligator),crocodilians,A0A151LY27,S,T,0.615
+ABHD15,Crocodylus porosus (Saltwater crocodile) (Estuarine crocodile),crocodilians,A0A7M4FCC0,S,T,0.588
+ABHD15,Alligator sinensis (Chinese alligator),crocodilians,A0A1U7SBZ4,S,T,0.612
+ABHD15,Gopherus evgoodei (Goodes thornscrub tortoise),turtles,A0A8C4VZF7,-,-,0.701
+ABHD15,Columba livia (Rock dove),birds,A0A2I0LNE4,-,-,0.592
+ABHD15,Dromas ardeola,birds,A0A7K5XFQ9,-,-,0.556
+ABHD15,Amphiprion ocellaris (Clown anemonefish),ray-finned fish,A0A3Q1C7Y7,-,-,0.512

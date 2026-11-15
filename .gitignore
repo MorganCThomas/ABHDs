@@ -1,0 +1,11 @@
+.venv/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+data/raw/structures/*.pdb
+data/derived/protbert/
+data/derived/soap.npz
+notebooks/.done/
+data/raw/pdb/
+data/derived/domains/
+data/derived/soap_site.npz
