@@ -9,3 +9,4 @@ notebooks/.done/
 data/raw/pdb/
 data/derived/domains/
 data/derived/soap_site.npz
+.publish_redactions

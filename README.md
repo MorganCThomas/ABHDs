@@ -12,6 +12,8 @@ make            # data -> derived tables -> executed notebooks (only stale steps
 make help       # list targets;  make clean-derived  to rebuild from raw
 ```
 
+**Publishing.** `scripts/publish_public.sh` rebuilds the local `public` branch from `main` for a free public GitHub repo (no raw data, no large files, redactions applied, safety checks); it never pushes: `git push origin public:main`.
+
 **Data.** Raw inputs are not in the public repository; see [`data/README.md`](data/README.md) for how to obtain or regenerate them (UniProt, AlphaFold and PDB are fetched by the scripts; the CATH FunFam inputs must be supplied).
 
 Raw downloads are never re-fetched by `make` (UniProt drifts; see *Gotchas*). Needs [uv](https://docs.astral.sh/uv/).
