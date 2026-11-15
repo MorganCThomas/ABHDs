@@ -12,6 +12,23 @@ make            # data -> derived tables -> executed notebooks (only stale steps
 make help       # list targets;  make clean-derived  to rebuild from raw
 ```
 
+## Protein tools (case studies)
+
+Everything the study computed about one protein, or the relationship between two, in one place (all from the derived tables; nothing is recomputed):
+
+```bash
+uv run python scripts/protein_report.py ABHD2               # HTML report + superposed 3D view -> out/protein_reports/
+uv run python scripts/protein_report.py ABHD2 --orthologues # adds orthologue conservation (fetches UniProt the first time)
+uv run python scripts/protein_report.py --all --no-structure # every gene + summary.csv
+uv run python scripts/protein_compare.py ABHD2 MGLL         # similarity in every view, aligned catalytic and pocket residues
+make report GENE=ABHD2                                      # same as the first line
+```
+
+The report covers identity and domain, catalytic site (elbow, triad, oxyanion donors, cavity, pocket residues), neighbours in five views with identity,
+function and label quality (with the identity tiers found in report 13), position in the family, and a guardrails box. Examples: `docs/examples/`.
+Python: `from abhd.atlas import Atlas` (data access), `abhd.protein_report`, `abhd.compare`, `abhd.orthologs`, `abhd.viewer`. Template notebook:
+`notebooks/templates/protein_report.ipynb`; smoke test: `uv run python tests/smoke.py`. Genes outside the 110-gene universe are not supported yet.
+
 **Publishing.** `scripts/publish_public.sh` rebuilds the local `public` branch from `main` for a free public GitHub repo (no raw data, no large files, redactions applied, safety checks); it never pushes: `git push origin public:main`.
 
 **Data.** Raw inputs are not in the public repository; see [`data/README.md`](data/README.md) for how to obtain or regenerate them (UniProt, AlphaFold and PDB are fetched by the scripts; the CATH FunFam inputs must be supplied).

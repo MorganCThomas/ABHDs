@@ -14,7 +14,7 @@ UNIVERSE  := data/derived/universe.csv
 FFMAP     := data/derived/ff_uniprot_map.json
 NBS       := $(patsubst notebooks/%.ipynb,notebooks/.done/%,$(wildcard notebooks/*.ipynb))
 
-.PHONY: all data derived notebooks env clean-derived help universe study
+.PHONY: all data derived notebooks env clean-derived help universe study report
 all: notebooks                        ## everything: data -> derived tables -> executed notebooks
 help:                                 ## list targets
 	@grep -E '^[a-z-]+:.*##' Makefile | sed 's/:.*##/ -/'
@@ -111,6 +111,9 @@ data/derived/multiview_association.csv: data/derived/core_vs_cath_label_tests.cs
 
 data/derived/nucleophile_measures.csv: data/derived/core_vs_cath_label_tests.csv scripts/29_nucleophile_measures.py
 	$(PY) scripts/29_nucleophile_measures.py
+
+report:                               ## protein report: make report GENE=ABHD2 [ORTH=1] (writes out/protein_reports/)
+	$(PY) scripts/protein_report.py $(GENE) $(if $(ORTH),--orthologues,)
 
 notebooks/.done/%: notebooks/%.ipynb $(PROTBERT) $(ELBOW) $(SUMMARY) $(SOAP) $(FFMAP) $(SRC)
 	@mkdir -p notebooks/.done
