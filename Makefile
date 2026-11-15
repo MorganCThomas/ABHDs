@@ -123,3 +123,6 @@ notebooks/.done/%: notebooks/%.ipynb $(PROTBERT) $(ELBOW) $(SUMMARY) $(SOAP) $(F
 clean-derived:                        ## delete derived tables (keeps raw data and per-protein ProtBert tensors)
 	rm -f $(ELBOW) $(SOAP) $(PROTBERT) data/derived/*_cosine.csv figures/*.html
 	rm -rf notebooks/.done
+
+data/derived/motif_audit_summary.csv: data/derived/catalytic_sites.csv data/derived/followup_a2_catalytic_positions.csv scripts/30_motif_audit.py
+	$(PY) scripts/30_motif_audit.py
