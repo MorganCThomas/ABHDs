@@ -25,7 +25,7 @@ make report GENE=ABHD2                                      # same as the first 
 ```
 
 The report covers identity and domain, catalytic site (elbow, triad, oxyanion donors, cavity, pocket residues), neighbours in five views with identity,
-function and label quality (with the identity tiers found in report 13), position in the family, and a guardrails box. Examples: `docs/examples/`.
+function and label quality (with the identity tiers found in report 13), position in the family, and a guardrails box. Plots are interactive Plotly (hover for details; click a point to open that protein's report; the neighbour table sorts on click); the superposed structures open in an embedded [Mol*](https://molstar.org) viewer built with MolViewSpec. Run `scripts/fetch_molstar.sh` once to keep a pinned local copy of Mol* (5 MB, git-ignored) so reports work offline; otherwise the viewer loads from a CDN. To browse a batch: `python3 -m http.server -d out/protein_reports` (Mol* needs http, not file://). Examples: `docs/examples/`.
 Python: `from abhd.atlas import Atlas` (data access), `abhd.protein_report`, `abhd.compare`, `abhd.orthologs`, `abhd.viewer`. Template notebook:
 `notebooks/templates/protein_report.ipynb`; smoke test: `uv run python tests/smoke.py`. Genes outside the 110-gene universe are not supported yet.
 

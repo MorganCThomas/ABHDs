@@ -39,6 +39,7 @@ def main():
     ap.add_argument("--all", action="store_true", help="every gene in the universe")
     ap.add_argument("--orthologues", action="store_true", help="add the orthologue conservation section (fetches UniProt the first time)")
     ap.add_argument("--no-structure", action="store_true", help="skip the superposed 3D view files")
+    ap.add_argument("--plotly-cdn", action="store_true", help="load plotly.js from a CDN instead of a local plotly.min.js next to the reports")
     ap.add_argument("--k", type=int, default=6, help="neighbours per view in the table (default 6)")
     ap.add_argument("--out", default="out/protein_reports")
     a = ap.parse_args()
@@ -51,9 +52,16 @@ def main():
     if not genes:
         ap.error("give at least one gene, --batch or --all")
     rows = []
+    resolved = set()
     for g in genes:
         try:
-            res = build_report(A, g, a.out, orthologues=a.orthologues, structure=not a.no_structure, k=a.k)
+            resolved.add(A.gene(A.acc(g)))
+        except KeyError:
+            pass
+    known = resolved | {p.stem for p in Path(a.out).glob("*.html") if not p.stem.endswith("_view")}      # reports that exist or are being built: clickable in the plots
+    for g in genes:
+        try:
+            res = build_report(A, g, a.out, orthologues=a.orthologues, structure=not a.no_structure, k=a.k, known_reports=known, plotly_cdn=a.plotly_cdn)
         except KeyError as e:
             print(f"skip: {e.args[0]}", file=sys.stderr); continue
         print(f"{res['gene']}: {res['path']}", flush=True)

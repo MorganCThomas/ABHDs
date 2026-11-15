@@ -25,5 +25,5 @@ assert c["catalytic"].b_aligned_residue.tolist() == ["S122", "H269", "D239"]   #
 assert "ABHD2 vs MGLL" in to_markdown(c)
 with tempfile.TemporaryDirectory() as d:
     r = build_report(A, "SPG21", d, structure=False)
-    assert Path(r["path"]).stat().st_size > 50_000
+    assert Path(r["path"]).stat().st_size > 15_000 and (Path(d) / "plotly.min.js").exists()
 print("smoke test passed")

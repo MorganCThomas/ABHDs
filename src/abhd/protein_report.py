@@ -6,29 +6,27 @@
 Sections: identity, catalytic site, neighbours in several views, function and label quality, position in the family, optional orthologue conservation,
 and an optional superposed 3D view. Every number comes from the study's derived tables; a guardrails box states what the study found about their limits.
 """
-import base64
 import html
-import io
+import json
 from pathlib import Path
 
-import matplotlib
-
-matplotlib.use("Agg")
-import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+import plotly.graph_objects as go
+from plotly.offline import get_plotlyjs, get_plotlyjs_version
 
 from . import config as C
 from .atlas import CORE_VIEWS, IDENTITY_FLOOR, IDENTITY_GOOD, Atlas
 
 INK, ORANGE, BLUE, GREY = "#1B2A41", "#D9731A", "#2F6DA8", "#B8BEC6"
-plt.rcParams.update({"font.family": ["Arial", "Helvetica", "DejaVu Sans"], "axes.spines.top": False, "axes.spines.right": False, "font.size": 12})
+FONT = dict(family="Arial, Helvetica, sans-serif", size=13, color=INK)
+PLOT_CFG = {"displaylogo": False, "responsive": True}
 
 CSS = """body{font-family:Arial,Helvetica,sans-serif;color:#1B2A41;max-width:1100px;margin:24px auto;padding:0 16px;line-height:1.4}
 h1{margin-bottom:0}h2{border-bottom:2px solid #D9731A;padding-bottom:4px;margin-top:34px}.sub{color:#5B6677;margin-top:2px}
 table{border-collapse:collapse;margin:8px 0;font-size:14px}th,td{border-bottom:1px solid #ddd;padding:4px 10px;text-align:left}th{background:#F0F2F5}
 .kv td:first-child{font-weight:bold;color:#5B6677;white-space:nowrap}.box{background:#F0F2F5;border-left:5px solid #D9731A;padding:8px 14px;margin:10px 0}
-.warn{border-left-color:#B03A2E}.good{border-left-color:#2F6DA8}small{color:#5B6677}img{max-width:100%}"""
+.warn{border-left-color:#B03A2E}.good{border-left-color:#2F6DA8}small{color:#5B6677}img{max-width:100%}th.s{cursor:pointer}th.s:hover{background:#e3e7ee}a{color:#2F6DA8}"""
 
 
 def _fmt(x, nd=2):
@@ -45,40 +43,65 @@ def _kv(rows):
     return "<table class=kv>" + "".join(f"<tr><td>{html.escape(str(k))}</td><td>{v}</td></tr>" for k, v in rows) + "</table>"
 
 
-def _png(fig):
-    buf = io.BytesIO(); fig.savefig(buf, format="png", dpi=130, bbox_inches="tight"); plt.close(fig)
-    return f'<img src="data:image/png;base64,{base64.b64encode(buf.getvalue()).decode()}">'
+def _plot(fig, post_script=None):
+    """Plotly figure as an HTML fragment; plotly.js itself is loaded once per page from plotly.min.js next to the report."""
+    return fig.to_html(full_html=False, include_plotlyjs=False, config=PLOT_CFG, post_script=post_script)
+
+
+SORT_JS = """<script>document.querySelectorAll('table.sortable').forEach(t=>{t.querySelectorAll('th').forEach((th,i)=>{th.classList.add('s');th.title='click to sort';
+th.onclick=()=>{const rows=[...t.tBodies[0].rows];const asc=th.dataset.asc!=='1';rows.sort((a,b)=>{const x=a.cells[i].innerText.trim(),y=b.cells[i].innerText.trim();
+const nx=parseFloat(x),ny=parseFloat(y);const e=(v,n)=>v===''||v==='—'||isNaN(n);if(e(x,nx)&&e(y,ny))return 0;if(e(x,nx))return 1;if(e(y,ny))return -1;return (nx-ny)*(asc?1:-1)});
+th.dataset.asc=asc?'1':'0';rows.forEach(r=>t.tBodies[0].appendChild(r));};});});</script>"""
 
 
 # ---------- figures ----------------------------------------------------------------------------------------------------------
-def fig_relations(A, gene):
-    """Every other protein as a point: neighbour identity (x) against structural distance (y); labelled = nearest in structure."""
+def fig_relations(A, gene, known=()):
+    """Every other protein as a point: identity to `gene` (x) against structural distance (y). Hover for details; click opens that protein's report."""
     a = A.acc(gene)
     d = A.dist("structure").loc[a].drop(a).dropna()
-    ident = A.identity_matrix().loc[a, d.index]
-    fam = np.array([A.same_family(a, b) for b in d.index]); abhd = np.array([A.abhd[b] for b in d.index])
-    fig, ax = plt.subplots(figsize=(7.5, 4.6))
-    ax.scatter(ident[~abhd] * 100, d[~abhd], s=28, color=BLUE, alpha=0.75, label="other names", linewidths=0)
-    ax.scatter(ident[abhd] * 100, d[abhd], s=36, color=ORANGE, alpha=0.9, label="ABHD-named", linewidths=0)
-    ax.scatter(ident[fam] * 100, d[fam], s=90, facecolors="none", edgecolors=INK, label="same paralog group / FunFam")
-    ax.axvline(IDENTITY_FLOOR * 100, color=GREY, linestyle="--")
-    for b in d.sort_values().index[:8]:
-        ax.annotate(A.gene(b), (ident[b] * 100, d[b]), xytext=(4, 3), textcoords="offset points", fontsize=9)
-    ax.set_xlabel("sequence identity to " + A.gene(a) + " (%)"); ax.set_ylabel("structural distance (1 − TM-score)")
-    ax.legend(frameon=False, loc="lower center", bbox_to_anchor=(0.5, 1.0), ncol=3, fontsize=10)
-    return _png(fig)
+    ident = A.identity_matrix().loc[a, d.index] * 100
+    rows = []
+    for b in d.index:
+        g = A.gene(b)
+        rows.append(dict(gene=g, x=ident[b], y=d[b], abhd=A.abhd[b], fam=A.same_family(a, b), ec3=", ".join(sorted(A.ec3[b])) or "none",
+                         cat=str(A.cs.loc[b, "category"]) if b in A.cs.index else "—"))
+    T = pd.DataFrame(rows)
+
+    def hover(r):
+        return (f"<b>{r.gene}</b>{'  (ABHD-named)' if r.abhd else ''}<br>identity {r.x:.0f}% · structural distance {r.y:.2f}<br>EC3: {r.ec3}<br>{r.cat}"
+                f"{'<br>same paralog group / FunFam' if r.fam else ''}{'<br><i>click to open its report</i>' if r.gene in known else ''}")
+    fig = go.Figure()
+    fig.add_vrect(x0=0, x1=IDENTITY_FLOOR * 100, fillcolor="#B8BEC6", opacity=0.18, line_width=0, layer="below")
+    fig.add_annotation(x=IDENTITY_FLOOR * 50, y=1.0, yref="paper", text="no better than guessing<br>(EC transfer)", showarrow=False, font=dict(size=11, color="#5B6677"), yanchor="top")
+    for flag, name, col in ((False, "other names", BLUE), (True, "ABHD-named", ORANGE)):
+        S = T[T.abhd == flag]
+        fig.add_trace(go.Scatter(x=S.x, y=S.y, mode="markers", name=name, marker=dict(color=col, size=9, opacity=0.85), customdata=S.gene, hovertext=[hover(r) for r in S.itertuples()], hoverinfo="text"))
+    F = T[T.fam]
+    fig.add_trace(go.Scatter(x=F.x, y=F.y, mode="markers", name="same paralog group / FunFam", marker=dict(size=17, color="rgba(0,0,0,0)", line=dict(color=INK, width=1.5)), hoverinfo="skip", customdata=F.gene))
+    top = T.sort_values("y").head(8)
+    fig.add_trace(go.Scatter(x=top.x, y=top.y, mode="text", text=top.gene, textposition="top right", textfont=dict(size=11), showlegend=False, hoverinfo="skip"))
+    fig.update_layout(font=FONT, height=480, margin=dict(l=60, r=20, t=50, b=50), plot_bgcolor="white", legend=dict(orientation="h", y=1.12, x=0),
+                      xaxis=dict(title=f"sequence identity to {A.gene(a)} (%)", gridcolor="#eee", range=[0, max(60, T.x.max() + 3)]), yaxis=dict(title="structural distance (1 − TM-score)", gridcolor="#eee"))
+    post = ("var el=document.getElementById('{plot_id}');var known=" + json.dumps(sorted(known)) + ";el.on('plotly_click',function(d){var p=d.points[0];"
+            "if(p.customdata&&known.indexOf(p.customdata)>=0){window.location.href=p.customdata+'.html';}});")
+    return _plot(fig, post)
 
 
 def fig_conservation(cons, info):
+    """Conservation across vertebrate orthologues along the domain, catalytic positions marked; hover shows residue and values."""
     p = cons["per_position"]
-    fig, ax = plt.subplots(figsize=(9, 2.8))
-    ax.plot(p.resnum, p.conservation, color=BLUE, linewidth=1.2)
+    fig = go.Figure(go.Scatter(x=p.resnum, y=p.conservation, mode="lines", line=dict(color=BLUE, width=1.5), name="conservation",
+                               hovertext=[f"<b>{r.aa}{r.resnum}</b><br>conserved in {r.conservation:.0%} of {r.n_aligned} orthologues<br>percentile within the domain {r.percentile:.0%}" for r in p.itertuples()], hoverinfo="text"))
     for role, key, col in (("nucleophile position", "elbow_resnum", ORANGE), ("His", "his", INK), ("acid", "acid", "#3C8C6E")):
         v = info.get(key)
-        if v is not None and not (isinstance(v, float) and np.isnan(v)):
-            ax.axvline(float(v), color=col, linestyle="--", linewidth=1.2); ax.text(float(v), 1.03, role, rotation=0, ha="center", fontsize=9, color=col)
-    ax.set_ylim(0, 1.12); ax.set_xlabel("residue number"); ax.set_ylabel("conserved in\northologues")
-    return _png(fig)
+        if v is not None and not (isinstance(v, float) and np.isnan(v)) and int(v) in set(p.resnum):
+            r = p[p.resnum == int(v)].iloc[0]
+            fig.add_vline(x=float(v), line=dict(color=col, dash="dash", width=1))
+            fig.add_trace(go.Scatter(x=[r.resnum], y=[r.conservation], mode="markers+text", text=[f"{r.aa}{r.resnum}"], textposition="top center", marker=dict(size=10, color=col), name=role,
+                                     hovertext=f"<b>{role}: {r.aa}{r.resnum}</b><br>conserved in {r.conservation:.0%}", hoverinfo="text"))
+    fig.update_layout(font=FONT, height=300, margin=dict(l=60, r=20, t=20, b=50), plot_bgcolor="white", xaxis=dict(title="residue number", gridcolor="#eee"),
+                      yaxis=dict(title="conserved in orthologues", range=[0, 1.12], tickformat=".0%", gridcolor="#eee"), legend=dict(orientation="h", y=1.18, x=0))
+    return _plot(fig)
 
 
 # ---------- sections ---------------------------------------------------------------------------------------------------------
@@ -151,13 +174,15 @@ def neighbour_table(A, gene, k=6):
     return T.rename(columns={"abhd": "ABHD-named", "same_family": "same paralog group/FunFam", "identity_pct": "identity %"})
 
 
-def sec_neighbours(A, i, k=6):
+def sec_neighbours(A, i, k=6, known=()):
     g = i["gene"]
     T = neighbour_table(A, g, k=k)
+    Tl = T.copy()
+    Tl["gene"] = [f'<a href="{x}.html">{x}</a>' if x in known else x for x in Tl.gene]
     out = ["<h2>3. Neighbours in several views</h2>",
            "<p>Rank 1 = nearest. Views: structure (TM-align on the trimmed domain), sequence (local alignment), FunFam (HMM-to-HMM), elbow window (31 residues around the nucleophile position, ungapped), "
            "local site (SOAP descriptor at the elbow). Identity is a global alignment on the trimmed domains. The study found that function transfer from a neighbour was no better than guessing "
-           f"below about {IDENTITY_FLOOR:.0%} identity.</p>", _table(T)]
+           f"below about {IDENTITY_FLOOR:.0%} identity.</p>", Tl.to_html(index=False, classes="sortable", border=0, na_rep="—", escape=False)]
     cross = []
     for v in ("structure", "sequence"):
         n = A.neighbours(g, v, k=5, cross_family=True)
@@ -199,7 +224,7 @@ def sec_function(A, i):
     return "".join(out + notes)
 
 
-def sec_position(A, i):
+def sec_position(A, i, known=()):
     g, a = i["gene"], i["accession"]
     out = ["<h2>5. Position in the family</h2>"]
     rows = []
@@ -217,7 +242,8 @@ def sec_position(A, i):
         parts = [f"{v.replace('_', ' ')}: {r[f'nn_{v}']} ({'agrees' if r[f'agree_{v}'] else 'differs'})" for v in ("structure", "sequence", "funfam") if isinstance(r.get(f"nn_{v}"), str)]
         rows.append(("Nearest cross-family neighbour and EC3 agreement", "; ".join(parts)))
     out.append(_kv(rows))
-    out.append(fig_relations(A, g))
+    out.append("<p><small>Hover for details; click a point to open that protein's report (when generated). Shaded: neighbour identity at which EC transfer was no better than guessing.</small></p>")
+    out.append(fig_relations(A, g, known))
     return "".join(out)
 
 
@@ -243,13 +269,20 @@ GUARD = """<h2>Guardrails</h2><div class=box><ul>
 </ul></div>"""
 
 
-def build_report(A, gene, out_dir, orthologues=False, structure=True, k=6):
+def build_report(A, gene, out_dir, orthologues=False, structure=True, k=6, known_reports=None, plotly_cdn=False):
     """Write <out_dir>/<GENE>.html (and, with structure=True, the 3D view files). Returns a dict with paths and key facts."""
     out_dir = Path(out_dir); out_dir.mkdir(parents=True, exist_ok=True)
     i = A.info(gene); g = i["gene"]
-    neigh_html, T = sec_neighbours(A, i, k=k)
+    if plotly_cdn:                                           # single self-contained page (needs internet): plotly.js from jsDelivr
+        plotly_src = f"https://cdn.jsdelivr.net/npm/plotly.js-dist-min@{get_plotlyjs_version()}/plotly.min.js"
+    else:                                                    # shared local copy next to the reports (works offline)
+        plotly_src = "plotly.min.js"
+        (out_dir / "plotly.min.js").exists() or (out_dir / "plotly.min.js").write_text(get_plotlyjs())
+    known = set(known_reports) if known_reports is not None else {p.stem for p in out_dir.glob("*.html") if not p.stem.endswith("_view")}
+    known.add(g)
+    neigh_html, T = sec_neighbours(A, i, k=k, known=known)
     parts = [f"<h1>{g}</h1><p class=sub>{html.escape(i['name'])} · {i['accession']} · generated from the ABHD study tables</p>",
-             sec_identity(A, i), sec_catalytic(A, i), neigh_html, sec_function(A, i), sec_position(A, i)]
+             sec_identity(A, i), sec_catalytic(A, i), neigh_html, sec_function(A, i), sec_position(A, i, known)]
     cons = None
     if orthologues:
         cons = __import__("abhd.orthologs", fromlist=["conservation"]).conservation(A, g)
@@ -259,10 +292,10 @@ def build_report(A, gene, out_dir, orthologues=False, structure=True, k=6):
         try:
             from . import viewer
             vp = viewer.build(A, g, list(T.gene[:3]), out_dir)
-            view_note = f"<h2>{'7' if orthologues else '6'}. 3D view</h2><p><a href='{vp.name}'>{vp.name}</a> (needs internet for 3Dmol.js); PyMOL: <code>{g}_view.pml</code> with the superposed models in <code>{g}_structures/</code>.</p>"
+            view_note = f"<h2>{'7' if orthologues else '6'}. 3D view</h2><p><a href='{vp.name}'>{vp.name}</a> (interactive Mol* viewer: superposed neighbours, catalytic residues, cavity; works offline after <code>scripts/fetch_molstar.sh</code>, otherwise loads Mol* from a CDN); PyMOL: <code>{g}_view.pml</code> with the superposed models in <code>{g}_structures/</code>.</p>"
         except Exception as e:                                    # missing model files must not kill the report
             view_note = f"<h2>3D view</h2><p><i>not generated ({type(e).__name__}: {html.escape(str(e))})</i></p>"
     parts += [view_note, GUARD]
     p = out_dir / f"{g}.html"
-    p.write_text(f"<!doctype html><meta charset=utf-8><title>{g}</title><style>{CSS}</style>" + "".join(parts))
+    p.write_text(f"<!doctype html><meta charset=utf-8><title>{g}</title><style>{CSS}</style><script src=\"{plotly_src}\"></script>" + "".join(parts) + SORT_JS)
     return dict(path=p, gene=g, info=i, neighbours=T, conservation=cons)

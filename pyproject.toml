@@ -20,6 +20,7 @@ dependencies = [
   "ipykernel",
   "nbformat",
   "tmtools>=0.3.0",
+  "molviewspec>=1.8.1",
 ]
 
 [project.optional-dependencies]

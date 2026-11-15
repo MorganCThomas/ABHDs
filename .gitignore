@@ -11,3 +11,4 @@ data/derived/domains/
 data/derived/soap_site.npz
 .publish_redactions
 out/
+data/vendor/

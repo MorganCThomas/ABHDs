@@ -1,14 +1,58 @@
 """Superposed 3D view of a protein and its nearest neighbours: multi-structure files for PyMOL and a self-contained 3Dmol.js page."""
+import base64
 import io
 import json
+import shutil
 from pathlib import Path
 
+import molviewspec as mvs
 import numpy as np
 from Bio.PDB import PDBIO, PDBParser
 from tmtools import tm_align
 
 from . import config as C
 from .structops import load
+
+
+MOLSTAR_VERSION = "5.13.1"
+VENDOR = C.ROOT / "data" / "vendor" / f"molstar-{MOLSTAR_VERSION}"
+CDN = f"https://cdn.jsdelivr.net/npm/molstar@{MOLSTAR_VERSION}/build/viewer"
+
+
+def molstar_assets(out_dir):
+    """Script and stylesheet paths for the viewer: a local copy (copied next to the reports) if scripts/fetch_molstar.sh has been run, else the CDN."""
+    if (VENDOR / "molstar.js").exists():
+        d = Path(out_dir) / "assets" / "molstar"; d.mkdir(parents=True, exist_ok=True)
+        for f in ("molstar.js", "molstar.css"):
+            if not (d / f).exists():
+                shutil.copy(VENDOR / f, d / f)
+        return "assets/molstar/molstar.js", "assets/molstar/molstar.css"
+    return f"{CDN}/molstar.js", f"{CDN}/molstar.css"
+
+
+def mvs_state(atlas, accs, labels, models, cat, pts):
+    """MolViewSpec state: query cartoon blue, neighbours grey; catalytic residues as orange sticks with labels/tooltips; cavity points as spheres."""
+    b = mvs.create_builder()
+    for k, (a, lab, txt) in enumerate(zip(accs, labels, models)):
+        url = "data:chemical/x-pdb;base64," + base64.b64encode(txt.encode()).decode()
+        st = b.download(url=url).parse(format="pdb").model_structure()
+        rep = st.component(selector="polymer").representation(type="cartoon")
+        rep.color(color="#2F6DA8" if k == 0 else "#B8BEC6"); rep.opacity(opacity=1.0 if k == 0 else 0.4)
+        if k == 0:
+            st.component(selector="polymer").tooltip(text=lab)
+        for role, num in cat[a].items():
+            comp = st.component(selector=mvs.ComponentExpression(auth_seq_id=int(num)))
+            comp.representation(type="ball_and_stick", size_factor=1.6 if k == 0 else 1.0).color(color="#D9731A" if k == 0 else "#F2C79B")
+            comp.tooltip(text=f"{lab} {role} {num}")
+            if k == 0:
+                comp.label(text=f"{role} {num}")
+                if role == "nucleophile":
+                    comp.focus(radius_extent=14)
+    if pts:
+        prim = b.primitives(opacity=0.35)
+        for x, y, z in pts:
+            prim.sphere(center=[x, y, z], radius=0.5, color="#D9731A")
+    return b.get_state().dumps()
 
 
 def model_path(acc):
@@ -58,32 +102,29 @@ def build(atlas, gene, neighbour_genes, out_dir):
             pml += [f"show sticks, {n} and resi {sel} and not name N+C+O", f"color {'orange' if a == q else 'wheat'}, {n} and resi {sel} and not name N+C+O"]
     pml += ["zoom", f"# query {g} blue; neighbours grey; catalytic residues (nucleophile, His, acid) as sticks"]
     (out_dir / f"{g}_view.pml").write_text("\n".join(pml) + "\n")
-    # cavity points of the query (old grid cavity, if present)
+    # cavity points of the query (stage-5 grid cavity, if present)
     cav = C.DERIVED / "domains" / f"{q}.cavity.npy"
     pts = np.load(cav).round(2).tolist() if cav.exists() else []
     if len(pts) > 400:
         pts = [pts[i] for i in np.linspace(0, len(pts) - 1, 400).astype(int)]
     labels = [atlas.gene(a) for a in accs]
-    html = f"""<!doctype html><meta charset=utf-8><title>{g} and neighbours</title>
-<style>body{{font-family:Arial,Helvetica,sans-serif;margin:16px}}#v{{width:100%;height:620px;position:relative;border:1px solid #ccc}}label{{margin-right:14px}}</style>
-<h3>{g} (blue) with its nearest structural neighbours superposed (grey); catalytic residues as sticks</h3>
-<p>{' '.join(f'<label><input type=checkbox checked data-i={i}> {labels[i]}</label>' for i in range(len(labels)))} <label><input type=checkbox id=cav checked> cavity points</label></p>
-<div id=v></div>
-<script src="https://3Dmol.org/build/3Dmol-min.js"></script>
+    state = mvs_state(atlas, accs, labels, models, cat, pts)
+    js, css = molstar_assets(out_dir)
+    legend = " ".join(f"<span style='color:{'#2F6DA8' if i == 0 else '#5B6677'}'><b>{labels[i]}</b></span>" for i in range(len(labels)))
+    html = f"""<!doctype html><meta charset=utf-8><title>{g} and neighbours (Mol*)</title>
+<link rel="stylesheet" href="{css}">
+<style>body{{font-family:Arial,Helvetica,sans-serif;margin:16px;color:#1B2A41}}#app{{width:100%;height:660px;position:relative;border:1px solid #ccc}}</style>
+<h3>{g} (blue) with its nearest structural neighbours superposed (grey); catalytic residues as sticks (orange)</h3>
+<p>Models: {legend}. {'Orange translucent spheres: the stage-5 grid cavity (a descriptor, not a binding-site calculation). ' if pts else ''}Hover residues for details; use the Mol* panel (top right) to toggle structures.</p>
+<div id="app"></div>
+<script src="{js}"></script>
 <script>
-const models={json.dumps(models)}, cat={json.dumps([list(cat[a].values()) for a in accs])}, pts={json.dumps(pts)};
-const v=$3Dmol.createViewer("v",{{backgroundColor:"white"}});
-models.forEach((m,i)=>{{v.addModel(m,"pdb");
-  v.setStyle({{model:i}},{{cartoon:{{color:i==0?"#2F6DA8":"#b8bec6",opacity:i==0?1:0.7}}}});
-  if(cat[i].length) v.addStyle({{model:i,resi:cat[i]}},{{stick:{{colorscheme:i==0?"orangeCarbon":"whiteCarbon",radius:0.25}}}});}});
-let spheres=pts.map(p=>v.addSphere({{center:{{x:p[0],y:p[1],z:p[2]}},radius:0.5,color:"#D9731A",alpha:0.25}}));
-document.querySelectorAll("input[data-i]").forEach(b=>b.onchange=()=>{{const i=+b.dataset.i;
-  v.setStyle({{model:i}},b.checked?{{cartoon:{{color:i==0?"#2F6DA8":"#b8bec6",opacity:i==0?1:0.7}}}}:{{}});
-  if(b.checked&&cat[i].length)v.addStyle({{model:i,resi:cat[i]}},{{stick:{{colorscheme:i==0?"orangeCarbon":"whiteCarbon",radius:0.25}}}});v.render();}});
-document.getElementById("cav").onchange=e=>{{spheres.forEach(s=>v.removeShape(s));spheres=e.target.checked?pts.map(p=>v.addSphere({{center:{{x:p[0],y:p[1],z:p[2]}},radius:0.5,color:"#D9731A",alpha:0.25}})):[];v.render();}};
-v.zoomTo({{model:0}});v.render();
+const mvsj = {json.dumps(state)};
+molstar.Viewer.create('app', {{layoutIsExpanded: false, layoutShowControls: true, layoutShowRemoteState: false, layoutShowSequence: true, layoutShowLog: false,
+  layoutShowLeftPanel: false, viewportShowExpand: true, viewportShowSelectionMode: false, viewportShowAnimation: false, collapseRightPanel: true}})
+  .then(v => v.loadMvsData(mvsj, 'mvsj'));
 </script>
-<p style="font-size:13px;color:#555">Requires an internet connection for 3Dmol.js. Cavity points are the stage-5 grid cavity of the trimmed domain (a descriptor, not a binding-site calculation).</p>
+<p style="font-size:13px;color:#555">Viewer: Mol* {MOLSTAR_VERSION} (local copy if present in assets/, otherwise loaded from jsDelivr, which needs internet).</p>
 """
     p = out_dir / f"{g}_view.html"; p.write_text(html)
     return p
